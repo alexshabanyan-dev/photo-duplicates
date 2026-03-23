@@ -1,0 +1,89 @@
+/* Карточка-страница (разделы exact / uncertain) */
+.n-card.app-page {
+  overflow: hidden;
+  background: linear-gradient(
+    165deg,
+    rgba(24, 28, 40, 0.97) 0%,
+    rgba(18, 21, 30, 0.98) 48%,
+    rgba(16, 19, 28, 0.99) 100%
+  ) !important;
+}
+
+.n-card.app-page .n-card-header {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, transparent 100%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.055);
+}
+
+.n-card.app-page--exact {
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.4) inset,
+    0 0 0 1px rgba(52, 211, 192, 0.12),
+    0 20px 50px -18px rgba(0, 0, 0, 0.65),
+    0 0 80px -30px var(--accent-exact-dim);
+}
+
+.n-card.app-page--uncertain {
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.4) inset,
+    0 0 0 1px rgba(232, 184, 109, 0.1),
+    0 20px 50px -18px rgba(0, 0, 0, 0.65),
+    0 0 80px -30px var(--accent-uncertain-dim);
+}
+
+.app-page-card__header {
+  padding: 18px 24px 16px;
+}
+
+.app-page-card__header-row {
+  width: 100%;
+}
+
+.app-page-card__header-title {
+  flex-shrink: 0;
+}
+
+/* Мета справа от заголовка (напр. ExactMatchView) */
+.app-page-card__header-extra {
+  flex: 1 1 12rem;
+  min-width: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.app-page-card__header-extra .uncertain-meta-row {
+  justify-content: flex-end;
+}
+
+.app-page-card__header-extra .uncertain-meta__label {
+  font-size: 0.625rem;
+}
+
+.app-page-card__header-extra .uncertain-meta__code {
+  font-size: 0.75rem;
+}
+
+.app-page-card__body {
+  padding: 20px 24px 26px;
+}
+
+.n-avatar.app-page__avatar--exact {
+  background: linear-gradient(145deg, #34d3c0, #2eb8a8) !important;
+  box-shadow: 0 0 20px rgba(52, 211, 192, 0.35);
+}
+
+.n-avatar.app-page__avatar--uncertain {
+  background: linear-gradient(145deg, #e8b86d, #d4a55a) !important;
+  box-shadow: 0 0 20px rgba(232, 184, 109, 0.28);
+}
+
+.app-page__title {
+  margin: 0;
+  font-size: clamp(1.2rem, 2.8vw, 1.45rem);
+  letter-spacing: -0.035em;
+  line-height: 1.2;
+}
+
+.n-divider.app-page__divider:not(.n-divider--vertical) {
+  margin: 6px 0 4px;
+}

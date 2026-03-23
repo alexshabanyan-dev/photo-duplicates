@@ -1,0 +1,1991 @@
+[
+  {
+    "file_id": "becc536e7ede39d40c08336563d10e8b0700b3cb15b724dd4048ba17b5629d30",
+    "filename": "00000.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00000.MTS",
+    "sha256": "ae806e46556a57e7e5e1ef31980cee687c84cadf5ae467eef1d70f5816b4cdc5",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "33f0724d06ef3d8d827cbaa8ffc822b5501dcb4598f00dd8c9cb2457e1ca3ad5",
+    "filename": "00001.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00001.MTS",
+    "sha256": "a187d690df1fd98b84861f31100ef23909878dd7944fb17833d1790af7e5c4ec",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c04ca73aac641d340674540d41f36f26fff432c0b5dad92630b42ab4f97a584a",
+    "filename": "00002.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00002.MTS",
+    "sha256": "a481608f6fbcda43b21c06415176ee834b15e38638f03b314a275bc1261e2761",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "90d964a3c9659d2beea93590d84631bd77a843e043c87cac6e808c556cadca8c",
+    "filename": "00003.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00003.MTS",
+    "sha256": "8cd4970c936bfa0b59df6fb50a06ef6bc00d660cc8e22703d907bd43e321b75c",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "069f4f398e5f8246f2b01fccacd08e62ea90956b8b93d4815aff8ccd4d219b65",
+    "filename": "00004.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00004.MTS",
+    "sha256": "a6cd07a09c3fe2b17c88bdc8dd330f8989c9da7890ba7efb0b006b253d1b3102",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "89da28c0ee83a82eece29530e554cb7a7187ca449b76a3cb5cdf49f15149116d",
+    "filename": "00005.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00005.MTS",
+    "sha256": "dd0a95c425a70e36a3fc4b2593e36360a51401b0d5948ee103829d932d82e839",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "37a1ad9a0cb5737070fbccd6f29c71af1a0c0c9c12b5d5758d6d3c7d11ba49cd",
+    "filename": "00006.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00006.MTS",
+    "sha256": "006885a545f0e1ae85b059e39da81e1a09286727d206863ff569152c6f11bfd4",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3fba7aa5310dd0730b9069efdc7f9a6edf01ab05a416b7955bcc83521e18ee6c",
+    "filename": "00007.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00007.MTS",
+    "sha256": "09791d583b40ca88fcb4253298b6c65c6b97391e1b1076b38bbc15cbb4bb589b",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4c1958cab0222424ae52dc2814c730647fd6236beaecac9bd7278de1c43842fb",
+    "filename": "00008.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00008.MTS",
+    "sha256": "f10077610c0131f675ab1114bf2f188ca55f53ec48cdbd8217ec2859e614dac0",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "963f1deab8598a2b03a8a5fe56c620e3a8fe72924b702b0a84aae74517b9387f",
+    "filename": "00009.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00009.MTS",
+    "sha256": "9e99fabe88c982fed30bf2abca46998308e53f0e6081dd1b23267ffbbc25154d",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c985f6fce62e2efd275649f8876e95d7786c201bf7ca529a877b2257d2af12a9",
+    "filename": "00010.MTS",
+    "extension": ".mts",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/00010.MTS",
+    "sha256": "2fb0dfdf6e57d64fe39c866e50e5f30497a5b76cf906e2e6b3f7f7b6d3b99082",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "63c3c3620a0892c1183c7a4f532b221327d464c41155c4d8080d5bffb0905fc3",
+    "filename": "GOPR0774.MP4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/GOPR0774.MP4",
+    "sha256": "168c5f3d82407a367a44f5175fb5cb92c58ef2a45fc564a944aacd285fab06bc",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "63ceb968b1472cb972ee02ab22b5ae7a02013dbf39712cdf881582bc300bdb13",
+    "filename": "GOPR0775.MP4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/GOPR0775.MP4",
+    "sha256": "0c3ec0c4b273bd846d4d3597caa6af80b665c4d7e6ea0e316144d4f05a504c99",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "beae1bc06bc13b38c46343aa0f4cf35e251220088017997821c8a6082b14cfa7",
+    "filename": "GOPR0776.MP4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/GOPR0776.MP4",
+    "sha256": "adf55bd4d34299d8bb0a85ce4d0ed67a688e7144442e4ab610e27d38a55a6546",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3527c835303b60f367860a7818df87d90d3a634976c7aa041ceff2aa12aa26b6",
+    "filename": "GOPR0777.MP4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/видео/GOPR0777.MP4",
+    "sha256": "4f9a459422fa3c2f852b50e0debf52a8d9f140b2e39b4d634fa342bbd0d4f827",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "19899fe44741364ff757c16bdbc44bb307dac5ec316722ea07dd4933457f02de",
+    "filename": "G0010304.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010304.JPG",
+    "sha256": "17141ef363d808b5c9ef9cfb7933c13c6780b622aa32ad9a7ae347c46bea4894",
+    "phash": "959d89276b7a5215",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3ac3331649a2a83c095a7bbdbca8c4912ae822a11b5ea7ac203a47eba8a1caed",
+    "filename": "G0010306.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010306.JPG",
+    "sha256": "6a9f043d4b6c6d394c8ce8bc49653a37b81e4a505ed4884cfe1bda9a8dc550b2",
+    "phash": "95aacb63729c2d4a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "28e7375a73d06818e2b6497f6c3642b3b4fd12f14aa877bf07126ca9dd82cd69",
+    "filename": "G0010307.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010307.JPG",
+    "sha256": "61281c8ef0f3658b58b56e08cf71238a5c02f4d6ba10ee74df187bbcaee4ce2a",
+    "phash": "95ba8b6362d4ad0b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "557ce2ec7e2071342b91a3e0292c7db3848c5587a9be8f6e562cd66ff2fdbb6b",
+    "filename": "G0010308.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010308.JPG",
+    "sha256": "d17ab1ec5e4f880ed917ceb2cceea23697ca426e557b6f1a2ff8616dd307c6cf",
+    "phash": "95aa8b6362d4ad2b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4a4dd7eb29dca6177a79b5e1d030445a8be14f30a61be3be36648a209d6d55c8",
+    "filename": "G0010309.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010309.JPG",
+    "sha256": "0afae7630f9e5bf9e07b4267b5bb80a7506e3fe464a0c8b94e4b2a4beb259360",
+    "phash": "94aacb676294ad69",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6aee63a6a47ea5725c46451d926ab91ab9919bfcbffc6e69cd806189e3585b5c",
+    "filename": "G0010310.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010310.JPG",
+    "sha256": "2af83dbfb61e518ca2d4354a27b5ea0cf6192e793e914ddf282e2380e2c3caf7",
+    "phash": "94ba8b6762d4ad29",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "632a0bdf61f3c038eaa7e059a20cbf24f0c4c69d437738779cc71aeb2fefc8ed",
+    "filename": "G0010311.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0010311.JPG",
+    "sha256": "0dc6dccf75d06aec1c13f2309b85091521b36ef49f630875853f8b87a032f39f",
+    "phash": "b4ba8b476a5a5435",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5557dfd105e56c2ef12b2e459b740485b86ab557659118ab73722682fed59d4b",
+    "filename": "G0020312.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020312.JPG",
+    "sha256": "2a3cd466139f9d354057bf399f98d1c9cba5802ea7ff9fa1ca09001ad3962e59",
+    "phash": "bad5e0163528d6f8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d198824f1dc0fec98e3f4ed6dad6191a246cfb5e28a9ff954876ed48491fef62",
+    "filename": "G0020313.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020313.JPG",
+    "sha256": "b2dda1623fc9a25d192117fca077d9daaaff9d68ff943024d2c374a83550e64c",
+    "phash": "aad5e8c225a853fc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b5e0b883b9d64160c834d66cb20676aef57088ca861530ab06b776e0489b8b22",
+    "filename": "G0020314.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020314.JPG",
+    "sha256": "907df4f158348441a341dff5d9da72816215573712355aba3cd65fb7b359e0f6",
+    "phash": "aad4eb167da1d228",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ef9f5151108bb0b01fb804a4d22ece36a1aa72b3f8200139646a5798111d0ad2",
+    "filename": "G0020322.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020322.JPG",
+    "sha256": "1c9a690d6ff5e26f508223e9d11c76d9bde80df2046cf2685c7c16dc6a15b686",
+    "phash": "b2d1cc3e61e2d30d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6fc794b579f6648f2a7fecac52df6d60115cfa8c207b1b03a9a4fd4208680ae6",
+    "filename": "G0020323.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020323.JPG",
+    "sha256": "e07ba15470a4df6155842f66521838e3d277e6871aba398a1b8aac715a97f9a5",
+    "phash": "b2c5ce3e65b2550c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "67f2b440e4e4231235c58a0b4d84eaa4bfbb45f36f96a4a18e8908dedd6dac3c",
+    "filename": "G0020324.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020324.JPG",
+    "sha256": "6230518398cfee560e7ee48c2ebf8f5947d0b21382834b7f4e3db9ec04b65dc0",
+    "phash": "bad4ee1f64f2440c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e23563c301f23d463e847736cabc901b0766def74bc88fc2eed42c68c058db24",
+    "filename": "G0020325.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020325.JPG",
+    "sha256": "297927d2f31a956cca28025c3e65e5a300a70ec60fea62de386b758bf36de604",
+    "phash": "bad5ea1f64b2450c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9659c36e80095357aa78904dbf210fa9c0fcad7235cb9dfe30e47e92bee2ab74",
+    "filename": "G0020327.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020327.JPG",
+    "sha256": "40f48e869ff7af315378d6645ec231313f70f086b1e5187a8b109f252421e929",
+    "phash": "b4c7c24e87da4dd0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "bddb21bfb0735662cf8a0748fa2d5b29be90550b257e82ff6d48997933de0b7f",
+    "filename": "G0020328.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020328.JPG",
+    "sha256": "3da8d3f34c7e640af65f55b2a07809ee301fe14241b5798524657d13911e3a6e",
+    "phash": "e68dda7394624e94",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e85aa4ebb3a1887602eeac4fefcddaeda2326d2b70e979b4d3a6919489c648dd",
+    "filename": "G0020329.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020329.JPG",
+    "sha256": "a6f6e1f4f7d49949d5d7191d422dd047839f4b65ded49ebb38e30eca2ce82d10",
+    "phash": "8aa4496336ceb19f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a65cd5f7d3f9e5236aa19a7c41e77223b23a799fb168270bdfe11c5cc25ce697",
+    "filename": "G0020330.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020330.JPG",
+    "sha256": "b37fcdb684c72860ec5820883a5178b7b64da006459f493a0486e531bf7522b0",
+    "phash": "9b8c38c1279ae53b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4acd445de55e3f062cffcb09630dc9f35a8f5ab7963f06a11376ba1bca8b6651",
+    "filename": "G0020331.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020331.JPG",
+    "sha256": "1d13480528651102e5b5e9df435363ce66107ec5ab0342b353d4113feb460c80",
+    "phash": "929e3cc13cdb619c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a10f47a47c6f77589ed572bd1299539766b55ae16998ae2251de7a29bdac3650",
+    "filename": "G0020332.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020332.JPG",
+    "sha256": "045079a5f868c3dfade1763df344b8aa0e4fc8ce41841994bd79ed268799f420",
+    "phash": "938b6d8f6c833896",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f80b81154f6b5e9ddbadf0fe1cd17b718a1925fc4f3c0cc6fca74b5a4a0b5cc9",
+    "filename": "G0020333.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020333.JPG",
+    "sha256": "6accb1a43ee6dc14a43983b831273e401d4abfabb1e8d3b6d095ca0476cc7424",
+    "phash": "c3cd4d2c6d384d96",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "59ad1a1985bc2b8eb8e7deafc168f6d35b05acb51b3f15e8e77112c60fc84543",
+    "filename": "G0020334.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020334.JPG",
+    "sha256": "4a168f7057902ffd6675379750c2a1a7a26cf998c4c4dbafb73cf14979013aa4",
+    "phash": "c3c94d2d7c281cbe",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a8784f308d2b512ead6e1038ee37dfe4353009377a39e23f557109d8b03ae974",
+    "filename": "G0020335.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020335.JPG",
+    "sha256": "b6adcb93dbd159e30884e05291897f56ae545073037271e3c1dc0d2c41aa8201",
+    "phash": "97c80d6d6c79199c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "45fa8b38649f56b40a2151c0ef6b65dab5a8d527b8eaa73205c0e4ea996772ce",
+    "filename": "G0020336.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020336.JPG",
+    "sha256": "20be5fd2fbc83b66fa780a881398bd6584c10b8edf62eb1f806a9342687facd4",
+    "phash": "97c8696d683991bc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e3491e317541fcd3891fde35a5b2dd1075fc7ebaf37fc6055cc62cf2a56b3bad",
+    "filename": "G0020337.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020337.JPG",
+    "sha256": "b87956d6b30765bda1350ae59571e95f6efacb7f776b355449ebd0f644db6bb2",
+    "phash": "916a99976895966d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cbed42d00d71946e81dd8f3546aebece0f8be1d46cb259db83bef44814a9a899",
+    "filename": "G0020344.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020344.JPG",
+    "sha256": "ab146cca65a21279f835f56ac8f5ba61f57e95862812cb7b7a3c1a1ee29dfd83",
+    "phash": "f08f94d767248f41",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e64bcdd734250043a491aadcaffa1532ccf08ed90d6304e1718d20885f5c3078",
+    "filename": "G0020345.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020345.JPG",
+    "sha256": "928313d3a22fcec2b6c76dbf3079a57e8a1a0910c16adacb954024080094574c",
+    "phash": "f09f95cd6f24a340",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "dcc314dd7afbc47f9814ea7234a7bb9f503ee74ca9a84e0a44e70c709333e0fe",
+    "filename": "G0020346.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020346.JPG",
+    "sha256": "916d9e33ad1e4656fac42288846cdd884a992b8a15f42f2442b9b4a61ea19cc0",
+    "phash": "f09f9ceb2c06f340",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "94a49b26a97490bc32ff25734f1876f918deb143fae2c8d9aedadfef8f059d37",
+    "filename": "G0020347.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020347.JPG",
+    "sha256": "e191c1b37e37809be0db5e9cef5b076888c26e5621e7ff1aed7d9d72d77a2f14",
+    "phash": "b09fcd6b2c83d348",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "300c7b1dd79737dc38a66f18f357e019b22ae36d2ee845c8c897777944a90f05",
+    "filename": "G0020348.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020348.JPG",
+    "sha256": "8508ef48f86dbd6fa017b7b5eab7d2eb0bcfc336eefa151a79cfc9a8c8f2ffa4",
+    "phash": "b09bcd6e2c93d14c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4509ccac8911c8fce1f5abf13880ccee418bda971c17d1b91891e3fc0e2fa749",
+    "filename": "G0020349.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020349.JPG",
+    "sha256": "18524e66a5aea49e9832566670f895dc0364f9d466cecb4161b3d9cdb6be6a91",
+    "phash": "b09bcd6a2c87d24d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "58dd32182a8b139b7ff565bd289c980d1ab6e7691b20a301d89ba3b33d5204b4",
+    "filename": "G0020350.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020350.JPG",
+    "sha256": "da2b11eddfeedb017b17ed1528cb1cef8ca8f81ec8d3a35e3a20b864a029b7fa",
+    "phash": "b09bcd6a2e93d04d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1c6e6db3c435c0fef59ac3b076f0b758731b38fac322c7f545573ac8f6a6003a",
+    "filename": "G0020351.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020351.JPG",
+    "sha256": "43fd1b8416941a81d5eea74df7ad127ca5d466767e9134f2c68dfb06a20e34f7",
+    "phash": "f09bc56a2e92d13c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ab4d3284100c38244142832ecd3c4feb4385ae26f8f3da115b4c54450464f873",
+    "filename": "G0020352.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020352.JPG",
+    "sha256": "48093f3404261b93dfc96debe8e1fbcb4741db376be3c415e8272a7f49b63192",
+    "phash": "f09fc1680eb7c178",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6dbbe511cb3037b07e4776f951852463ebff219235db6cb25314cbd0c1da35f4",
+    "filename": "G0020353.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020353.JPG",
+    "sha256": "24f566a9c44a32ff0c50f3f09e06ee978cde31322667716fd91671dad86ad22e",
+    "phash": "f09fe56a0e91c178",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "84f0e6ccd84aff1d0c5f5924a760bfb4dc20a1d5b50178bb0ccb289dc748398a",
+    "filename": "G0020354.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020354.JPG",
+    "sha256": "7f0df8bd2867cb888e5bbf190eeae5d97dc42b2e9e6b86f0033afda4c3932cdb",
+    "phash": "f699c56a0ee190dc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "be1447619358e8adf92bca28c2140aa1789b90635b210c72bb0fbb91dee07480",
+    "filename": "G0020355.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020355.JPG",
+    "sha256": "6621aaa00b33abfc018f4bd7662d0d428fa8e34a1185f8a517177f1e5716b92e",
+    "phash": "969943c4fb0ef18c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4039de394ab68bfc3dcc7458bcf96d5ad10d73d3838c95aa1b549dcd0b989432",
+    "filename": "G0020356.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020356.JPG",
+    "sha256": "797cca764448e7531556b76dcb6ea356a14df89d9f7149206cafc44baf743f55",
+    "phash": "eccdb49996149966",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "dfd567f19275027658cd05de8e874fb4af26c40c415b3c708accdb93d4ed66ee",
+    "filename": "G0020357.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020357.JPG",
+    "sha256": "27a5ec3dcf35656630e9abf928d3ecb31418df33630321469640a59821af988f",
+    "phash": "e60d8973926c674e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8f0d014cf3b79c923c19c0fcda52a5d0f9e334218d9718780d49a7af1b74de7c",
+    "filename": "G0020358.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020358.JPG",
+    "sha256": "cfe5946ebf386a95670caf862cf9fc05a627755bad28b9b1a1af30b5dd76fdfc",
+    "phash": "f333845c8cb313b3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d9b6ab9d4c21bcc36fe2f1b81f570597605c257a7b68a8e254e9243367974e53",
+    "filename": "G0020359.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020359.JPG",
+    "sha256": "46c609c57c742d73618d97e92ded3c7cc28093eae257be1947056574ab2d892c",
+    "phash": "fb1bc43ec0378c4c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b29e983e36375098538a7e873323cfaf7ff155de2707434c73d79ea64bff669c",
+    "filename": "G0020360.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020360.JPG",
+    "sha256": "d5f02947540cafae373c9745371c0e63c46d3e617f69bde10efa1a6d71b96b1d",
+    "phash": "fa1f803f82778c68",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "298567614393d8b7076dcd3a9ccad4a304b530abd5b736856c7a61983b6a89da",
+    "filename": "G0020361.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020361.JPG",
+    "sha256": "d984030270129361c186b870b6291d317f3413c302c77a6e24dc701f0c42fced",
+    "phash": "e37e88e419c27b94",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c10fb8575e5c43548c0cc5cd966f716cbceeaebc600db165f8d83d5289295f93",
+    "filename": "G0020362.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020362.JPG",
+    "sha256": "395590ab42bac03ca6015b7337384f090dc5f3d27479b1c1466abc372210560c",
+    "phash": "b32e48ec3780eb4b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c7b39c4e13f1d1292f4f1062723120e76b28dc9ac21d612188b6fd7179e0cdee",
+    "filename": "G0020363.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020363.JPG",
+    "sha256": "1f1ce40702cc11cf71b2893bcb5d2ec24c13f149e482f4be259c3ceb9ab5cc54",
+    "phash": "b23f18cd341fa05b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0fadfd008ee930929b8f24983edac3fd6de32988b8e02ad700d94f18d924e25d",
+    "filename": "G0020364.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020364.JPG",
+    "sha256": "be0d5e146994e20a85fc6fea20abb86c7e5d083f1f4f0c654e4fe8429f4504b0",
+    "phash": "b23d12cd721da21f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ed811212466673ee4ac3c427f12fb501a2c7ed08ddd949b20b52fc4fce3f0b49",
+    "filename": "G0020365.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020365.JPG",
+    "sha256": "430944ecb30f12089bddca42f03ec398508d2fc2e3b6b1de5e3f73b3b6ffd469",
+    "phash": "a23d22dde01fc1b6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a1e083e00e81c30844a9d57b60925023f8dfd306d6cd21b1105d48e42e262f80",
+    "filename": "G0020366.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020366.JPG",
+    "sha256": "ae3fb2f58f5ce92935e39a34fad9d1ed49419aa258e9d9b0dc36f4c6ba6eb7ce",
+    "phash": "a23d6add6217e09c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5b7bc389daabc281b9967e609017008ff654d79dd8494234cba0ab0d1798b40a",
+    "filename": "G0020367.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020367.JPG",
+    "sha256": "9d08e07f3d2aa3aa6ec8d38e6e06a7cb3b26473270b9ce45a8ab4710cad5c70b",
+    "phash": "f26e18cc771ca4d8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2a7ded78a7f0c0b5ace78859543d0cbfb35af0410c805bd8c1ce94946ed1d6c2",
+    "filename": "G0020368.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020368.JPG",
+    "sha256": "c291954b34849e2bbcdc9cc44b47d403c1c818088c172d23112c39d1f38f0a7a",
+    "phash": "a33e64dae43a4ca6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "de576170c5386c57f773e78729c2ae72047dc10093779da2e483380837c0c7b3",
+    "filename": "G0020369.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020369.JPG",
+    "sha256": "b4b7f9cb6dc24160bf5bf0821b6abc1660168b8befe299ce4409c9190ea96546",
+    "phash": "a13e25dae5324db4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3b82fa2775b6f4b6a252615b1a9c0eaa5b918d5455c259316cb4da1a2785549c",
+    "filename": "G0020370.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020370.JPG",
+    "sha256": "4a9f6cebd6c0655e8d7c2a1027c9abf2fca2800164d45b2d95de323deeb07a3a",
+    "phash": "a33e25d8e7528db0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "21f2d94bf4c9c26b8f4dcf25dae092580e8e7943e54641e431f65785d7a073cf",
+    "filename": "G0020371.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020371.JPG",
+    "sha256": "f3d02ad6aac414f87b2b689771458be6c425d509f79cd1293c8aaafd34e55243",
+    "phash": "f36e3188e5722dd0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e99c002492a25c2f157a24620a79f14b6ca49bbb40279d3d57688d93418c1f51",
+    "filename": "G0020372.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020372.JPG",
+    "sha256": "7837ebd6c81b673655e1da42176b95d4608ec6c3357a18226eacead9f766e8b3",
+    "phash": "f16e35c8e51b84d2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "833db97d7e3fc44a64edae20a16eae172e2935aa812e6b222bfc060b68e329be",
+    "filename": "G0020373.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020373.JPG",
+    "sha256": "6e4d00169e8683012af741550f1efaf73c216b1db425014dc367bedf3d716e0e",
+    "phash": "b33e08cd731ca437",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3fc66578be287f9819e9c040968be09b763d73cd75fa38350ca549023e1e8f4c",
+    "filename": "G0020374.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020374.JPG",
+    "sha256": "9a82e1c4373c198c965901936955a505955b259ad95b6f7d5b7abd4917fbe125",
+    "phash": "f16e1d88733b84d8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4f3814afe2ef85f0530ee4a5d12da7fbb1d4c638076b43ad238f20f7af9d4add",
+    "filename": "G0020375.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020375.JPG",
+    "sha256": "c00222fead460bf323138e38d03dacc99d6a41d0fe94c51af9e5269a5dbfbc0d",
+    "phash": "b12e0dcc731b84de",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "03bd942eeae4a5641f541c337cc5917d7a2f84ad4dba5b0272be5e092f33394c",
+    "filename": "G0020376.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020376.JPG",
+    "sha256": "ccac78f48bfffad12f4e0c065dd0753e8b5b67ac068b2aad59e58197f3d5662a",
+    "phash": "b32e4ccc731ca44f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e5c20b2c521e27c41598eb0cbfbfb0876874b33c9405da8f5da13bb8504b0d50",
+    "filename": "G0020377.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020377.JPG",
+    "sha256": "9bfac15c9e6c2793942b15283f4100f68ba3c99acaaadd0729f99afabe66e986",
+    "phash": "b12e4cf3338cfb08",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "43a3d9a914ada1c1fb7e15e93229d65f4fabeac8e5421fc271cc14d3acc0c19b",
+    "filename": "G0020378.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020378.JPG",
+    "sha256": "96eb19abd04838de7dcfee1d49cf16c98fc5128b548ec7899e07665f643d95a5",
+    "phash": "b30ccc731cc372dc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ce71eb66b637e0490e20e88520fa14ba4ab4059753ad666e3b1cfd3310ba9210",
+    "filename": "G0020379.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020379.JPG",
+    "sha256": "7f728e8e8550d5e50ba78cf0fa311a6a83b1635fda520f88840e271901487ce3",
+    "phash": "f30cc3328de31c8f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "fabf33cbbc11272e003ec2b3307ef49d4ccd1884258b5479cbcc1b8a698fbc4d",
+    "filename": "G0020380.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020380.JPG",
+    "sha256": "e739f228c8e6f9d58b5f5af7772fcdf4f827ea33b64bd76861bc018d4d11ad06",
+    "phash": "b30cce331ce36cd2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6141c1558a8ade405de0db86905d833d350c71b90e18a9c4508787b336883299",
+    "filename": "G0020381.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020381.JPG",
+    "sha256": "ed62f99ccd499b960a53a62a4df49a866392a77572904abcff9e44cbd75ec5b0",
+    "phash": "e7198ce71887639c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "072f09f4a61a0a4cef770fc019eded2c8eaa03107ce1c341eab4f5e3a883a84c",
+    "filename": "G0020382.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020382.JPG",
+    "sha256": "e4dfede74329e096b29f8ab3921879ba2af1a816a0db459edfb43c768d26e150",
+    "phash": "e71886731ca77887",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d1864d2622fb5d375bff2fe690ef6c7540463603ad4853520b0e7007c41dd2b7",
+    "filename": "G0020383.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020383.JPG",
+    "sha256": "916ec29ef5942b1a0fbf78d872a83cfc003dc66691c7f3289e01755d55bb8756",
+    "phash": "e31c837996789c63",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "85a8d5215de3b32ebc78c175afd661234b4766bd3a2fd6bd9007601b1c2a54a7",
+    "filename": "G0020384.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020384.JPG",
+    "sha256": "5bf61602276388ecf1396d263b1417f344a058fed16612632ed1e80cd7b4931c",
+    "phash": "e318a779827996e1",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4394c75acffae573df9596d818cba565b59ebc9d609f1a424f19aed3fdd94254",
+    "filename": "G0020385.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020385.JPG",
+    "sha256": "d610fa453d28cae9012e8b188491dcbf5d58575090180a815285263cf92e81dd",
+    "phash": "e618a379827996e5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a0bca77287520b48cb0069af184725283c609d7d5b90876f6880820083a825bc",
+    "filename": "G0020386.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020386.JPG",
+    "sha256": "90cb3647e490a6b93eec853fe1bd8693840ff9b387f124c502b4fe56af412051",
+    "phash": "e619c677986499a6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0e7c862e215f82d9dbdb13bae167bbbf7ff3248cd91a1d712bc1b031ded55e25",
+    "filename": "G0020387.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020387.JPG",
+    "sha256": "6676a55322f4c99e93d18322f59c4ece1a692d6fa20422892f54c1320363a6ab",
+    "phash": "e619867799661b86",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ee33d5795537212edc2a771b59e2609701e466de1d94efbe3261c12ae331bef8",
+    "filename": "G0020388.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020388.JPG",
+    "sha256": "282d26b9e11b83ba3c100ed2dff18243fc78b4279ae11f92976d30ac70253020",
+    "phash": "e61b9866398c669b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "015a1d8c5b95edfb733267272a9e3c70c237b4e619a536816126664388a52dcc",
+    "filename": "G0020389.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020389.JPG",
+    "sha256": "58ff56d82844877bc4cab6ad275c9d3068329ee0a50ba847994829197804d7f4",
+    "phash": "e4571a2563d66939",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "edfc8dd0ee7e1807f99eb38f0c864b29749428a8a6b2f4e2d93b4a31ecdeafb8",
+    "filename": "G0020390.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020390.JPG",
+    "sha256": "9d393bd788928ca3e84bdc174e0ecd7ead763a8db9fad1d79277ab22644e9173",
+    "phash": "e49c9b656e142e69",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b352767bca76d74f9f554f8b4f515fae243d8b17a3d84cad4dee4d3d47fd747b",
+    "filename": "G0020391.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020391.JPG",
+    "sha256": "5033848a1704b1aee5decb7aced7d6dd054207b40d57c98b57b85f2a69e2292b",
+    "phash": "ee819865e69b99a4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2d48ebaac54bc89d2dfbff6611aec7247a3b60cac20c32af904c856c513638cd",
+    "filename": "G0020392.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020392.JPG",
+    "sha256": "fd3ad2e65493d9d56fd98313cc2c6b3ed6a4fb1aecaedc23e01e507cc2d9b32f",
+    "phash": "e6d619662a99a86d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "62e4f5402238b2e8dbd3ad8d7cf7ec15c6ad1fe67e977c5ea434d7aed1caa45a",
+    "filename": "G0020393.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020393.JPG",
+    "sha256": "0db60336c57282c2a2e3c3d914f8831dec796fe70276cb2d2e368b04cf08bdb9",
+    "phash": "e7ca1c2633d8a473",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6e8d8bdf9b74e613553e19551eda328ca3574a78332d6762cc8baa7f5167567d",
+    "filename": "G0020394.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020394.JPG",
+    "sha256": "d0a3a3ca184f7997fc2167571c7f3d56e4a87f2a814923792d176cb2c4a7e3fc",
+    "phash": "f2d7c8cd2633898c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "81746031d2d4ce680cd5a87b58e419e17f9ff71d9040bffaa703b61dbf63df4a",
+    "filename": "G0020395.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020395.JPG",
+    "sha256": "849e3f05a847e4030b9695a2dc90d54f756fe7be27834d367ada104bd59e6748",
+    "phash": "b2c6c88c3337cc9d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8281d3b742f628582dcfcf43601907fe8ec220bf96c04236b72761ddef9f887c",
+    "filename": "G0020396.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020396.JPG",
+    "sha256": "b75681e3c93a302dc8295664b28c7da3db6f34e830d286b5ed96e2e83d1891bd",
+    "phash": "a684d9f966649999",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6158433747f37006c1f0c79f24af1279b38679278f16585156ea4a8153e1d762",
+    "filename": "G0020397.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020397.JPG",
+    "sha256": "334f16100e021fa6ae4c4e130ac34acf03acd592ed52e9826d2aa8c3ea6d2533",
+    "phash": "a690d9f066e4999b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0a3cdb37f7ab221c3a8f234350f7872196c5f7f017b4da491aee36dd7050c787",
+    "filename": "G0020398.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020398.JPG",
+    "sha256": "4c1df7226a00af49b7693f4ec05a551fe46e6f79e1554aaabe7f578e7bc37c4a",
+    "phash": "a696ddc136069f31",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d40ae2ae1db56688b3946020d3b5c8486a295bf18b9b29e5e279e9417100c7a2",
+    "filename": "G0020399.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020399.JPG",
+    "sha256": "fb0c9d48df14cb3e87f22517e38dbf6ae0360ae60ad14803f5b0ec4a1f97a0df",
+    "phash": "b289cd36328d783b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b443a55a1f69ba778c201a779edd80abe15d2b90640b5fe0d3fc6874427f55ca",
+    "filename": "G0020400.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020400.JPG",
+    "sha256": "e633d7b5e7a46ca351b068d69ef02cc9a2632c1d5b705a168b07c264d821480b",
+    "phash": "bbc04e3241c738fb",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "770aeb3c3cddee67e8ae6b4da631308d3e2e2d964ae680ae1d5dae4c12ad6d51",
+    "filename": "G0020401.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020401.JPG",
+    "sha256": "105103e9dba248d9d2c82575d0fdf9447cfa85679c9c894146c3ce88a5a4fd18",
+    "phash": "b923c42e3fc5f806",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f214bb2caaba5e38e48e8484fa603e577213918a9ce954d0d1511569af395ae7",
+    "filename": "G0020402.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020402.JPG",
+    "sha256": "d23d45aed371885ee58684239871e4d8545c1f2e29d4b448b4e1a788bddf9b34",
+    "phash": "bb26c03b3fc118e6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f91a30c0c27f6125deb1d1ebf8831719d2993aa7105b18428f2b320fcc914997",
+    "filename": "G0020403.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020403.JPG",
+    "sha256": "868bb6af13e1cc4f4f1f22787e44449bae8d40d76ea870ff89f52d027ccc417a",
+    "phash": "bb04cd302719f6c7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2d196fa5f05529b40316a1b88c8bd2fc22ea366b5ca648f42b3105cb93f215e1",
+    "filename": "G0020404.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020404.JPG",
+    "sha256": "1aaa2e616cc894cc55a0710b4690fba86ae2c2702e45c4b16b2d4c1bb68c8e6f",
+    "phash": "b10fcc360f31e44f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1f4f5c92211c2d18eb580791b823f2b37304e2412b01f9bba5d66ecc0145a4b1",
+    "filename": "G0020405.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020405.JPG",
+    "sha256": "e98616a794030c2662f6cb9984e4cd4b03ae656cc23bd5f0ba3c84e70fa409df",
+    "phash": "b34fc43c9f024ce3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "713eae1295e49f88e86c882700ecce0d6a7d6b4c0f232a9b78248aa5cc6f540f",
+    "filename": "G0020406.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020406.JPG",
+    "sha256": "82492989d9d74a18efeb341cbafd5b8a527618900959e4384fccc479ed4b6d93",
+    "phash": "a35b8075ec373c49",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ca1ff86220bff7f1116db412d100b2bec5d2c334d0d7e1068f1ed1986df74ac6",
+    "filename": "G0020407.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020407.JPG",
+    "sha256": "4ee70e1dc39722013a44f03ab920e96e5298eec4eafac8e72b2e3820224800e5",
+    "phash": "b371cc071feab015",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f519163316031ce2f088901b5078331fed8d260ec1ffdd9fb54ab343a2fd527b",
+    "filename": "G0020408.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020408.JPG",
+    "sha256": "e3d7bf53c5bb32a9391bfcfb005954b457db15c76f22ad211981a1e6878ce6be",
+    "phash": "a37b0c077c6893f2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0c706403cc085521c3a22e545c6d7943037ea5d2ec59761c50da934d95fb8581",
+    "filename": "G0020409.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020409.JPG",
+    "sha256": "78175a9821757064da2b4cd30a48faa23497edcd251b69a45fb851b08912f52c",
+    "phash": "b17b4c477c8c9362",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f60e4223db1254853b2a7c7ebb3652da9a9058705e10a230028b3f83bfe9d535",
+    "filename": "G0020410.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020410.JPG",
+    "sha256": "19a9add9907c2c2c71cb7f2f407ea1667ff2f58ae6de1097c13fff14d4745b28",
+    "phash": "b9004f373cc9334f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "213d689dafc5e1bc74cb9f0009fef113977a4134c582b654905427bed6ed3edb",
+    "filename": "G0020411.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020411.JPG",
+    "sha256": "6d474fd1d7268d0f26b6d93daa188e62f996e89bbfb65079290ebb4b24efab1f",
+    "phash": "b30d4e363ce361c9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "34b9c070167039af2a337ea65754cb299f3aa5db4f85b9f2914b37a6f7570c67",
+    "filename": "G0020412.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020412.JPG",
+    "sha256": "3a390f8c553fd57cc45090e2b2457773bbfff71827c3650e7615fa93acf5ffb3",
+    "phash": "e6181e65794b6596",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d849224243681767474e64748b52ab6a081e98b30061e67fc92d1297f499a44c",
+    "filename": "G0020413.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020413.JPG",
+    "sha256": "c0e49071ff471970f1433de0435e0675e19f96e34dcb91dd3c446b5bac5fa264",
+    "phash": "e7189e65594eb990",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "11222ffe49f2099c4037718d0b7539f5e674b99622dae967e5b9727c6ad26c42",
+    "filename": "G0020414.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020414.JPG",
+    "sha256": "fdc89cc3da28182be4c925ab406f3e9d4dfbc4ad6795f470aacfa1fd0ffeb931",
+    "phash": "e7189d677a8ea190",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f6ab48fbaa7a939b7b531f45256bce742e0297277fee07bbc2b782c1a4524905",
+    "filename": "G0020415.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020415.JPG",
+    "sha256": "3d7f493299fdc3a85c4af5f61d1e638db94b0d401160309656d9c37b0ead19e7",
+    "phash": "e71a9c655b0e2798",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1ea5b3f7715a5a94f69444f67b47a3e771647f3a2efb1c21ad3df118a00879de",
+    "filename": "G0020416.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020416.JPG",
+    "sha256": "12ae1bf224377f8a2e397e296a646ce6e0f6e1c66dbd8d9a3c4675d662bdfe85",
+    "phash": "e6198f641847b99e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e9a32358bc0279daa3ee2fe89dd35cf47ed72f838a8b5b05dec8566191156eff",
+    "filename": "G0020417.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020417.JPG",
+    "sha256": "eeecbc98c9a5364836f468e918f7cd7cd130b2a76d3014f3a90ccaba572bfddd",
+    "phash": "e7188c3419c7b99e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6fa191bd7e16e6b6a03577732e00addd0dee85f7495f2c7ef8fbf92c40ee0229",
+    "filename": "G0020418.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020418.JPG",
+    "sha256": "a841a5fb0c8f1902f4cc07ed0951b0327c885fb3af633d8f259aedf1d9f4581b",
+    "phash": "e619cc7419e639d2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5fe0882c9a57045ed579574b69d817da397cd19ee62cba3b298bf9baa3cf349f",
+    "filename": "G0020419.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020419.JPG",
+    "sha256": "82c3e17332617adbfa448de7db83a2702e00f1fe28f6cf54114aa9224dca37ef",
+    "phash": "e619887699e63b98",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "056c66cacaad963db487309025d88ca7d146889846b45b52885f7a0d259c4c84",
+    "filename": "G0020420.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020420.JPG",
+    "sha256": "8b33eda9bee612429d729728165d0acd29e8aa530229fb08d1ca42387629c93a",
+    "phash": "f60cc97399e61398",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "354260788df44ed5f0ca6affbe53706e0b4c3febc64274765056868168456550",
+    "filename": "G0020421.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020421.JPG",
+    "sha256": "1c3f11aab3eee86de5e3b5d02e9eeeafadb7daef498e67655d1734516aa91038",
+    "phash": "f31c8c731d8c638d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "478f27aa82a6712b449ebb8a03087038ceda7df7f9c85a852128477749e956cc",
+    "filename": "G0020422.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020422.JPG",
+    "sha256": "078bf044dbf9199d4b8ed454e2c5485ad30f10394b20d9cd469b10318437738d",
+    "phash": "b30dcc731c9d334c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d14c77b4bb27e6df73286be0a408a659b07ae763e2869a37bea5a5253c1635ab",
+    "filename": "G0020423.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020423.JPG",
+    "sha256": "50b9a2203976f6e844dcce58042eb4ce2891300d9506230513b2527b6b01525a",
+    "phash": "f7198c66199634d9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9f0d8212976bf240720725fa09fe7fd116ea80591b4cdabeab2f93d878df0371",
+    "filename": "G0020424.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020424.JPG",
+    "sha256": "ac0ab0bfcb23af7367b18b969b72bc327cc4498b65e541136d6cba0210589caa",
+    "phash": "e6191e6768de6119",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4e4eb9139abfcea0486db4deee1dc32ed9fafaa3de20f5a18e2e68d61b57ec50",
+    "filename": "G0020425.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020425.JPG",
+    "sha256": "facfb990795c8e249d1ecfb36233ed754f37782a8528d49071807ab957936240",
+    "phash": "e4181b6394f7599c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "793f85dbbd456fa139b92f1db429149926b2c5bce706d5b78847739f3bfbc068",
+    "filename": "G0020426.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020426.JPG",
+    "sha256": "c863bfdf242d1268390e9b781991b60a92c57632eff3ab9a7efde8334aea9a6a",
+    "phash": "a65e196723946b59",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "10332cdfec883dccf145068304dfd862c85bf739c600cd99bcf8c4dac921c44b",
+    "filename": "G0020427.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020427.JPG",
+    "sha256": "a708df504e8173b8fbde640a5fa63e4f68098e666ce8f1681b50f4ccf9986399",
+    "phash": "a55a19e625d807f9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5237b62599c16e2bfef56e0ffe440482c707350de2fa41b6e285916cf957549f",
+    "filename": "G0020428.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020428.JPG",
+    "sha256": "2ff29bc7f6c7f32d8b2c4217e5be85827823c09ddbe8c90a7833bb8b82ab2e98",
+    "phash": "a75e19e627d88649",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5b45eed8eb2201b4c99db7aa1f18540a144cb849030cc7c257da3b04c3a46c74",
+    "filename": "G0020429.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020429.JPG",
+    "sha256": "6cb55f1ede05a48c0016b4075b33774da0dbba3c5c1783819c9e0cfa43952cb9",
+    "phash": "a65419e46799ce27",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "fc6cad7549d2fb814284670abcd050ab4a962f1d6226387df5e56cef6a3ab819",
+    "filename": "G0020430.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020430.JPG",
+    "sha256": "c4f950be0da45dcf37f38317510771f273e34368c1ea90799f9c910e5970a372",
+    "phash": "a65619f46719dc07",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "849ea35907a4db37759aa7e7049da87153b3e207e4c0ae1cdc5e78b3419696a4",
+    "filename": "G0020431.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020431.JPG",
+    "sha256": "c82efb651009effcd9df321a5f5436807b18f0ea9009ba57e1eb8abb8a25460d",
+    "phash": "e61f1a651adc2bb0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "50b20861477bed6b167e393a87c6a143f0c3b471614c814889ab51ec180e47aa",
+    "filename": "G0020432.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020432.JPG",
+    "sha256": "17f1810bf3a803dcf04430c9bb7a77205a6c543c66b9ddf118a198cd00914994",
+    "phash": "e45b986790cf12b5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "dce658d781f3efdc1c84d16867a077ae5ab864370ce48d9ef1dc72b8a6a0b11c",
+    "filename": "G0020433.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020433.JPG",
+    "sha256": "9c299fe2b39ff9e87f7cab7fbb077fa977f4028dbb5eae3d51cd487db934c5fb",
+    "phash": "e67b986572846c99",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "136e4e4904967e0878bf34aaa94b4a5337a0a00fa7f5f90cd0e186168791901d",
+    "filename": "G0020434.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020434.JPG",
+    "sha256": "11fbc1af8e960f5e6476a625c7f0838b97bdafcdb0e8973ac5a6e62e36e77d49",
+    "phash": "e47b9867309c6c93",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "578080c7b804114bc9700572c7254b3b131419f682cef1913622800347054950",
+    "filename": "G0020435.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020435.JPG",
+    "sha256": "816cfa88baf9a2cb12c38ab06623e38c7812e40559a444a1bed9f47711470da6",
+    "phash": "e45b9a6710cd699a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "fce3782a783bdaec296ee2287ed0f4b9aa1952ab4afb451a110e6cc9c49fa2c6",
+    "filename": "G0020436.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020436.JPG",
+    "sha256": "d75992d54d5623cf7108cfa8018e41962213f989605291b1b53871df3bd635a3",
+    "phash": "e65b986710ee4b94",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b0b6f6eaa8d5355ec2ed51fdd20edac9fc07f3d3fb644958994c62b31f9e6b3d",
+    "filename": "G0020437.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020437.JPG",
+    "sha256": "4c11680af790100367993ac98652c28c6a074517e0dd4d367c392533a06faef4",
+    "phash": "e45b1c6711ee0bd4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cf2c0becf89a6e03613f91dea939e32f1001ab3eb7ece5a57fa716fe4b7f91dd",
+    "filename": "G0020438.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020438.JPG",
+    "sha256": "2f04188ea6450b5d67f54943188eb28c27e9d8e1114cf0bd55ca487d6596cc4c",
+    "phash": "e45b986710ed4b9a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0919aa17116d6afccf8ac3d64c6b66c1d65735ab78ff9b2b0ead1a82becb2ab2",
+    "filename": "G0020439.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020439.JPG",
+    "sha256": "fcc768ab70ae7f2d7bbf045e46ec328a7f5126a3cea448e432ee504322acb0cc",
+    "phash": "e65a1966399e24d9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "36d363f89158b309f0c18e932b1874a79998880cf7a1893a6fd2e01cc057a106",
+    "filename": "G0020440.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020440.JPG",
+    "sha256": "b1222ddfa6321d0670bbacc8ebd91976afbb9db7b5f38377719e7149d622ba8a",
+    "phash": "a67a19e621d9a63c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2fa3cea981b236150ddd34300104669031493f23abf5482df6606a29e815526d",
+    "filename": "G0020441.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020441.JPG",
+    "sha256": "7dda4334706392ecdb8d94abf5deff32586988c80bc10e2e34c68e821614f46f",
+    "phash": "a65a19e66399e625",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "67d14e7a1f5010ea5eed444d8cd2643c0a478187259fb5028b502eb4f22253d3",
+    "filename": "G0020442.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020442.JPG",
+    "sha256": "2b3ea004279ecb0d4663d80092303cc3a39a01447848edc06b96a075834ad963",
+    "phash": "a67019b56609de67",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "72e6013056ea827b462eae1a4527e09b352b6833c75ee970b170b63ff1ba7172",
+    "filename": "G0020443.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020443.JPG",
+    "sha256": "c433e008fb85b2d26b7fffcb8a01011bb316ad96ce98e34610066dfc5d49ec52",
+    "phash": "a6e11821b6fa19fc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "966581a9a3c619f9c0f92eb50b8d4fd1a4cb59273c283348c02f9f96afd99811",
+    "filename": "G0020444.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020444.JPG",
+    "sha256": "df9bcd99221e75b06c9763c4d163f75c29fdfa13d947abf542f20752b88e317e",
+    "phash": "a6e11829a7dc0bfc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4ed29833eddb617c8f75fc87a9345311d936c3b58daf6fd03073315083a6d97d",
+    "filename": "G0020445.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020445.JPG",
+    "sha256": "967890c7d04afc7139bd9b16b121bbf55b2787189ed572fbbe8eb99613f2cc88",
+    "phash": "b6e31922a65a0bf5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "fb410df3c5458afa260096fc9e159951c6c96fab6bf29e36a7c6f6fcdc97d06b",
+    "filename": "G0020446.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020446.JPG",
+    "sha256": "9cc49999f4ac541bdeddd3002d3c449bf2c92cdebbf434936b7020d56058bdf1",
+    "phash": "b6eb19a6455a9562",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0a8580158918e5c3274711d6c3c93baa3acdcb8a7478fe5173ca43989292dcac",
+    "filename": "G0020447.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020447.JPG",
+    "sha256": "6f431115d138eac78e4df94cb4bece1d31697aa24f40a8713a565b7fe2449818",
+    "phash": "b6ee1978a6b24938",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1bd3fb6b11dca033bc617b31232efbb9984cb2d7e8f2ec2ddb04ead55564e885",
+    "filename": "G0020448.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020448.JPG",
+    "sha256": "034bcede877c9f4ac8c7dadf6186542e5e6ebb49f576f86b91e72cc3c4979b06",
+    "phash": "96f01f72cd90433d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0939cc77b3f5e2ca50b16d6f38f82782d79a49949c91bcf901b64a80f5dd45e1",
+    "filename": "G0020449.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020449.JPG",
+    "sha256": "eb8e0711bf6484ad3f83a555d347fb4effa3f330bd0debc7815d50d00dc7665c",
+    "phash": "96f15f32c9b44329",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "71cb5b01d421731d61d555e2701d5e23baf28b1d67c2c2d4a7bc4674c16b9b1f",
+    "filename": "G0020450.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020450.JPG",
+    "sha256": "e4921dde192c09e7584d0b4ea2560d78ffdd6fc91a3172d32a094260d928519f",
+    "phash": "a7d23de2bd4442b4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ce23bd3f337db1c86cc56299ea152d423f46e53346ce04ca1a445baff288c1b6",
+    "filename": "G0020451.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020451.JPG",
+    "sha256": "609600340fd181bf0d977ef46eeda0fa377df8258b9c2547884cb32830729cec",
+    "phash": "e7704db628569965",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3157e0ad5f58e115503b1b9e375aa860bdcfe2b3031703886b4e89842b1d285b",
+    "filename": "G0020452.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020452.JPG",
+    "sha256": "8b868ee8a827243f8a5e785a704e6fe26fb04e5fc8fd15dc8a2bb1e25a3a1156",
+    "phash": "e37d4abe50ac6894",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "83b88430a88cd69ee5abce3e75a18fb75bd7b90314653a2bfb926336fdca3c5d",
+    "filename": "G0020453.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020453.JPG",
+    "sha256": "da62741ba7af770b27415b29c1512c6af991ad01e41a3beb88e825b8a4ce6179",
+    "phash": "e7658a46d5a94ab4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "75ba27c6d080920cdf552b86fb72986a93e7234334ab3632015be01204fef908",
+    "filename": "G0020454.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020454.JPG",
+    "sha256": "5d4060993de5ee354f688a9d902124f0aa51a832a683ffc87cf1b70d429c81d1",
+    "phash": "e76b8e46d42a54a5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "105b1bac683cdbec7248fe8fc55e1833e2504706378760d70fec45ec494a98e8",
+    "filename": "G0020455.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020455.JPG",
+    "sha256": "3d03d2845d1ef2f1c940e19a43770a849f8d37532d4bf015dfd879320f95c9b8",
+    "phash": "e66f8854a56a956a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "851929ab9efa7d6f3cd4c28b627b23cd33fad8708f09a9243f60d1c1c4f79ff1",
+    "filename": "G0020456.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020456.JPG",
+    "sha256": "0663ca3e02ed9ee9f2bc076808ce49816f0fd5a9dc2f478f16734a7bba49262e",
+    "phash": "e66f8855866a54ad",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "460f4a0ad0aad7e83769dcbeca59967a15ef84338476243cfb6e09e3765aa62b",
+    "filename": "G0020457.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020457.JPG",
+    "sha256": "f42d76913374ea2d1198a018f55de8b4d29bef92a15efca1e2e14f557c396f5a",
+    "phash": "cdb863c1929e9d15",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "48fa4cddfa1972c45139e289f10ea288ded0f669401f2f1a3e173c518a7efcba",
+    "filename": "G0020458.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020458.JPG",
+    "sha256": "0ab93b6d6650a503c9fda4a27a2e95d9b87db84fbf98b39638ccf23e2d1e9d54",
+    "phash": "c59fbe333f4d0500",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1a145302e4568082cfd0f3e934d6672c6aeda90e74a7cd66eb2c369e3f8aa757",
+    "filename": "G0020459.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020459.JPG",
+    "sha256": "c1c58bb342d1e40b8335a19ee2aa3e8a764f63c642bad11ff7ef27ac2ea8f7c6",
+    "phash": "e28e9e93133143fc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ec74277257f7d78f804f215491e0b9a4901a291e91645b24ea6781b3cd505dc8",
+    "filename": "G0020460.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020460.JPG",
+    "sha256": "acf635dd3c11d68b86f37521c0e1fdbcc693cee17b6a850b98b8b8e2da7f36c9",
+    "phash": "e28e9e0339a1cd4f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1f4cf8406e794c80b823b631b6f9d1ed84d3276f936c6f41eb2d48f69c463aa5",
+    "filename": "G0020461.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020461.JPG",
+    "sha256": "88f48ebf6d710537a96208581f4257346aa1fc43f7effec5840660988ceb50d5",
+    "phash": "e08e8b11f5e55e52",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f77547b2b80816aea93f7908030d4881054baea5d225df50b631845a4796b234",
+    "filename": "G0020462.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020462.JPG",
+    "sha256": "a00dee6d14351bf9fc326a7b19d6493d68413b294829f6301f854cb45b2517eb",
+    "phash": "cbbdd00b2dd2324d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "91c8bea3e4a0a49d6a0b2b1fee75885845a525d28ec2859220d10e696310d158",
+    "filename": "G0020463.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020463.JPG",
+    "sha256": "8818c7da27d1557c80f364b5787db3a26d52901273844a0c630fb5aa384a616d",
+    "phash": "f62274e3bd508dd0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "133aa9e365d8d4cb82f515db2ff9ead33207ba9d1fa80d8c62c15e5f5d498ac2",
+    "filename": "G0020464.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020464.JPG",
+    "sha256": "5e9cc7b00600516d003d219392de7d7de80134797cea347afa0231dd475915e1",
+    "phash": "b4a4548bd99b956a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6fa28f65e11e970c8c0be12f5c15c010a51a455d2c1163a2754c071da4f8393a",
+    "filename": "G0020465.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020465.JPG",
+    "sha256": "3929962333162bf75bfa1303b2cee6e0890a7d59481b99aed0d536ddef51c492",
+    "phash": "b6271a93988d4eb9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1a8212862aafa8d1b2a06cd92bdbe02cbca9a2c076d8f3bb0c19f2a6066aa9f9",
+    "filename": "G0020466.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020466.JPG",
+    "sha256": "46bd3c4f8dfa17dbd3125cf293d456f4ca05b6289e8285a05138e7104d7af111",
+    "phash": "ac2d5c92929b5de8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1864c6c0d3d7bf339ea186fbf0e94d9a7c58f6fbbdb3afcdedcfcf10002cdde7",
+    "filename": "G0020467.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020467.JPG",
+    "sha256": "a902fb35910032fe642743e8dd59c648011a737da1b817c263c626438d0110df",
+    "phash": "a9a197908f9a9bd8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9e140c7386de8f2954c9c9747520da40edec558d6b9720576c4bb2022f6ab3be",
+    "filename": "G0020468.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020468.JPG",
+    "sha256": "1affe57f20299b3aa21016ffdd50064aaaea07e79914e506d12884c4bea26d90",
+    "phash": "fc2196874fb09f60",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a5a5e3ba0d5cd9a0bf3134d955fcd192e1c49733cc2e0084de828f989b3c3ec4",
+    "filename": "G0020469.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020469.JPG",
+    "sha256": "a14c7057ab220e2a87c60848749e997942515ad97a023e5beb6825ad536a8f4a",
+    "phash": "a23f89c3e030cfe6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a2d1a1db4badaa613c6b9fe4f8d28efe9e153e72d77cee0e77c2a62799fc7cc6",
+    "filename": "G0020470.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020470.JPG",
+    "sha256": "9baf50246241ee963fdffb142e25d97b5204aaf4d2971e7ea959084a7ff91041",
+    "phash": "b77fc8e0fc0419c4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "264bbc540bb530b2797901a0734cf670ffd72ea48ea213915b62b2260d921144",
+    "filename": "G0020471.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020471.JPG",
+    "sha256": "4141d1e794796c3e541514f8100196394994d04e59b04cfc862be38a5a54ac30",
+    "phash": "e1e0df86b8385791",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9be4d340f84069cd64600ed6437717f920f690bc4b69bca7e7b92bcad6c8a633",
+    "filename": "G0020472.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020472.JPG",
+    "sha256": "9a03e6288642895e2bdf2489df118e93843fc105a0094a2109675777bad5791f",
+    "phash": "98f8393c23636667",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "db288e2f9d621e3e8ab3e56aac5cfeabd56a4583619ecc29599fe33ad8d4e46c",
+    "filename": "G0020473.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020473.JPG",
+    "sha256": "e401248c266fcbf6f70be26a06a89513450892f3c234e7ef4126712a9c136b81",
+    "phash": "baa6cfc9f02660b1",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "44f526ca246f8a9e01ecbb731ff756e012b9e45e2126ee6cb807ed66adb77f2b",
+    "filename": "G0020474.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020474.JPG",
+    "sha256": "d8296350ad4faad0dfaeb53ba99d99f47b0780cd48db88a38bc0bae721a1e2af",
+    "phash": "dab1e50e19f40de8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f3bc0de2cd24af72b0c762cc7b594d6b792be62ad78c21e29ad032e310374fb4",
+    "filename": "G0020475.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020475.JPG",
+    "sha256": "344cec8028c8f05c0b198ed796aa97d21e585b15ff5fa6dba6c4849ab86ca2dd",
+    "phash": "d8f54f18f74d3204",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ba4157b5b04e02f6aa2da8fd40c1005361f7703129138e46607fc30d9938c262",
+    "filename": "G0020476.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020476.JPG",
+    "sha256": "1e52e415256ae706b3070793bebf900405964f8b4dfa61ca36a4c07e3ca0599c",
+    "phash": "f775d52a529423c2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "731af6db8cae371a0dded5c8266e9389bd90f87df668b20cdeb69421679c6aa3",
+    "filename": "G0020477.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020477.JPG",
+    "sha256": "0a15201d0a1221d19501d62a4a76634e3563c1433fc3c051a6eb172c32ed795c",
+    "phash": "fef883c1003f903f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "78c1da2331b6babec32d5701afece80745bf86e4a41607489a7a22e23c5cb30f",
+    "filename": "G0020478.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020478.JPG",
+    "sha256": "9efba645d5f1b3a2dbb36d191ce4b3fc6867a41b7df9421f28831a6c5a102f0a",
+    "phash": "fc7818383be107e3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1dd07ba973119d4240cb8935c7cc492ee01a12bac742d53457ea04de0f646f6e",
+    "filename": "G0020479.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020479.JPG",
+    "sha256": "f42eb54c8236073d3b5f215d47fac18e0ef5efef0f6940ba291fe48bc29c72e5",
+    "phash": "e28fbd70430cdcd1",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f931a520da808aff06b96f7415327e9fe3d3a251b6a541ce4356afa4725fa27d",
+    "filename": "G0020480.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020480.JPG",
+    "sha256": "542aa87e545cf579675eda9e4200c1bb3350f49ff66dab8e46c9d9136b7baab8",
+    "phash": "e08fbf70438cd853",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "298555a3dcbd2fe75251aaffd0fba15ef1e21e0e1fb346211997b00e0ae061f5",
+    "filename": "G0020481.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020481.JPG",
+    "sha256": "c8abfc8d402556e5efbcb792b906930a1d04a3af4c0153cc45d9319c4aecb67a",
+    "phash": "e2829ddd78e2e22c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "35febf69563635ef9b2f113a50609e4b9e6cf360cc0611a63fd636ba9e8e7d25",
+    "filename": "G0020482.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020482.JPG",
+    "sha256": "be462c6e04494d46415ebf310d7c4eb5bc1bce7638c33f9e335c7f8c97f5b212",
+    "phash": "e2828d9fd93ae2e0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5ecad9f0e7be02f0484a7507a12ef5ab64cba91d2326aed7ebfd0087181641cc",
+    "filename": "G0020483.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020483.JPG",
+    "sha256": "e5acc5f0ff89ad2dc6bd8d51575807a14694f3bad1a66598d8ef0ed0f40305d2",
+    "phash": "e286bfb971462c8c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7edb3b6ae2e78f48f6352247e9e455eb2294871b9e35efc52ebdb1c810444a31",
+    "filename": "G0020484.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020484.JPG",
+    "sha256": "a67cf286e3a9b78736b400551e23a6aa5d4d13cfaebdf65e78ada7972ffe9625",
+    "phash": "e08e9fb9014774ec",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "88427391348981b82b5899edfeea4f5bcf9cba04ee192661c777a48343ec6402",
+    "filename": "G0020485.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020485.JPG",
+    "sha256": "65258e72075722cfe0d81bc68c12902338f4be183e90a9e3312ca02ae53da2b9",
+    "phash": "e2829ffd70632c8c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "78c41f025cf39496cd441500fde6cef2c19482b52f01d5908376f93b098f347a",
+    "filename": "G0020486.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020486.JPG",
+    "sha256": "21b869bc99ad1d529f10ad55fe87f286677e047abc50363c9d8d7fec47631169",
+    "phash": "e2829fbd51432cec",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "187ef27fb6dc03eb819b2c8e13e6d549cae95a52008f6d5ed747ef8d5dc8eef4",
+    "filename": "G0020487.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020487.JPG",
+    "sha256": "1ce49fb8db1ceefceeb723b78f9fedd7c3729856eea802fd669da78428992168",
+    "phash": "e2829fbd596124e6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "294dcb4371bd13f714815108f80dd8517731b31702ffd64bfea1f91e41b210e3",
+    "filename": "G0020488.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0020488.JPG",
+    "sha256": "acfe7fc677c287e1366ed421a01f7e82f25dcb98c8014febbcf6becfb832932c",
+    "phash": "f2828dbd515027e7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1f23b8c4524a5e8951764c9d44e5f67c9a345ef952556dc0090d6022a1e3d0af",
+    "filename": "G0030489.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030489.JPG",
+    "sha256": "eb596dd1628f5dbed8ee66da24db50bee1e3ea9f4fa9f9975b965a40eb692ef2",
+    "phash": "9292b07025adbc7f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "38455479fadf1168d0fe01811567a1a49beaf861970bf5db742bd5c74ad73e6e",
+    "filename": "G0030490.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030490.JPG",
+    "sha256": "4a08398e1e55c59d3601d517d59bf327a648537061f5f6adfa089dd731e8c66a",
+    "phash": "9292fa7024a5bd3d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ce70b09dfac07db5f2e067102923289feed0176705169264d7a21d5daf1f671b",
+    "filename": "G0030491.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030491.JPG",
+    "sha256": "6e05eca80387dc4a6c752d2998a6c1f40898fde2c20bac325e8f9ed1964bbefa",
+    "phash": "9692f0612dbd7872",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "01bc9532f5fa05365ce1f3f9344af5b01402f6a2185b843c4cdf4d04f6a6af5b",
+    "filename": "G0030492.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030492.JPG",
+    "sha256": "20d230d2e094a8ff9408fb785eb6ac66229eb8749e0a4271af53ffdf0cd28eff",
+    "phash": "9696e0612dafe970",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ff2520f6e37b62b125e832e3f6be33263f14ef9e05af0de6d4beacdd062d2608",
+    "filename": "G0030493.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030493.JPG",
+    "sha256": "0e883865480e5c0cf6e22962c7d2bd013b6968c7eac98d44d6318750cfe57e99",
+    "phash": "9696c0402bafafe9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7da40d31ff289a210bc24e61194c15b5832fe4d5bf90899a0694c00ee2a6f5ba",
+    "filename": "G0030494.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030494.JPG",
+    "sha256": "53e65abf439adf01f21b41470d775ae9ca466147fc747df2a04d21868b26553f",
+    "phash": "949487474b98b9eb",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ede782e6dda5f890e0aa1ffa3c2decddaede0d4eaa7ca14d7e4a29430805799a",
+    "filename": "G0030495.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030495.JPG",
+    "sha256": "51dd1debbc0506b133495be41e9260bef4abd9d5dedfebbaea275bb69cb6cd9b",
+    "phash": "b49487c7475c989d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "216bb6f07b8cca8f00716963a1f9bf7df882b55efceb3e1c2c6620ca276f2baa",
+    "filename": "G0030496.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030496.JPG",
+    "sha256": "e71d37f46d6375c9d31ec2452c93af8af2487d30992c32ec3d6e300855c0848b",
+    "phash": "b4b4a5e747468c9c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "549546e4239799598f6ec7df79614defcaf6dda84700226f12085b8d3c86e407",
+    "filename": "G0030497.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030497.JPG",
+    "sha256": "52e8269bdce5672e2d5b9bafdb314a5af2704a205c2cc9eee8d53f744d63c554",
+    "phash": "b8b8bcb425676664",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "abd6a2e0f8eb2adf6f47a2e4738e34b19f5d8fa6c04e5419f326cbc941331c71",
+    "filename": "G0030498.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030498.JPG",
+    "sha256": "d9fe3f1e51bdb87f3fd860a667c863b78dcbb3496d03b1107e2ec1e81d6ef54d",
+    "phash": "bcbcb4a6676070e4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4f7cdafca434930172598771fbc8ecfd588e55bf8742162efbf6cc830620dc1d",
+    "filename": "G0030499.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030499.JPG",
+    "sha256": "a6272a1d5d10c315c54eb6068e5f94eb86a59cf67ca9dc8136c67e1013bd2255",
+    "phash": "9f9f9f8782407078",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1e57ef39fb9a898f3ee7c0fe9d6fd9dccfaeefc433291ef233854b0f52211498",
+    "filename": "G0030500.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030500.JPG",
+    "sha256": "3111174311814ab563cd18fb677fcf99ff0e2f8da8a71b4b224be03908e7b694",
+    "phash": "888c8c86d377774e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "29ca1ed854f5cdbb969d5fbfd43f71970782f8d476c73e96fa2709d1636ba1e0",
+    "filename": "G0030501.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030501.JPG",
+    "sha256": "3b835eb60b29596e4a60278e17098b7ba44725e198ca9570801ff8f19b7e847f",
+    "phash": "98989c8d87475e7c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e82cb701511ad971e71569ad1a008227d3a9f12bc55df0d25a27c66dd6400227",
+    "filename": "G0030502.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030502.JPG",
+    "sha256": "53ab4d9ef0d9682b2d1fefef0d430eaedd22c2f87fbf7a97e394da26e0d9de4e",
+    "phash": "b3b39384868e4e5e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5658bbd5810143cac67a8b53d7a204d890b4b7aadac3853dd8437603f9f3794a",
+    "filename": "G0030503.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030503.JPG",
+    "sha256": "7b2fa4640c2a11a576d3d3df55d0528de74dbdcbc6e1a51c691aec44b1c29d6a",
+    "phash": "a6a6a68687d3c9c9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2fe974b592034425ec4a5c7009bdba96ba6506dde4d56e307c600ab89350e1df",
+    "filename": "G0030504.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030504.JPG",
+    "sha256": "23c392e19793838c2c3361ee6625f4f929b2a084364e995e9d270e42f9a87b5b",
+    "phash": "a9ad8d859392d27a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0661619ddf95ba8cee8030ad1dffa36611f0d57b1172989bb6bc51088f416eca",
+    "filename": "G0030505.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030505.JPG",
+    "sha256": "2331aecce9b1b0aefcc1ad551bcfe466942bd2d2a80f7fae019d264751ddf95a",
+    "phash": "ab8b89819696567e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "13c8a205f5e28558ccf63fdd758480930daa931bf72e9c646925c2ea971eae53",
+    "filename": "G0030506.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030506.JPG",
+    "sha256": "1dd17d487a20d02e072427fddf43b9c457d1046e820203bd4b00613a0922b8ff",
+    "phash": "aa8a8e8a87859df5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "58d03f7ae80ff9dde248b7196d12b43190ede147af4c91c6442aefbb64a22a21",
+    "filename": "G0030507.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030507.JPG",
+    "sha256": "0cd63379eac15522e7edb2eb3a741c12e1d634be15b686ccfa661e9ba8b203ac",
+    "phash": "b69e9e9ebe880861",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3d7282c1dfd46b5dba1f2de1331107501d2344229b83a06027fef7777bab3121",
+    "filename": "G0030514.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0030514.JPG",
+    "sha256": "ac7b3c3f9e0ae2dd9cacccc9ade393bfb309e10648e570280171a7d086549b20",
+    "phash": "f6f6d69410949c99",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "00c5aea9999b8b2226ecd5f96ade88c8b410e641378e01f884b595e4ae4ecc20",
+    "filename": "G0040515.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040515.JPG",
+    "sha256": "5706db33ceb6f091047d700aad90959794f7fa956f0a5f3e9363c03bed80a7a4",
+    "phash": "b9a9e565474bc981",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "553a41b971af804295e3bd5ca659519255772b28c9fa0a06ce32e6544c617158",
+    "filename": "G0040516.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040516.JPG",
+    "sha256": "6aec4ce045dcdae8ff2b8ff0fdc844a432ee68ebf68d475381d53d86c3a46d47",
+    "phash": "a9a9ed67474b8990",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2766e306162715e4bcb406575c324b2dadbd92a35dc5e6212c7dcbf389f956a5",
+    "filename": "G0040517.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040517.JPG",
+    "sha256": "5a5a2e6d492211868e30814a4311ff9af7a601a2a8e2ad182dc9bf905f7cce99",
+    "phash": "acad676181d2da3a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ddbbdcbb68dcd3a6adace966543de2188550a0620d539add67c6210ccfefb273",
+    "filename": "G0040518.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040518.JPG",
+    "sha256": "61bc47541741f0f61a026ba382a4e23dac9e7618714a8fd8adff26b9e47d2df2",
+    "phash": "acfc732282d3b83c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "dba940b2bab0d3f470175d33c7d5057792a079f00f743145bb61365bc61bd95d",
+    "filename": "G0040519.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040519.JPG",
+    "sha256": "6039e1e8c38ae90a6c9ab1112699d18aff6ab30633c79a97eed215e6b0bf7a23",
+    "phash": "adf972b693833418",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ec8bf0c4a63559b0855f135d8362ba2745ebfe434214f181f38f05a5a42dd017",
+    "filename": "G0040520.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040520.JPG",
+    "sha256": "4bac12eeb52985181b9fbd5270fa3a71005735df71b90c7b84d4a4e269f84143",
+    "phash": "aded6f2d83c2b014",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "743a9fa4abd6b04a7869f9e101f317cba2aeb92e85f962ef9975da22328ae113",
+    "filename": "G0040521.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040521.JPG",
+    "sha256": "51c664f2906c6045706732237860b7f6819f5c881414512fa1d43d74abe00326",
+    "phash": "aded6f2d83c2a034",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8f59dc43dad14c5530e04c0d3bb24d693bbbf5dd157564065aca8571c8c9de4f",
+    "filename": "G0040522.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0040522.JPG",
+    "sha256": "648e5a0581a06d2edc880b0ef7a80d925bcd645effdeca10bb012c53b02613b4",
+    "phash": "aded632393d2b414",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e54701c30c40ad0ae98d6c866baf730eb72b3b453ed413d1fedc2a89d202c59f",
+    "filename": "G0050523.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050523.JPG",
+    "sha256": "4fd8ba7d3c2f99373bc5cfb540064b371bb6a8293709c5e600ef0976748168d1",
+    "phash": "b2cfe849624bba8a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f7c0ccf15ca83889a1d1c2534f017c8955cfd3a671988c22bbbaff5c6c0dbab7",
+    "filename": "G0050524.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050524.JPG",
+    "sha256": "56d9ecebb6a94459e7bf638d9809440a112fe1642c755b0fc3a6e2b1684c5d86",
+    "phash": "b2cad903b28d696b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5d907461d928de84195d54ac6d6ada6aaaab823b309725f0e733f141782e1bce",
+    "filename": "G0050525.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050525.JPG",
+    "sha256": "e9180eef5b0c0ad1b20f6f8a48d28efe64a8ac1b76412f34b6041008c231e48e",
+    "phash": "bacad9033285d17b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "98decb0e13ded79184ab60aa57f47ad4870bc1eaf3566f217d36e10b915da6dd",
+    "filename": "G0050526.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050526.JPG",
+    "sha256": "b2218d1295fce89341555b66433e70fa582ddeb4da44de42457f55809e7e30b8",
+    "phash": "bacaf9433285d079",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "574f31d0fdf28dc9ec9904b55cf75d12293f27bf8c077a6474d8aca0de3c640d",
+    "filename": "G0050527.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050527.JPG",
+    "sha256": "da51ffb9427bf7bb50076d7be7c14426c661ecb5e530409618166e6f19b2142a",
+    "phash": "b2caf9433285d0f9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7e411801e3b7686451a050000d74518ead770c66ad91aef9eea29e962dead05a",
+    "filename": "G0050528.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050528.JPG",
+    "sha256": "b49484c3b398837aca5724eacd67f4091ae35cd2d33edcafbf1e717a8332881b",
+    "phash": "b2caf843339780dd",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "47a2e13b328fcee259b0f5317672b94efb0f8c76ca8099f91996c7a62434b9d3",
+    "filename": "G0050529.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050529.JPG",
+    "sha256": "71dc3b8c535bbedfc144d8e1836b2458ce453f7e88f53ac7acf79135e9d9631e",
+    "phash": "b2caf843329790dd",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e64b70b3d2e7a96eb821950aa378d2640038a4a175e206cb7e4aa38022dc2727",
+    "filename": "G0050530.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Прыжок с парашютом/фото/G0050530.JPG",
+    "sha256": "068fd0a297bf50888a39295de8c6b495007e9ed004ef95841a0c91cfaee340c2",
+    "phash": "b2cdfc496341e2e8",
+    "hamming_threshold": 8
+  }
+]

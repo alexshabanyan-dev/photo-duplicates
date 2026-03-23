@@ -1,0 +1,308 @@
+[
+  {
+    "file_id": "f8ad4f3cccf57e134087b8c1935c99860c2a25fb7cdf321c15fe85472d4da6c0",
+    "filename": "PC130350.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130350.JPG",
+    "sha256": "503bf866b8e40a55cf31f86c264e6c81ea7366b3226b76bcce11f25fdc164a61",
+    "phash": "b31b33875852e24f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "656978eee56dbf66e2084b6dc7053fccac8924779b30dee070c7479124cc10a8",
+    "filename": "PC130351.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130351.JPG",
+    "sha256": "b9af2e16690be0495e7336d4bd78aaa616a457dff8185511c25737eca1c6a867",
+    "phash": "e60470dec1876ff0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ea40be1647fdd800654b21c57f15dbe8630b5c9b07e8abbab13ce05c1e616800",
+    "filename": "PC130352.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130352.JPG",
+    "sha256": "303f18cd2911fbe6c440ea172ed53cf73cfd9b5bf4564896652c659ff029611d",
+    "phash": "a55a5ac7b8b12d46",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1a410036fe9b87784bdcb56a2997310e081b2b22507401ab3f31fe8f3d8c0051",
+    "filename": "PC130353.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130353.JPG",
+    "sha256": "3d9175caf6a1a2a3f6c7f544b6aa0baae125da722fbd4cac2e77e75225b870da",
+    "phash": "eb3774e92710d446",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e007e7c80e3b3696ba7d24a89b6d8d62ba9deaa9c3e88c5c88329c2d095bd40c",
+    "filename": "PC130354.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130354.JPG",
+    "sha256": "f1a3fc7f33fb75cca36b8f026fa640f18b828a54c04ec7ec8654c508bcbca9bf",
+    "phash": "f714483b91c7ccb1",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5f3793f566a2f2558691267a2fbf7b6f7dae5ce7e32b2bade9e949a8cbd6daa6",
+    "filename": "PC130355.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130355.JPG",
+    "sha256": "276b389e98e5566be0a3a20120d68013286d34421e4d5fe69d06d37000695495",
+    "phash": "f41235fa90bd8636",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f1809eab35d0a7f22a57b5955f8da0d65119a120541afbd5311c01823ce2d4ef",
+    "filename": "PC130356.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130356.JPG",
+    "sha256": "384175a900a753ba9abeb30dcfcf02173d1408c2549d4ee227214ce68ae98458",
+    "phash": "a996c232c4aa1f7d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1264db765a2eceb81a212bd3f00c96d316e0798319b49c794d3f31048621216b",
+    "filename": "PC130357.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130357.JPG",
+    "sha256": "62104db6ce88b6a6fcc65d6aee1d90148e15bb050ef1fef7581e0a264db6b701",
+    "phash": "b6cdc31ac4e41a37",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "06252aaf551372745cc9fc5e27ccd0d1d08c641743fb1e90bd836a50028a9eda",
+    "filename": "PC130358.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130358.JPG",
+    "sha256": "c0c2026f7cb025a7e8409ed9dc5f5e459915cbad26bbb4d6bdcb68886fb94152",
+    "phash": "b480b61bdb9249be",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b2edc7db97e94e3bd1c0c0315064f18549a9590446bf7061ba8bebf99d9eabaf",
+    "filename": "PC130359.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130359.JPG",
+    "sha256": "49200e8fca6175ec796d31e543cbd15e4a851e2bb66baacb83b369add56773a4",
+    "phash": "c7d9620e4dae4d2c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3b695c54ee99edddd3e09561d2b4546db2512d61b616f88dc4d1aaae9128a71c",
+    "filename": "PC130360.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130360.JPG",
+    "sha256": "1d338220a435ee7e0233aea2796a49572420887f83de8e02a045b43506e084bc",
+    "phash": "ff0d69acd43a48c4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "de6f870e9a1671ab50883ab36a8558e4befb6ceb6c631fe9b6bdfd1cc26e6b4f",
+    "filename": "PC130361.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130361.JPG",
+    "sha256": "376df7cf82bf92db8825e3b9f5bbed5e5b00595ad0180c89da92b824803e6762",
+    "phash": "d6298bb6cc3906cb",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5f9b732ceb6ef1cadf0142855bcbcd4db1c526cc2654e85709997bb2f2edd2c6",
+    "filename": "PC130362.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130362.JPG",
+    "sha256": "96e65b862bf181aeb5fa2f014c2fd3b4978511fc1855488cf0eb3e2ee7d95a40",
+    "phash": "812f9ecc85979ad8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "30373ebdd6172c83e407ba9721dfd52e1c66b2769511ded8193e831de5850c9f",
+    "filename": "PC130363.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130363.JPG",
+    "sha256": "ad91302023942449f5b90783e427560454dd8bf831d1eaa5b1b30334a4422da0",
+    "phash": "952a228fc499eb75",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c3cc255d9111973539f15c793ae18f35aceda77dffbcb3931a9514df50601a98",
+    "filename": "PC130364.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130364.JPG",
+    "sha256": "11062e1d26b6f02543ee3a2cad2f1e81e03df024f3a2c17e7ccf8113cc9c5150",
+    "phash": "930c1e6bc68b1fa6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d20cad50de5240276ec71b6ed6c3430eceb78397625401c0c0cadf450e2425cc",
+    "filename": "PC130365.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130365.JPG",
+    "sha256": "bf031931312d3fb633243c4173dba0271ccca2ed40efa718b8fb63ee31030437",
+    "phash": "cf0cdce20211b9ef",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3e6aa412e5bac30724150f57c14381fce2c30c284271fa7d238783e5c39acae0",
+    "filename": "PC130366.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130366.JPG",
+    "sha256": "6dcbb7771f366690945609f2ed35617cbd6ae9e4ecca82dcfeadd0b2fec20b01",
+    "phash": "dec14365f1f08e0b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b49b8392a957aa89c225e5bd12e659b227fc1c1e92b1f9c9a206e1e946165003",
+    "filename": "PC130367.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130367.JPG",
+    "sha256": "ed56d1e7a494d3d06026dc792cbcf8275c5b706feff8012553beb4ae081576ce",
+    "phash": "9e9dec38c826f11c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "84af0a20c28ceb0737cd6e2fc80cc19d6398432b0d4800037a499605396c0a6c",
+    "filename": "PC130368.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130368.JPG",
+    "sha256": "8f369bd615d4b377c962803e295fe486579b7347d15475e7735b81a966551cb9",
+    "phash": "9d9eec22c30c97d1",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "aa8e34c101c9ddbbb2cca594a262d68a9cd6a0c0f1449870b81cf7af2f092ad8",
+    "filename": "PC130369.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130369.JPG",
+    "sha256": "e31fc988ca943d89eaf853b69f0ca261e749acbaa38372aae78bc4a75cce0e3f",
+    "phash": "859cdda63b426e4c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d2efccd19ff3603dee5065f34bf57cc8f7db64bf4f0f84a640903d2d2f54acd3",
+    "filename": "PC130370.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130370.JPG",
+    "sha256": "528ec87cde3387f88df108031fddc99ffb7bc7ed46ec35297b7b984d29dafe7e",
+    "phash": "bce4e7b650499a16",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "40580dbc9dd5454ebbd78c1fb734128e35549a23dfd5c391ed5e84ca89b4e8e8",
+    "filename": "PC130371.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130371.JPG",
+    "sha256": "093107eda47da5c9d9f7ce1c13a8bf734c08f9596adc6b0e36c303423322ca2b",
+    "phash": "858283b39c6f3576",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "42937c05841dcb7a9dbc459e42cdd95d11c2c9a99de71a2d135f6e5e754149bb",
+    "filename": "PC130372.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130372.JPG",
+    "sha256": "9a4cb986e46b4eeab65b173a072f0978b70c91c07e8c021095269c5a625a5a12",
+    "phash": "b0e7c7a6b14d381a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0ef8861010bb97041a6f76e0e0d4ebb5ef8b3d22dd8be2ac7121dadcaa838006",
+    "filename": "PC130373.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130373.JPG",
+    "sha256": "4933c512f6bb614c9551ab39e0a07b4b84b90c22d1283b4a9cf84f3719761648",
+    "phash": "b3e6d58a314c8b9a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e729c266bb8d34bfc7b7d20e4ca8b1317b582b27b1b1394607f73f1c0dbfbfab",
+    "filename": "PC130374.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130374.JPG",
+    "sha256": "48934af660a2282352995a3961e2fce683c13985b1958f095a5a455a3097e547",
+    "phash": "90e4d9d6131d5b2e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2b988c240ca5fa645d24c1e465826c36502638cd3da77b619912f375beb2c6c9",
+    "filename": "PC130375.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130375.JPG",
+    "sha256": "3faac650b334e1baafde303cb940ecc5b874d136c779d547d3de0bb16fd6b74e",
+    "phash": "bdc0f685b66f8842",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3e206f93251993ceb709da50923f6683d869bf0ef5cbe1031341b596270a6a32",
+    "filename": "PC130376.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130376.JPG",
+    "sha256": "a1670e073503065dd3e75325ceb6c7628a932bed9d159881d9aa89bb4ea75a9f",
+    "phash": "add4d26582758de2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2d86dc05727ed78c4ea97b7332846359fb1556bcadae5c60e670087d2872bb30",
+    "filename": "PC130377.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130377.JPG",
+    "sha256": "fe39890861e7efb6a47ac90970ac0c251c4793a5765880d66d4af6c5c088d736",
+    "phash": "a5e2d2758665996a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f2d854a4e156fe11fac545fcf44b616d64d091ae5db8cad16e7c0d4d90f7a769",
+    "filename": "PC130378.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130378.JPG",
+    "sha256": "03a4ff9dc9b577c4d5ee38363b6aa2573ef4dea96e48fb2c7187c66cc278c5ae",
+    "phash": "b2fd1398e89289ce",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ae0ba0e05f73f78574fcd6de2df7e41619f55c7c6059bd4c937d3d06d7699795",
+    "filename": "PC130379.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130379.JPG",
+    "sha256": "4c50dbc43071ce18bc7a6fd0997d32fff4b5b46b0f8b589489ff9ee6e8225e08",
+    "phash": "86f55493f8e18c87",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "13667bd7195a951365ddf58e25ba2796dd868ec91d98c397861bbed1b641814c",
+    "filename": "PC130380.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130380.JPG",
+    "sha256": "67bf378217bf177f9c971ffb62c9656346964d369f0fb5dde70bc9f31f5c8970",
+    "phash": "cbb018e7fb9588c8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6687b9bfde80ec331074073a5a7eb649b07ab0c9ce460173e64ca48824b92c8e",
+    "filename": "PC130381.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130381.JPG",
+    "sha256": "b6fd3ced27cb795aa7ec0b5357a40beb2b463f5f6c824447cf32c8db4a286da8",
+    "phash": "fe034c98b754c569",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1dae0220f7b1d97a9231284d26a72db06dc1fa07d33fcac365b87aae349cbb36",
+    "filename": "PC130382.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130382.JPG",
+    "sha256": "be2a3b6d530b70139cc871816d4431b0403a2479641a3e8ba601933b0ce4355c",
+    "phash": "96a70a8dc670397e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cce2f0f4172604d59105d2b222b2b7a5c65516121553eee076eb535a51173edc",
+    "filename": "PC130383.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Элина/PC130383.JPG",
+    "sha256": "fbe9bab97b4cdf302026a4b3e4e19f515c9c65b389066f363c23852878d29fc0",
+    "phash": "b2dc7083e3f89e82",
+    "hamming_threshold": 8
+  }
+]

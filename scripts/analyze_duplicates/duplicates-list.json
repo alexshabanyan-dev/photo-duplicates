@@ -1,0 +1,2825 @@
+{
+  "source_index": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/files-list.json",
+  "generated_at": "2026-03-21T21:53:52.231461+00:00",
+  "index_entry_count": 1052,
+  "skipped_missing_files": 0,
+  "index_paths_rewritten_to_storage": 0,
+  "file_count": 1052,
+  "exact_duplicates_group_count": 14,
+  "near_duplicates_pair_count": 107,
+  "exact_duplicates": [
+    {
+      "uid": "7d07f7484ab3ca7305a8277b41ea880df7ce2eaca8b95ea8ce4fc3edb7c3976d",
+      "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+      "count": 5,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 2.jpg'",
+      "processed": true,
+      "files": [
+        {
+          "file_id": "e31cbf2ddb256eae48797eacda0f88e0aa3c0327e7d410d86350501d8865fb15",
+          "filename": "DSC0789.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789.jpg",
+          "phash": "c13f36d8e0303d6e"
+        },
+        {
+          "file_id": "d73f4f4fbd1a8e4fddb91d2ee6f498ec6b6ff56cbbfd8bd6f740562a2234dd45",
+          "filename": "DSC0789 — копия 2.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 2.jpg",
+          "phash": "c13f36d8e0303d6e"
+        },
+        {
+          "file_id": "c39347b0598bd3e3f16587a712177e6d498ce30d9042caf96bdfcde76c5b9012",
+          "filename": "DSC0789 — копия 3.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 3.jpg",
+          "phash": "c13f36d8e0303d6e"
+        },
+        {
+          "file_id": "07837d5132757878e8a82a27cdc146935b93225b3702610ec05b7dff548890a5",
+          "filename": "DSC0789 — копия 4.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 4.jpg",
+          "phash": "c13f36d8e0303d6e"
+        },
+        {
+          "file_id": "40d6d53a0434941b825fa85a987a1d4d5846025a4c6b82d4757933f093284fc6",
+          "filename": "DSC0789 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия.jpg",
+          "phash": "c13f36d8e0303d6e"
+        }
+      ]
+    },
+    {
+      "uid": "426f738d4d29bee6a5a97f022073e40e49a3edcb63c7ca84e79c73abd05a6b83",
+      "sha256": "c9b3bd4be47c4e9118e09e62401efd90aa6d03b659df82851756357fcbd4f03e",
+      "count": 3,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08544.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08544 — копия 2.jpg'",
+      "processed": true,
+      "files": [
+        {
+          "file_id": "4c45dbde19b70d45843e473a14fb7089c965babe4fc708a2597e2b44213b59b2",
+          "filename": "DSC08544.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08544.jpg",
+          "phash": "a96167c6973e6644"
+        },
+        {
+          "file_id": "a204deb99cddbe7a1bbfec8bea424585161332337b405c36ef40dd4670ceaf94",
+          "filename": "DSC08544 — копия 2.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08544 — копия 2.jpg",
+          "phash": "a96167c6973e6644"
+        },
+        {
+          "file_id": "b3cf555a3ccefd99a0023bae6b067583fe6019efc4c6fde407197cd970ec376f",
+          "filename": "DSC08544 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08544 — копия.jpg",
+          "phash": "a96167c6973e6644"
+        }
+      ]
+    },
+    {
+      "uid": "96b4d8729faa7124c477bb60e0aa992a122067299ef957857393385c62bc2e51",
+      "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+          "filename": "DSC07897 1.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+          "phash": "c13f36d8e1303d66"
+        },
+        {
+          "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+          "filename": "DSC07897 1 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+          "phash": "c13f36d8e1303d66"
+        }
+      ]
+    },
+    {
+      "uid": "93b33fc65ce33e5a1bf27229200d0da708f39a24b4a2880a315144a6fcf1bae2",
+      "sha256": "184f595c5e240583ad94535eef8e1e7f8bae6b97479b4bf481357f96513bce7f",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "b34a01220bab03e6b650808f16715f8b7785977c6f68bee1bbe88aaadeba85da",
+          "filename": "DSC07927.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927.jpg",
+          "phash": "c6b83f199361e0b3"
+        },
+        {
+          "file_id": "cab73ae2282d074450edb43ea0720d50aa9eb3ae922397170f5b6dbbcca7c397",
+          "filename": "DSC07927 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927 — копия.jpg",
+          "phash": "c6b83f199361e0b3"
+        }
+      ]
+    },
+    {
+      "uid": "37f9aa3fde9b14708491fd49cee1b7f2e0319b44c7ef07af5cc9b6400eca4225",
+      "sha256": "b3a5f461c42e514efb6d7466706b763b79004a135489c2f1ac1e3b0687cbaaa0",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051 1 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "75cae59bafdc94eeac354651612054bc8ad4c424806dc7836fd0c7431651e893",
+          "filename": "DSC08051 1.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051 1.jpg",
+          "phash": "e7658c9c949b1393"
+        },
+        {
+          "file_id": "017e88f8bbaf89979c3fd56129d9d681a24e904171622aed58cb4623f6be6d02",
+          "filename": "DSC08051 1 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051 1 — копия.jpg",
+          "phash": "e7658c9c949b1393"
+        }
+      ]
+    },
+    {
+      "uid": "846f7951b02ac99b487bdc2103c6b6b159da00e1079430c74789708cb83f6a65",
+      "sha256": "c910194c9b268614d9492054f7cb1ca25cbf4a54476abeee9d16049abb89d523",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "6da531573f0d65206e12d9c35566c773c3762ac5b52122c304035f43efb41eda",
+          "filename": "DSC08051.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051.jpg",
+          "phash": "e56586949a1bb34b"
+        },
+        {
+          "file_id": "299a79a71225fd4f930937f2d7b20e4ba5d13fdd307d2b052e69bab94e572612",
+          "filename": "DSC08051 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08051 — копия.jpg",
+          "phash": "e56586949a1bb34b"
+        }
+      ]
+    },
+    {
+      "uid": "b228a4c3469979810b2b4d4ea15106cc557d6a7829efd0cdf314907000a610cc",
+      "sha256": "37997811277bf64921fb4cae5cd36ce00333ee18b5189481af78c482e85b02d0",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08147.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08147 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "889c55fa3ebc759b7886703b7d18ea9df4b5303bd54cebae60992961b848b659",
+          "filename": "DSC08147.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08147.jpg",
+          "phash": "aca4f2d9c43361b6"
+        },
+        {
+          "file_id": "75055614e91e9117a7398c43ae092b8d000dc91c9fe0f29a8dd2f4ff94b5a6b7",
+          "filename": "DSC08147 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08147 — копия.jpg",
+          "phash": "aca4f2d9c43361b6"
+        }
+      ]
+    },
+    {
+      "uid": "09e108e2ccdf5020fbde898dcebb2fb850b023c8d38d2c3267770538bad1a909",
+      "sha256": "dfd09260854e74b436181528c68825bc933da784af3e1f889fa23605505e853e",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08151.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08151 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "5a821b2ba2943c2038270c07c9f1ee246fd871d9b4ebc2c4968761ba23d49c46",
+          "filename": "DSC08151.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08151.jpg",
+          "phash": "a5905bc6c7361ec3"
+        },
+        {
+          "file_id": "317401e9d5e0c7b0f80ad3d9e078b68cbcfac795aba633427300b709b9062abf",
+          "filename": "DSC08151 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08151 — копия.jpg",
+          "phash": "a5905bc6c7361ec3"
+        }
+      ]
+    },
+    {
+      "uid": "9c285277104d2560b55f4666f0d0ee1d5e6d8aed0ca904387c8faccdd764d602",
+      "sha256": "1a5eebb92c66c77fc54956d0d08068eb70f99c29560fbf9d7aed5d88ed34d711",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08245.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08245 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "966bb3dfc78d2583862212c287fb68e8816af783cb82ce86aeb1505a50af6294",
+          "filename": "DSC08245.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08245.jpg",
+          "phash": "b7fac84d3ca09b22"
+        },
+        {
+          "file_id": "f76e3923b167caabb94fc0f8861faaa0d343aa7822a72ec2a6a474d4a7812a33",
+          "filename": "DSC08245 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08245 — копия.jpg",
+          "phash": "b7fac84d3ca09b22"
+        }
+      ]
+    },
+    {
+      "uid": "039221ef840eb60d7e453deba6e6169c873d10c2439356b1218933d27c62422f",
+      "sha256": "3992784dde429a77345270e0d810c127f258b89351b3dfa7b7ff86a06b406d38",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08252.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08252 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "cb617c9fc2fb3e7b8c440d92095af5a89b56d098b8b7764adc4210f45d410652",
+          "filename": "DSC08252.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08252.jpg",
+          "phash": "b430f39311629fe3"
+        },
+        {
+          "file_id": "13d157b450a7c5f28262885a4401fdd25e66b7a7bc8d7fb2c587d3756f6101ad",
+          "filename": "DSC08252 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08252 — копия.jpg",
+          "phash": "b430f39311629fe3"
+        }
+      ]
+    },
+    {
+      "uid": "b3c63a5a71a4ee0f8041306983edafc971753b344496ae2a55b7fa54184c57d8",
+      "sha256": "a4d777ff831cb74d5b7561cd60de3d142e3f65173ee9dee5b4f7902f0a6971f9",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08283.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08283 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "07c98f78789b2d1f1b49db2a70e304656ca8814e85d9c2182bd519f9e60a574a",
+          "filename": "DSC08283.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08283.jpg",
+          "phash": "a0beb8d06347879e"
+        },
+        {
+          "file_id": "0f2dfab4abd721948acae1702a5a1e0c0765d8f98c1d2fa4c94dbd8aad2bc1be",
+          "filename": "DSC08283 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08283 — копия.jpg",
+          "phash": "a0beb8d06347879e"
+        }
+      ]
+    },
+    {
+      "uid": "4365860c6a42c31d9b7a9ff300360f6ecaad23be9566922cb0ee76aa4bffdc4a",
+      "sha256": "8de0f2c6fa8ff805e6231e9a368ff83ae333419ce1c01f85c825ef63c7dfc729",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "845fa1d954e9a0693e6c9046b7e5d2dea4b899ced4d9d633126bd7d8bdd503f9",
+          "filename": "DSC08471-восстановлено.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено.jpg",
+          "phash": "a9a9b5747462a566"
+        },
+        {
+          "file_id": "041adb17f397f1099eb0ac6e6c04c03218671f39e29998cbdd308fbb2110fc14",
+          "filename": "DSC08471-восстановлено — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено — копия.jpg",
+          "phash": "a9a9b5747462a566"
+        }
+      ]
+    },
+    {
+      "uid": "2ffda0d3a0096ad5d87a4f871eca9c82dc9370818795326506fea26aaa2bc500",
+      "sha256": "b4f82560b8da90789c3dd316efda4566b8916627a003bc54e1287e32b8c93a8a",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08508.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08508 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "2ab4984b1cdeb2aadd0de4f5524ff2f563dc670a94ae6d5bdf6352197f4a76e8",
+          "filename": "DSC08508.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08508.jpg",
+          "phash": "b5d3c3c66666960c"
+        },
+        {
+          "file_id": "46810bb9cf5c4653542a9317b003e3f0e41cf11cb06347859eb1cd9ad5a5deab",
+          "filename": "DSC08508 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08508 — копия.jpg",
+          "phash": "b5d3c3c66666960c"
+        }
+      ]
+    },
+    {
+      "uid": "b2bdbd5b2e3cff45c84e0260f5d81a5df0370e555e51c9f0fa839b0d82acb148",
+      "sha256": "d940387bec89ce80437653b4411f4628159f30e7c54a6efd79309f6ceb8d0489",
+      "count": 2,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08565.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08565 — копия.jpg'",
+      "processed": false,
+      "files": [
+        {
+          "file_id": "3d2d5f13677b04e9726bf5cd724192e68033a4940dea870c9ba50da134793e3a",
+          "filename": "DSC08565.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08565.jpg",
+          "phash": "bcb461c3c7978a62"
+        },
+        {
+          "file_id": "d2238bcaff3bc7143c98c814871f4f965750b22c0da189188182a75b29799067",
+          "filename": "DSC08565 — копия.jpg",
+          "extension": ".jpg",
+          "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08565 — копия.jpg",
+          "phash": "bcb461c3c7978a62"
+        }
+      ]
+    }
+  ],
+  "near_duplicates": [
+    {
+      "uid": "5086243ade006d285546da4503a5fbcc540f30aa090c43dfed9e68ada8b96e6e",
+      "distance": 0,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/DSC07927 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "211e926b25f6d14fd4b68e19add6e705389501f406bfcf3a9b817f02a39de776",
+        "filename": "DSC07927 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/DSC07927 1.jpg",
+        "sha256": "d3bbb9a1993ce57f012604a6fdb51b0407ae84cf62a999d86006954135c83d24",
+        "phash": "c6b83f199361e0b3"
+      },
+      "right": {
+        "file_id": "b34a01220bab03e6b650808f16715f8b7785977c6f68bee1bbe88aaadeba85da",
+        "filename": "DSC07927.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927.jpg",
+        "sha256": "184f595c5e240583ad94535eef8e1e7f8bae6b97479b4bf481357f96513bce7f",
+        "phash": "c6b83f199361e0b3"
+      }
+    },
+    {
+      "uid": "52e1639c9c170e60f0e13a392c5564d18f65d8dcf816b865d648622aaed25981",
+      "distance": 0,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/DSC07927 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927 — копия.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "211e926b25f6d14fd4b68e19add6e705389501f406bfcf3a9b817f02a39de776",
+        "filename": "DSC07927 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/DSC07927 1.jpg",
+        "sha256": "d3bbb9a1993ce57f012604a6fdb51b0407ae84cf62a999d86006954135c83d24",
+        "phash": "c6b83f199361e0b3"
+      },
+      "right": {
+        "file_id": "cab73ae2282d074450edb43ea0720d50aa9eb3ae922397170f5b6dbbcca7c397",
+        "filename": "DSC07927 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07927 — копия.jpg",
+        "sha256": "184f595c5e240583ad94535eef8e1e7f8bae6b97479b4bf481357f96513bce7f",
+        "phash": "c6b83f199361e0b3"
+      }
+    },
+    {
+      "uid": "0bbacf3a5d75328f65eb49dbf91c180361ee85b36513f2bd018641f8f6c9964c",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "e31cbf2ddb256eae48797eacda0f88e0aa3c0327e7d410d86350501d8865fb15",
+        "filename": "DSC0789.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      },
+      "right": {
+        "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+        "filename": "DSC07897 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      }
+    },
+    {
+      "uid": "2504e06580f0050822486b0f280b073791afcc83c8ba2aa26bc651fd9784b1c8",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "e31cbf2ddb256eae48797eacda0f88e0aa3c0327e7d410d86350501d8865fb15",
+        "filename": "DSC0789.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      },
+      "right": {
+        "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+        "filename": "DSC07897 1 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      }
+    },
+    {
+      "uid": "654182739cc01295621f782d01cc8eafed6a02567f62da97e0132d8de704832e",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 2.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+        "filename": "DSC07897 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "d73f4f4fbd1a8e4fddb91d2ee6f498ec6b6ff56cbbfd8bd6f740562a2234dd45",
+        "filename": "DSC0789 — копия 2.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 2.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "dec3f9459252cceba91e401d5b0101a12061579860968785bd23902838d6dc98",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 3.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+        "filename": "DSC07897 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "c39347b0598bd3e3f16587a712177e6d498ce30d9042caf96bdfcde76c5b9012",
+        "filename": "DSC0789 — копия 3.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 3.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "2c790fe0722755642d9ad2d62183cbfcf52f4bef0c1b49a0876d9d0dbf1e2979",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 4.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+        "filename": "DSC07897 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "07837d5132757878e8a82a27cdc146935b93225b3702610ec05b7dff548890a5",
+        "filename": "DSC0789 — копия 4.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 4.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "28d725a3d3112635157b465205ba595f1c74280b17d91cf8f476d059aa8d1111",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+        "filename": "DSC07897 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "40d6d53a0434941b825fa85a987a1d4d5846025a4c6b82d4757933f093284fc6",
+        "filename": "DSC0789 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "ad5b4d5e3ea9663efe7b80b016cb643af095605c43adf21b9c817df28ef69c92",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 2.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+        "filename": "DSC07897 1 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "d73f4f4fbd1a8e4fddb91d2ee6f498ec6b6ff56cbbfd8bd6f740562a2234dd45",
+        "filename": "DSC0789 — копия 2.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 2.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "0bba3aa65f591ca8be68e9e6fe035af9d9d42c97bf4c80db023955a8f08829a6",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 3.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+        "filename": "DSC07897 1 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "c39347b0598bd3e3f16587a712177e6d498ce30d9042caf96bdfcde76c5b9012",
+        "filename": "DSC0789 — копия 3.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 3.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "9442d346b208a654caa411c534dd1d5c5c2175e593f6e431e5a4a5e05a07d092",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 4.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+        "filename": "DSC07897 1 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "07837d5132757878e8a82a27cdc146935b93225b3702610ec05b7dff548890a5",
+        "filename": "DSC0789 — копия 4.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия 4.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "1bed4c5d30d15f99d295ef06b3ce8061d6b0c6b693eba99a7b38ba8e89bcfb15",
+      "distance": 2,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+        "filename": "DSC07897 1 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "40d6d53a0434941b825fa85a987a1d4d5846025a4c6b82d4757933f093284fc6",
+        "filename": "DSC0789 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC0789 — копия.jpg",
+        "sha256": "02f864f1df06401b61c6cd44a375b696e98f445adf35211998eadebea8ecd0a2",
+        "phash": "c13f36d8e0303d6e"
+      }
+    },
+    {
+      "uid": "dcb21c099e8b399dd3aebfc499d6062eb723cace7e156c15731bf14f9281ef99",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08120.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08121.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8bd97668f33613e8bd51f5a7e38d84ad244a8b6caa9afd63f6ee53a54a57e5f1",
+        "filename": "DSC08120.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08120.jpg",
+        "sha256": "da8db7d0a0551097f959accd43c1f54b5882cb0ff29e0135c91ed11b213562ef",
+        "phash": "acb1d867334c66c9"
+      },
+      "right": {
+        "file_id": "bddf421429832895db54510d04a1713817ab50856e7d8c12d33ea509f5d5ef5e",
+        "filename": "DSC08121.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08121.jpg",
+        "sha256": "696d468defe8f68678e195dbe5553817915018cc356fc758210d9ae5835f0587",
+        "phash": "acb1d8c633cc6699"
+      }
+    },
+    {
+      "uid": "bf6d20dbb38a37d3f6322f96a357faf19bc2413efefabb092a3dcf06bf3bd1a1",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07866.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07868.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "2c715b101973dd8db39dde1c709236ea8162b9623990b4d151419a3dfb0b68d9",
+        "filename": "DSC07866.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07866.jpg",
+        "sha256": "211ae15e33fbdce142a1d91774592eefb84bcdb747377c667a2ff40c136e173c",
+        "phash": "c0fa47212f753e07"
+      },
+      "right": {
+        "file_id": "c421e23f3ab27a868cfc56521073ec0364582f4b7183519fb3c5335431512187",
+        "filename": "DSC07868.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07868.jpg",
+        "sha256": "1098b3046ec3cc3f3387a8a141f45011b95114bad17b5e0ce20cf03c5640a56c",
+        "phash": "c0ea47252ff42e87"
+      }
+    },
+    {
+      "uid": "8437fdda225b5d177599ce6fb83fdf3742b95ccf6d228afbce77ceb65dc1107d",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07898.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07902.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a18daea52d0b40dc907d610b4999a79b317f91a26835d5968037bff959d5cb3b",
+        "filename": "DSC07898.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07898.jpg",
+        "sha256": "b0cae4073f4c5d38b2458728f272b474b1783405eb47e54b68eb538ab630240b",
+        "phash": "c33e34d961312fc6"
+      },
+      "right": {
+        "file_id": "27223c10d1db8d428e5612e2f2bc64f9703a2869930e5b67443834f2eff78ef1",
+        "filename": "DSC07902.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07902.jpg",
+        "sha256": "30ce69899db1f64fcf184679f6e1b546a023ce652bab62f075c0a807fbdcb3b5",
+        "phash": "c03e34d963313fcc"
+      }
+    },
+    {
+      "uid": "6dfb87aeb33f5c12d81c6455fde29df9a3510dd664310e1b7419c674423f72e5",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07903.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07904.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "cf2a54e86c34c10689f84f5f891f891755900b89c079d1ef1e3aba33669dc433",
+        "filename": "DSC07903.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07903.jpg",
+        "sha256": "7340bcaebd660e1028370f2f207ffafb9c17b44b91763aca4f052a38d1cb5b33",
+        "phash": "d62fd87123ce9c12"
+      },
+      "right": {
+        "file_id": "78d5d20bab545c5d4eceac35fe3181eb1b6a26fafd5a92abbce8d33fc8c938a2",
+        "filename": "DSC07904.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07904.jpg",
+        "sha256": "e716c45c5a528edd6bc0313cc6181b5d9ab87d8bdb1060d2843634fa2c34e174",
+        "phash": "d42fd97123c6bc03"
+      }
+    },
+    {
+      "uid": "b2c26534024123180167e9156aa62e91a686105c0ad03105631b5fb326273713",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07965.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07966.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "b48a52c63cb3b3ab0554374999fdea3b988eb182893ab3bddbfeeb0bf923cde9",
+        "filename": "DSC07965.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07965.jpg",
+        "sha256": "1acc2456809c2a34e99ac5b8f84390599b8f15e720f3e1e38d223d5c88d43319",
+        "phash": "cc06b319b943cde6"
+      },
+      "right": {
+        "file_id": "0a5d3db3fb880cbeb30803414b56b06f40ca4c10cff773a472dac06df894463b",
+        "filename": "DSC07966.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07966.jpg",
+        "sha256": "6fe4f4d2a4bfa75da7b8ab6074a322ded17abebba21ed7c1ed039dec0238c294",
+        "phash": "cc04b219b947cbe7"
+      }
+    },
+    {
+      "uid": "9f62d4f9ceb6066b0771406ba0b02083afcb586f712b1c8640171763d67effb3",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08022.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08024.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "bca9efd06f519381bf7737a7008a72ed98f6ddd5f8e1fdd64a0776af2841d284",
+        "filename": "DSC08022.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08022.jpg",
+        "sha256": "f74a31c0bea74274a860b45423e93bdddc69eccfd95db5d313ccc7724294228a",
+        "phash": "b6b0c8c9c71e3c78"
+      },
+      "right": {
+        "file_id": "f8c8c8f7f91e84906f4fd5f4bf653ee9bd59457e6b2eb67818dfb3fde2b17938",
+        "filename": "DSC08024.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08024.jpg",
+        "sha256": "db571322f165023a63069993ad12461fb6c814a0329174de11fb13dfd60ef80a",
+        "phash": "b3b0c8c4c71f3c78"
+      }
+    },
+    {
+      "uid": "580c2c356e0aacbb9d5770f3a81e8d12a6ecfa326cbfee013e943119233779ee",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08032.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08034.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8ad296482320172edd1aeeaa29c757e2145f08da6393088c8645c6e105ca73f5",
+        "filename": "DSC08032.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08032.jpg",
+        "sha256": "b218747041b8ae54e17b6dc45a0866ff460cc71a7a93beec407d7d88ba18d09c",
+        "phash": "bf3870e1c3c7c60c"
+      },
+      "right": {
+        "file_id": "d8bbcc32c4dc2615c195e7e8672f8f9b251c3d8833045f77e3eecece48e104de",
+        "filename": "DSC08034.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08034.jpg",
+        "sha256": "5cfca1257cdba7bc676fd34cc4fc96f653e0420c92d76a24c3401dad886ebf34",
+        "phash": "b63c70e1c3c7c646"
+      }
+    },
+    {
+      "uid": "079aa66cdfde30154a12c9b7b11539ed5df28a5c5cb7ea22040dc69cabfb888c",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08036.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08037.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "587b52e1fb4f0d1e0b2da8232ebdb540b2c2dd3233555775990f045505567919",
+        "filename": "DSC08036.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08036.jpg",
+        "sha256": "41137f86ede40cecc5492ea629a316d03d10897221d420940928d6594f26cba5",
+        "phash": "a5a4c6969a9e6c39"
+      },
+      "right": {
+        "file_id": "7924f42f5abf89bc2405584bc950098ec44c648f9b5f85ec676eb16bdf781f41",
+        "filename": "DSC08037.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08037.jpg",
+        "sha256": "82d1b569ea289a8157185fe10b0a2269ee47be2246493974edaf7b1b51b0cf04",
+        "phash": "a5a5d6969a1c6939"
+      }
+    },
+    {
+      "uid": "589d29f01de5225ad90eb0bd53d0f473e2d015de31a7d8de251deac33426b455",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08038.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08040.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "0d041466ccd36f2c0950c70fb174dbd0e58a79b60d06e7f24b5b7060a377206e",
+        "filename": "DSC08038.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08038.jpg",
+        "sha256": "21b58f78defb54fe2e5cfe2eb12e815e11d69e833461645560ee46e187e7dde2",
+        "phash": "a434d25b9bcd4c6c"
+      },
+      "right": {
+        "file_id": "dcbe04a7c1038808a1c1e7c25cf7b9785d19c828aeee6e90f70729c5aab80e45",
+        "filename": "DSC08040.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08040.jpg",
+        "sha256": "3094c77ef73a948ed166fd04c167b1415672980c22785e5e5edaec6e5c721a13",
+        "phash": "a434d2d3cbcf4c2c"
+      }
+    },
+    {
+      "uid": "30e9b5754055913df1e1b4ebb95f11193eecd14793a9d6cec7fb667ee8fdb360",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08038.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08049.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "0d041466ccd36f2c0950c70fb174dbd0e58a79b60d06e7f24b5b7060a377206e",
+        "filename": "DSC08038.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08038.jpg",
+        "sha256": "21b58f78defb54fe2e5cfe2eb12e815e11d69e833461645560ee46e187e7dde2",
+        "phash": "a434d25b9bcd4c6c"
+      },
+      "right": {
+        "file_id": "bf1882756fe236cd0c8067b6f64087986a7e49d97aa1f358cd2f48249d25a390",
+        "filename": "DSC08049.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08049.jpg",
+        "sha256": "e1416340b945ee2e4a1958f698c4db2945109b2669692583ff648bfb29687ffb",
+        "phash": "a434d3cbcbcd4c64"
+      }
+    },
+    {
+      "uid": "8feaab0ee28d3b28ec342018531548f5ae4465ab06b3aa68aaecfb5c430a361e",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08040.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08049.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "dcbe04a7c1038808a1c1e7c25cf7b9785d19c828aeee6e90f70729c5aab80e45",
+        "filename": "DSC08040.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08040.jpg",
+        "sha256": "3094c77ef73a948ed166fd04c167b1415672980c22785e5e5edaec6e5c721a13",
+        "phash": "a434d2d3cbcf4c2c"
+      },
+      "right": {
+        "file_id": "bf1882756fe236cd0c8067b6f64087986a7e49d97aa1f358cd2f48249d25a390",
+        "filename": "DSC08049.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08049.jpg",
+        "sha256": "e1416340b945ee2e4a1958f698c4db2945109b2669692583ff648bfb29687ffb",
+        "phash": "a434d3cbcbcd4c64"
+      }
+    },
+    {
+      "uid": "70e0fc85a402dade843da4597e8573e29ca6b96e8f99ed1622ef334b3bda2cbe",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08059.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08060.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "d5e8acd295863f6cde70d5ca49f1698cf88db3dcf1eeca728b7bc39fe65fed67",
+        "filename": "DSC08059.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08059.jpg",
+        "sha256": "a539b363eb6acf8ca03f31061c2b498f0557292dce1a770a4d56df66308f2434",
+        "phash": "ca4a95b5b7921e4c"
+      },
+      "right": {
+        "file_id": "6b5c187d894d4683dc3123c4c14c20b3e11fd279f563675372450939026bb90f",
+        "filename": "DSC08060.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08060.jpg",
+        "sha256": "a3e666a0ce953c551920cb26d4d39ee02fdd91ee42880ae53a46a0a2aa70692a",
+        "phash": "ca4a95b593d25a6c"
+      }
+    },
+    {
+      "uid": "cf03eb1450bb4c75a528eb61e077d2ced22751e0e5e9b20f2007d66fe11e1f12",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08082.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08084.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "c43b98e642851e1bdfbe6c7c308edaea19f430f4f090239bb9e76e561f51b723",
+        "filename": "DSC08082.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08082.jpg",
+        "sha256": "9f72ca99be0ba51ec6cfdba96d02b8c483457c2b5a0491758bcb9b1a1d7d9a16",
+        "phash": "c949b53692921ff2"
+      },
+      "right": {
+        "file_id": "f0fd8f34774ff2c9ceab7d8bd4079051974ccd75f6f31ca6f3f752e840c6a5e6",
+        "filename": "DSC08084.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08084.jpg",
+        "sha256": "84abe08e21c693db3641fa0ef0786e4dd2444ae936e9f0d616c3eb33a8a8efe3",
+        "phash": "e949b53592921de6"
+      }
+    },
+    {
+      "uid": "4e04bee64407a265e2a0d4b7d1b3c9102e933b88c74cc0efdb2cc8bcd2def242",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08121.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08131.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "bddf421429832895db54510d04a1713817ab50856e7d8c12d33ea509f5d5ef5e",
+        "filename": "DSC08121.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08121.jpg",
+        "sha256": "696d468defe8f68678e195dbe5553817915018cc356fc758210d9ae5835f0587",
+        "phash": "acb1d8c633cc6699"
+      },
+      "right": {
+        "file_id": "40127685ceb50be7ed201b0cd4920a85e30700f23ec08766f1032b7cbd28210f",
+        "filename": "DSC08131.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08131.jpg",
+        "sha256": "3692dd20e06fd49fcf690ea70464553c0a5c48a09b554af742948bed561461bc",
+        "phash": "adb9d8c6334ce690"
+      }
+    },
+    {
+      "uid": "7fb168fcd6c2c0496caf7f14a4e6feae75c921117e0f9977a21b353deed782c4",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08123.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08125.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "31e740d74cef25042fcd2189527edea4de76bca107c1f8b5f48db576bfee4932",
+        "filename": "DSC08123.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08123.jpg",
+        "sha256": "2b5e33c48952a2b7394dd94e8947ff214e248c1403162143d45926f15b203b65",
+        "phash": "9bbb64656c26928b"
+      },
+      "right": {
+        "file_id": "ee48e5a666b6dd663a6b88162614433808d7152e90a1c7a5b7f97445b95a31ac",
+        "filename": "DSC08125.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08125.jpg",
+        "sha256": "37adc10c9abbc8a6edbc4a26ca3c19b8ffd0186768a3d5046375d355f90dafec",
+        "phash": "9b996664ec26929b"
+      }
+    },
+    {
+      "uid": "3a3ce3573b6776353335224bd0e0c45db76f553ba7a4d61e66cb31c3eb7d0758",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08166.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08171.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "d9331937de4ee9333102879ae343b640a4b82c3aa023cc226156ea3b1d493556",
+        "filename": "DSC08166.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08166.jpg",
+        "sha256": "72b38af553fff2aa97f6bd130084c860570cfdfddd4d650ecb27dbd7dbcc5c5d",
+        "phash": "b19acc64e193c36d"
+      },
+      "right": {
+        "file_id": "7dbda3f5469146b85660a6f83303b4ccbd188409c5ae2146958b9cc9adc791cb",
+        "filename": "DSC08171.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08171.jpg",
+        "sha256": "985c0e2e27c8fa2efc09431ff38e51da6f3eea2d33a5487e81d5418d590936bb",
+        "phash": "b198cc44e1b3476f"
+      }
+    },
+    {
+      "uid": "c214bd70a08ba8ac6c734e10726095bcf90ebeb1df3c658c0981f9aa0f5880b6",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08195.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08197.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "15db15b672a5547886b5e289816f3bdcb7ca2b97310be41ef184b2f46f191807",
+        "filename": "DSC08195.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08195.jpg",
+        "sha256": "260478abf4b030501ef1b381f7be4e4871026a32fe8476ccdd4025885df7486a",
+        "phash": "b4e9099cb6c68e2e"
+      },
+      "right": {
+        "file_id": "63ca3774129a35e91120ef02f58da74e51ad9b2f8b85aeb712231a79d0ee9479",
+        "filename": "DSC08197.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08197.jpg",
+        "sha256": "16e101fcd305fc66162c101a8cef36aeca0d37901f42763d5ce5016d34d99e98",
+        "phash": "b4e91b96b6c6862c"
+      }
+    },
+    {
+      "uid": "6c2e8761d7f7ad196c37ea1b6d7af94630ecfe6a2892e9172123c50f467ffa72",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08210.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08211.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "7c3f9d5e820f300adea0500a80e203e6951ffb0fb9f51b874377d3951247fdfe",
+        "filename": "DSC08210.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08210.jpg",
+        "sha256": "c642e7490dfbd80475e8f10868bfae4b7a85f75e7e80c57aee7a66ba0647945b",
+        "phash": "a1b5e3c68c99939a"
+      },
+      "right": {
+        "file_id": "09d55d9a6ea95d234cf01fe631d4292346264381b4db3724bdb25c08a879bf1c",
+        "filename": "DSC08211.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08211.jpg",
+        "sha256": "a20cb63a5222c15f9ff90f4d3a3ab069af2f4b1631cb7194fd7020e48dcdbcb6",
+        "phash": "a1b7c3cc9c99929a"
+      }
+    },
+    {
+      "uid": "f09aaf3e91785f97dd0587d41ae99b46469b15da90dd978e9169ebc0cc9ed9c1",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08297.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08298.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "3c1c33acb61e43c256c66f22cd933e345f8dc49f8a395d29d700a4e972f7a2d2",
+        "filename": "DSC08297.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08297.jpg",
+        "sha256": "f2ee919645dd89f160ed1bd0be2bff80768ce9275e7174b357f9fc96816de8ad",
+        "phash": "a5a7d09a1dcc92d3"
+      },
+      "right": {
+        "file_id": "ec51e34c99ed1a82e78d5bf4c3ad9eb7cbf12c8d7853ecafdf8fc44379f9bc40",
+        "filename": "DSC08298.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08298.jpg",
+        "sha256": "417dcc52ecfc6e84a69a7460f7af5e12d643023b70755c5f3b8b4776770d5803",
+        "phash": "a5a7d09a1ccc9b71"
+      }
+    },
+    {
+      "uid": "aaa9cebf56e3c089531dbcc8f8fe84e589f97437d6acd7d87e2a86dc898515e2",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08302.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08305.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a5cdc773ed8f74acc902ba4ccaa63a3599abc85fe6caa8d5a3a3257c7d41a132",
+        "filename": "DSC08302.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08302.jpg",
+        "sha256": "44592a0f619495145eeb7991abdaf71850483bc7fe695e305ccde5b0b5578737",
+        "phash": "a1add49e18c89b9b"
+      },
+      "right": {
+        "file_id": "c41659f13f60c4bb0269221d522d2e3d7aa5ec63054c75a3c75f58345660ed85",
+        "filename": "DSC08305.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08305.jpg",
+        "sha256": "90ab220c38357f0a1daefb70e7bca0e02e43ca81d49b73f23bf38a6b7ea21126",
+        "phash": "a1a5d69e58c893da"
+      }
+    },
+    {
+      "uid": "39f5a53cbb290556d27931c6cd8f6cbdcb7ddc47f45a0575af000dd2b601926d",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08304.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08305.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "d3cbba8cf4fc8f1abfbf133b09d51480063f3c815cf2d6b0d8590438fc7839c7",
+        "filename": "DSC08304.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08304.jpg",
+        "sha256": "9a100ea5d654fdd7c1af0cc0cd572adae0978246a6b0b48b20366aa8f2609b2a",
+        "phash": "a1a5d69a599193da"
+      },
+      "right": {
+        "file_id": "c41659f13f60c4bb0269221d522d2e3d7aa5ec63054c75a3c75f58345660ed85",
+        "filename": "DSC08305.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08305.jpg",
+        "sha256": "90ab220c38357f0a1daefb70e7bca0e02e43ca81d49b73f23bf38a6b7ea21126",
+        "phash": "a1a5d69e58c893da"
+      }
+    },
+    {
+      "uid": "75cea98cea6c450483d054a9b6cdd5f25ffdf3df2bed82ef9efce62932617d25",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08342.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08359.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "f991000e3a9199a1748c4c031fe8d34e41840bb4406783d2a8bf3d487e5e50fd",
+        "filename": "DSC08342.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08342.jpg",
+        "sha256": "9fb0b3a256eeab9abefa30f44a40abf4c78cfefa9f7bda8bf1fd4a426f6ee5f5",
+        "phash": "b9e4c5928e6d9c91"
+      },
+      "right": {
+        "file_id": "d111b24b334336cc3d900c78334f1d4259fca65533b0e3710b09eb84bd98b6d0",
+        "filename": "DSC08359.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08359.jpg",
+        "sha256": "dd39009bf57b31ed7d5630e764bd6422db5c3f7e64340817cf767c612e422547",
+        "phash": "b9e6c69a866d9891"
+      }
+    },
+    {
+      "uid": "2d4ab7cbc60cfffeaf469ecdeed443a0e7e3a4b81d7f94bac01c508ff44c4ec7",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08344.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08345.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "38569b9336213f05edcad6ee165c45e0a804b66d9e8f9ecffe922357bd12c955",
+        "filename": "DSC08344.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08344.jpg",
+        "sha256": "b813b490b815eab74588e92c41e1263920fcb5f816612002ccbda47ef8b23ed7",
+        "phash": "a627db18cd7c1998"
+      },
+      "right": {
+        "file_id": "a5a3bcd4b11925512dfcfdaac4aaa07b0500f292ffc8ed48a3881855324e7708",
+        "filename": "DSC08345.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08345.jpg",
+        "sha256": "89f402ca2cf36aeec57b1fd586e8a03aeba9f1f596abe0e97d7d175ae6dbe5ca",
+        "phash": "a627db18cd6c12dc"
+      }
+    },
+    {
+      "uid": "c9a3c5732403c68de0c6c2403057920d60a145cc2d8e34ec53e308c5a119402e",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08346.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08347.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "3494d5c385a5e080b136dbe25e2eb7087dd2e6ae88d5f665f74d9925b789e74c",
+        "filename": "DSC08346.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08346.jpg",
+        "sha256": "bfb6e4fbc3559fb45c1b56d2a2496615bc31fa394a04cf2b8e11318bed000f50",
+        "phash": "b121ce0ecd3cd8bc"
+      },
+      "right": {
+        "file_id": "2b1ea3213c616d33cb31cbeb45cdc7dc77e702699238826f671a716f0ffcea37",
+        "filename": "DSC08347.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08347.jpg",
+        "sha256": "37a790a8663d14b2287b65aeae91d11f2cd9dc57dec36e4b6fb1b0f191ae562a",
+        "phash": "b261ce4ecd3cc83c"
+      }
+    },
+    {
+      "uid": "ead82de03b1b93e01ccc10c945a86421a095080feb333c33367a27cab2ccd02f",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5d953ee9ba40bb17a147e08609f0261ffc1b0169493ee0ba44f9e6c5d14155fa",
+        "filename": "DSC08351.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg",
+        "sha256": "1e0184bf9aeee2783448a8d7f790e85fe84ab387abaa8eee95210176561d0a09",
+        "phash": "b9e4c69b8c2c98b3"
+      },
+      "right": {
+        "file_id": "2e5b24f2be5bc731e8d7f902758f0bd0ad305b95761aaa28a37a63eccd7e26b3",
+        "filename": "DSC08369.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg",
+        "sha256": "d0a0756eb65dfe82f140f518275af3114adfa9ee4172f3bf9258814d24844095",
+        "phash": "b1e4c79b8c6c9899"
+      }
+    },
+    {
+      "uid": "6f3afe3c2f0e39d8355800a5199d97e3e0378bf8024a895fcdc77fbeca399d9e",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08357.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08360.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "504c9e6f3e9c192ba17131c198e2f375fac1176667b79ea45ee6a15b867f2779",
+        "filename": "DSC08357.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08357.jpg",
+        "sha256": "baaabcf0bbe10bcb12049d6125f672fe72cb5550d1357a87508fce60aa3086d5",
+        "phash": "b9e7c68a9a4c4c99"
+      },
+      "right": {
+        "file_id": "6be9ba19e1e7afcf46d30b5378be748e19001f3fc7fc6b255175171516ef987b",
+        "filename": "DSC08360.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08360.jpg",
+        "sha256": "80fa154346843afc3dc906182ca999799417b68bb771c2fb6431ad199ee45112",
+        "phash": "b9e6c6ca964c6899"
+      }
+    },
+    {
+      "uid": "64f78cfd06511dd7343dd7c087c0d459a3c5751b5eac97f5c6da25705d0ee4fd",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08380.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08381.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "2251a316ab3f1be15874e924d605691f9d68724ef5f5e1ac3aa4393ef93f9360",
+        "filename": "DSC08380.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08380.jpg",
+        "sha256": "0a3a898b5025882b3990c86dc1644ff16e7ef2c70d62140ac8b7a28d61692983",
+        "phash": "b0f9d1c2c74d8e94"
+      },
+      "right": {
+        "file_id": "64737b6c1b3bfd18eac93e64003b1a74879be091d19791493361cfa4540e3502",
+        "filename": "DSC08381.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08381.jpg",
+        "sha256": "df5b8c33991c998ca4a30539d409229d78e74363e044de601d193a9a05fa38a4",
+        "phash": "b0f9c742c76d8a94"
+      }
+    },
+    {
+      "uid": "b6c6e9a08cb0836158ef6f73c527ae8d478bbe578ec501cae15380933d313591",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08483.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08484.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "1a83bf16bbc212220ace15db81207f463cee4078702b22742f9d6cc62c5ec9da",
+        "filename": "DSC08483.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08483.jpg",
+        "sha256": "bfb6cf4ad9d50d88eb16c5d7f3f1f7cbadf29397e2535fe9b61b5d8eef201707",
+        "phash": "b2c1c3cfc60cce9a"
+      },
+      "right": {
+        "file_id": "a15405d56d5314cafd38973954aec1a51415d846b7018dc461ce4c95877e5a91",
+        "filename": "DSC08484.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08484.jpg",
+        "sha256": "bb93006801f403540d77c224a71a2e25bb7eb9850bd4e30e9f186585f09a4135",
+        "phash": "b2d3c38fce0c4c9a"
+      }
+    },
+    {
+      "uid": "05e6b649ee11ac8362455c6c04e99ceaa3f13264b5af9735e14fa063c8b60341",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08484.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08485.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a15405d56d5314cafd38973954aec1a51415d846b7018dc461ce4c95877e5a91",
+        "filename": "DSC08484.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08484.jpg",
+        "sha256": "bb93006801f403540d77c224a71a2e25bb7eb9850bd4e30e9f186585f09a4135",
+        "phash": "b2d3c38fce0c4c9a"
+      },
+      "right": {
+        "file_id": "f2799e9044604f2cc7e7a835310e7ce759809b2ce6566f0553a40d4d254f39b1",
+        "filename": "DSC08485.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08485.jpg",
+        "sha256": "f912f6e42cf06e05c93672f5434d610cb93fa876d296e65b876bc3e2a55e25f9",
+        "phash": "b2c3cb9ece0c6c92"
+      }
+    },
+    {
+      "uid": "e462db4cdb1bfd11a27bf5d573197702a552bc7cfb8821a2518b852c6710c750",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08486.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08493.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5d2743f28b086487ce02bc8bb50e6faf80c671a2dadbaf3aecc5fce96d29da7a",
+        "filename": "DSC08486.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08486.jpg",
+        "sha256": "22b2e92ad7417e64ea3716aa8d3431151bc5460fe89c4db7ed5585c19fbcf8ba",
+        "phash": "b2c9c1cfce0cd899"
+      },
+      "right": {
+        "file_id": "1dfdbf3c41b291964f0cb538690de4d88ff0d8a4dc8b78b94536ca24ef9662a6",
+        "filename": "DSC08493.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08493.jpg",
+        "sha256": "f7aefffd6a15d5ef606857d48d05e25c40f6828fa71f77f5fe9c6244d65a99ce",
+        "phash": "b6c0c3cfce0c9a99"
+      }
+    },
+    {
+      "uid": "1152472f10dfff9c7da006acf81df2972d3979acf8205dd7639ebc5053532fc5",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08545.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08548.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5b2fabdd9fdc700d34393ed867d6c7f0a6ab757f8e7fdec3aa8fb86559449322",
+        "filename": "DSC08545.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08545.jpg",
+        "sha256": "2c67ba9c631e68804ee0a1f4655295f52ae7a0e95f78518431120b35ee78a814",
+        "phash": "a9f0678e96181ccf"
+      },
+      "right": {
+        "file_id": "1475ad66735d002a2ff81750d311a83613b11799878ac57dc670d9341874c31b",
+        "filename": "DSC08548.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08548.jpg",
+        "sha256": "f86243fcd8ca1068d10f903ac8729b95ea518450c6a6e570bf60945028c32693",
+        "phash": "a9f167c696189c8d"
+      }
+    },
+    {
+      "uid": "b62bd751462d986f7181ca28d033ed9292aeb073155585efdb313b137e6b9aa8",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08552.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08553.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a992212b09761dbc1cb3b859c27ad4b9ad60622fb4ea1ac1bd000e55a5e3b65f",
+        "filename": "DSC08552.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08552.jpg",
+        "sha256": "a17d9a6dfb764d265f43ee30a3f6e1c353430c2e8f525e26ce3c6eef8f84b1f2",
+        "phash": "bf9cc86183cb271a"
+      },
+      "right": {
+        "file_id": "c30e9d243895496b3705b5dc5c3b1203daf19cf80da1d17c745a40b0ac2b3abf",
+        "filename": "DSC08553.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08553.jpg",
+        "sha256": "94cb92725eda4a114e58c1244d14e0f3e7848ba9c5765a62240078c26a2211f6",
+        "phash": "bc9cc06193cb273e"
+      }
+    },
+    {
+      "uid": "a78039a40b0c9eff995aa65038d238da4e86e0374073a0029ff3268a31840ba8",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08556.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08557.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "515bd1642fc6f5b087ba36ed4023f76d6e26281efbd9a2d3aa25717ef9cdeade",
+        "filename": "DSC08556.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08556.jpg",
+        "sha256": "20c064c9bf84ed847f6db43a00a4150908180cf713a6ce7c62aab15a8bfda07f",
+        "phash": "bd9ec860d2c3870f"
+      },
+      "right": {
+        "file_id": "03018649001782428518a9d28ebc0d1af1691041147c0daccb6b8b228ba69c73",
+        "filename": "DSC08557.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08557.jpg",
+        "sha256": "504d93d29e146696f5b108cd56efd71d73dc347fc55976968274a3ee31bb7b76",
+        "phash": "bd9acc60c2c7170f"
+      }
+    },
+    {
+      "uid": "ce365c029415e6829d07006df0ad333334745345b14a8d963262483dfb0482d4",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08556.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08558.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "515bd1642fc6f5b087ba36ed4023f76d6e26281efbd9a2d3aa25717ef9cdeade",
+        "filename": "DSC08556.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08556.jpg",
+        "sha256": "20c064c9bf84ed847f6db43a00a4150908180cf713a6ce7c62aab15a8bfda07f",
+        "phash": "bd9ec860d2c3870f"
+      },
+      "right": {
+        "file_id": "503ab4c00f3c5db6d21fa0f15ceff3c2d518aea5a041059b8aebe03e7c1e689e",
+        "filename": "DSC08558.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08558.jpg",
+        "sha256": "c924d271ce86c6a025c081d467126ce2c11eb1479a5a2a97b06efaabd5cc0f30",
+        "phash": "bc9ac960c2c7c70f"
+      }
+    },
+    {
+      "uid": "882490ff8163a982f3ea55936f21136b8b37e51f36af5f15286427979c568500",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08557.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08558.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "03018649001782428518a9d28ebc0d1af1691041147c0daccb6b8b228ba69c73",
+        "filename": "DSC08557.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08557.jpg",
+        "sha256": "504d93d29e146696f5b108cd56efd71d73dc347fc55976968274a3ee31bb7b76",
+        "phash": "bd9acc60c2c7170f"
+      },
+      "right": {
+        "file_id": "503ab4c00f3c5db6d21fa0f15ceff3c2d518aea5a041059b8aebe03e7c1e689e",
+        "filename": "DSC08558.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08558.jpg",
+        "sha256": "c924d271ce86c6a025c081d467126ce2c11eb1479a5a2a97b06efaabd5cc0f30",
+        "phash": "bc9ac960c2c7c70f"
+      }
+    },
+    {
+      "uid": "16ece02651eb4a0140e76d6d5991cb0a9afb0c0390d64dd490f7cf191bc56df6",
+      "distance": 6,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08592.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08594.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "bcdcf2c34ee36c5bba87ee3ce0338e03fd712d3280c76fec6e63c26628d11ceb",
+        "filename": "DSC08592.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08592.jpg",
+        "sha256": "dbf4b23f05785ed85141055a46a0bcbbb8cea38b6d08f5f84e4dd102b48bfa4d",
+        "phash": "b97961c6864eca8b"
+      },
+      "right": {
+        "file_id": "5621413edf7ef7eaa3d1542f922ee1ec7a134ad67d963a0ed62c821619e6ed64",
+        "filename": "DSC08594.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08594.jpg",
+        "sha256": "b3b9749b5f7a3a2706e2ecf2ad2c6c0cb0cf32fc3dad890e23b50545bfcecbf9",
+        "phash": "b97de1c6844ada83"
+      }
+    },
+    {
+      "uid": "7bad9704af346993ccbeab48df8d70e8aa535a1e49c8aa36cc6d2aa7ced1c8f9",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07897.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ca80541fae733580acca9315e7b88106a79a4faf93c3435e7ae15c2da9dc797d",
+        "filename": "DSC07897 1.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "a647c0d9ead041c907652b39af32ccbb9499ea06e9abdccdeea4790bada0f4ea",
+        "filename": "DSC07897.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07897.jpg",
+        "sha256": "6e989a42dca3b61bd9474572727c94a7a7944388d06e4ebdc925f7a44f763104",
+        "phash": "c13f36c861322fc7"
+      }
+    },
+    {
+      "uid": "6a46ba0131ca7b930af3df06cb1cc959512f26d29336b6488bbe2a9addd47f83",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07897.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "59763c8c4eb1fa38b5cb1fe698a755d81259c1cd94408641f49add0ea9ddeb36",
+        "filename": "DSC07897 1 — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC07897 1 — копия.jpg",
+        "sha256": "f9c51632137bda93c4fd6a760c886f7893ed1b7e2f28df45aeecd3664472f136",
+        "phash": "c13f36d8e1303d66"
+      },
+      "right": {
+        "file_id": "a647c0d9ead041c907652b39af32ccbb9499ea06e9abdccdeea4790bada0f4ea",
+        "filename": "DSC07897.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07897.jpg",
+        "sha256": "6e989a42dca3b61bd9474572727c94a7a7944388d06e4ebdc925f7a44f763104",
+        "phash": "c13f36c861322fc7"
+      }
+    },
+    {
+      "uid": "4878f0293222e981d4273ac174e46bf8af25de9b6e48278e2be061496b8eebd8",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08120.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08120.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8bd97668f33613e8bd51f5a7e38d84ad244a8b6caa9afd63f6ee53a54a57e5f1",
+        "filename": "DSC08120.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08120.jpg",
+        "sha256": "da8db7d0a0551097f959accd43c1f54b5882cb0ff29e0135c91ed11b213562ef",
+        "phash": "acb1d867334c66c9"
+      },
+      "right": {
+        "file_id": "3787e4e291f47793378a1994e6450f2538f2265b32db8393c7ce43d9cc36acbb",
+        "filename": "DSC08120.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08120.jpg",
+        "sha256": "e81efe1548c3168317e941a7e737bacfe66104ee10b482369ac035dd21e6ad69",
+        "phash": "adb19267314c6799"
+      }
+    },
+    {
+      "uid": "5673cb94c656ffb2de346540df0fbc3bafa19978a3c59c7a3925ee48d6a33d08",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08471.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "845fa1d954e9a0693e6c9046b7e5d2dea4b899ced4d9d633126bd7d8bdd503f9",
+        "filename": "DSC08471-восстановлено.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено.jpg",
+        "sha256": "8de0f2c6fa8ff805e6231e9a368ff83ae333419ce1c01f85c825ef63c7dfc729",
+        "phash": "a9a9b5747462a566"
+      },
+      "right": {
+        "file_id": "46e717b8acee2728806ec7bd7e64b489acf078ee7bdf1b6b48ef59817af4b12c",
+        "filename": "DSC08471.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08471.jpg",
+        "sha256": "9be8d9b6c5104bdb99d156ed2ea5df2184a2c5d91e2f9493bbe1776fbc915f78",
+        "phash": "a9a9b576e4668076"
+      }
+    },
+    {
+      "uid": "e139a26d0344477e02e8c602772a6c326214e3dd16b528a352100b4a8c32050e",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено — копия.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08471.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "041adb17f397f1099eb0ac6e6c04c03218671f39e29998cbdd308fbb2110fc14",
+        "filename": "DSC08471-восстановлено — копия.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана полная версия/Диана версия для интернета/DSC08471-восстановлено — копия.jpg",
+        "sha256": "8de0f2c6fa8ff805e6231e9a368ff83ae333419ce1c01f85c825ef63c7dfc729",
+        "phash": "a9a9b5747462a566"
+      },
+      "right": {
+        "file_id": "46e717b8acee2728806ec7bd7e64b489acf078ee7bdf1b6b48ef59817af4b12c",
+        "filename": "DSC08471.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08471.jpg",
+        "sha256": "9be8d9b6c5104bdb99d156ed2ea5df2184a2c5d91e2f9493bbe1776fbc915f78",
+        "phash": "a9a9b576e4668076"
+      }
+    },
+    {
+      "uid": "6b8c1ce66415ce48328f27a1391059c2e2dd7a0d700cf48814ffd2823ff6467c",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07885.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07886.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "e3f60e9a84758b9051a47c2f6ed0de0fc3077a280b0239df6be8a4ddf0add2aa",
+        "filename": "DSC07885.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07885.jpg",
+        "sha256": "626da45968949d2d876ffc65dd00afc02fced57bc4f9ddb6f095697a76dc68fd",
+        "phash": "942f63951a62ed96"
+      },
+      "right": {
+        "file_id": "910e119e495f31583001b6b6b1b353333bff22ee01181317a5c39c4732cae77c",
+        "filename": "DSC07886.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07886.jpg",
+        "sha256": "1e027e1682060e6c8db9a9e027bb0bc11722eb844bf82e42ee3ab8be4721ab24",
+        "phash": "942f61955b72cc9a"
+      }
+    },
+    {
+      "uid": "41a7c11725aa6564ec603159f1b1c3acec76e3e184d5033e24c4ab6dd8503876",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07897.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07898.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a647c0d9ead041c907652b39af32ccbb9499ea06e9abdccdeea4790bada0f4ea",
+        "filename": "DSC07897.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07897.jpg",
+        "sha256": "6e989a42dca3b61bd9474572727c94a7a7944388d06e4ebdc925f7a44f763104",
+        "phash": "c13f36c861322fc7"
+      },
+      "right": {
+        "file_id": "a18daea52d0b40dc907d610b4999a79b317f91a26835d5968037bff959d5cb3b",
+        "filename": "DSC07898.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07898.jpg",
+        "sha256": "b0cae4073f4c5d38b2458728f272b474b1783405eb47e54b68eb538ab630240b",
+        "phash": "c33e34d961312fc6"
+      }
+    },
+    {
+      "uid": "38946569e484c9f7f0e24cee80b0c471f3dcbab8698b5d9450b2ad22f33d1b40",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07923.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07924.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ba6936822f07bb2e56b22d8e788c8517ce5a8c98fa9e3b53b8c87a4a3849ed47",
+        "filename": "DSC07923.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07923.jpg",
+        "sha256": "eab698ecf52e3e0c643ce6c6c3fe61b563f30e2f665c534b7e4b64f2e6b7dff1",
+        "phash": "c1393fccc161969e"
+      },
+      "right": {
+        "file_id": "2ca915909683b0af84679285befe6e4c18f69d1510648b76f415efd7aceabb43",
+        "filename": "DSC07924.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07924.jpg",
+        "sha256": "e59029bb06c1c38936f311f06c8c63b7d70823d0c6b45ba1b76454b41efe6304",
+        "phash": "c0393fccc161e19f"
+      }
+    },
+    {
+      "uid": "f337616a5fdebd409d932c57ebfff06f7bca18cd2c569f9b79b456de9214aa6a",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07946.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07951.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "0fc2390a829a6fde0cb71cb930702436dedc74e42b90a6c07da174322203eb68",
+        "filename": "DSC07946.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07946.jpg",
+        "sha256": "8bc0549e06c1327365397e9de0da6ca85a4c7e7633652ee6a58830b319f57371",
+        "phash": "9c4de132cb6d16b8"
+      },
+      "right": {
+        "file_id": "8f9c3f821435d24735f18213b785c0dbc22d6dab5c66c6a0e4fbbdb124ab7350",
+        "filename": "DSC07951.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07951.jpg",
+        "sha256": "ba866de1c4eccc56d809d600e3953b47291aeb46f45e1030cf9480328062b35f",
+        "phash": "8e4ce132d9ed16b2"
+      }
+    },
+    {
+      "uid": "6c9ac7344dd6c6bf0994190fffee67f22b756a8da23736d28c92c0db5797c2bf",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07969.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07970.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "797cad3304319ccfdda953fb288a2934e6074ee824b3e461829847378f6703f4",
+        "filename": "DSC07969.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07969.jpg",
+        "sha256": "90e0bb3b7762933df2034d87b987d45d96b48fe6ad8e114d90b25f313d6a890e",
+        "phash": "c13c3ed3d363262c"
+      },
+      "right": {
+        "file_id": "215ef4c10824fb15c24e20931b6def27559044fd096c5d39635466a0f7046bcb",
+        "filename": "DSC07970.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC07970.jpg",
+        "sha256": "f82cae0a8505a187728cf44d01c8eafa305c795be9fa9239b4103bd4f83cfaab",
+        "phash": "cb383c93c367266c"
+      }
+    },
+    {
+      "uid": "e88468f54003910e932f689097b98f1bd68d36aaa08999a6da5d497b0bae0971",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08012.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08023.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8dd938bb03307cc1b8c3d33f624546da5067d23284ff4a7e68aad9d5faccf0a0",
+        "filename": "DSC08012.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08012.jpg",
+        "sha256": "bcabf843a6d726311a65177ac7ee67c8ad9b43386e60c8506acc19d1685bb2b5",
+        "phash": "b6a2c90dcf763078"
+      },
+      "right": {
+        "file_id": "e68dd91f574ace3ef0ec10deaa4c50c125dfeb09350ca594c108b51b5634af67",
+        "filename": "DSC08023.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08023.jpg",
+        "sha256": "fbbefb8a16db61e96777c103cd05ec3ec86fa7b795d98d4e2adc83ca98c721c0",
+        "phash": "b6b0c9cdce3e3070"
+      }
+    },
+    {
+      "uid": "022c6a1f0ed341658de37ba258cd8fcc3786dd196b81da650654fcd514a5ab6c",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08022.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08023.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "bca9efd06f519381bf7737a7008a72ed98f6ddd5f8e1fdd64a0776af2841d284",
+        "filename": "DSC08022.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08022.jpg",
+        "sha256": "f74a31c0bea74274a860b45423e93bdddc69eccfd95db5d313ccc7724294228a",
+        "phash": "b6b0c8c9c71e3c78"
+      },
+      "right": {
+        "file_id": "e68dd91f574ace3ef0ec10deaa4c50c125dfeb09350ca594c108b51b5634af67",
+        "filename": "DSC08023.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08023.jpg",
+        "sha256": "fbbefb8a16db61e96777c103cd05ec3ec86fa7b795d98d4e2adc83ca98c721c0",
+        "phash": "b6b0c9cdce3e3070"
+      }
+    },
+    {
+      "uid": "a104782b9b96ccb2626de1dc49482529fdceb1bf381f73407f95ab255cb57001",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08025.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08027.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "6c6238ca1af362598f90b8f8096456adb04d172cf8888dece00d16c38f722462",
+        "filename": "DSC08025.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08025.jpg",
+        "sha256": "e89094835b52e311c500bbd8bbab4216832fd9bb5e4aa85d5b1a7874109a6263",
+        "phash": "b4a6cbcb8d383163"
+      },
+      "right": {
+        "file_id": "ee0234d5571c4d49ca409cf9078469fe594cab8da21745cfedf1db4d530ac3c0",
+        "filename": "DSC08027.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08027.jpg",
+        "sha256": "3f482ab5ebfc617e557c06826c936699d4607862129d57f50594d1af3ccbdac3",
+        "phash": "b436c3cb8f1c3961"
+      }
+    },
+    {
+      "uid": "94e650556d95be469faaa0c33c83abb4512600286ffe734279bc73bbf576d151",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08027.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08565.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ee0234d5571c4d49ca409cf9078469fe594cab8da21745cfedf1db4d530ac3c0",
+        "filename": "DSC08027.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08027.jpg",
+        "sha256": "3f482ab5ebfc617e557c06826c936699d4607862129d57f50594d1af3ccbdac3",
+        "phash": "b436c3cb8f1c3961"
+      },
+      "right": {
+        "file_id": "c535ad36990eecbb6ecc931d2ce93254c8ef5c5bbcf429268c41711d084963c3",
+        "filename": "DSC08565.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08565.jpg",
+        "sha256": "6f5416469e618f0bc9892cc8d3cec256f429f306a9e63538b12f06efe53d1491",
+        "phash": "bcb443cb8f3c6861"
+      }
+    },
+    {
+      "uid": "f313150ce4d19cbc164f541e7c54548578099fdb812405a7d89c54f8dfd2aec7",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08037.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08043.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "7924f42f5abf89bc2405584bc950098ec44c648f9b5f85ec676eb16bdf781f41",
+        "filename": "DSC08037.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08037.jpg",
+        "sha256": "82d1b569ea289a8157185fe10b0a2269ee47be2246493974edaf7b1b51b0cf04",
+        "phash": "a5a5d6969a1c6939"
+      },
+      "right": {
+        "file_id": "c7ba0527eb02101389bfe0528be72165c2afa903c9a109de3d7a1c6b59aa7027",
+        "filename": "DSC08043.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08043.jpg",
+        "sha256": "2cafc8794b87dddaa1523485080612dfecb8c6aaf078da32ab8516f4aaad2221",
+        "phash": "a52596969ad83979"
+      }
+    },
+    {
+      "uid": "fa4efd492ac562ca2cccf329403cfea2d384a56961c3c35e7db74a454057db72",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08039.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08043.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "988c8901561ddd2d29164d5a2393bff9745bb49be5f30cbc2a3781680a1520c1",
+        "filename": "DSC08039.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08039.jpg",
+        "sha256": "270a332576f0cc39e6f7f4c61314e1947c6a4f97233dfbbca21994b441addbdf",
+        "phash": "e56596969a9a1c69"
+      },
+      "right": {
+        "file_id": "c7ba0527eb02101389bfe0528be72165c2afa903c9a109de3d7a1c6b59aa7027",
+        "filename": "DSC08043.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08043.jpg",
+        "sha256": "2cafc8794b87dddaa1523485080612dfecb8c6aaf078da32ab8516f4aaad2221",
+        "phash": "a52596969ad83979"
+      }
+    },
+    {
+      "uid": "facc0a29542e8bf3aa0d180de8c89b812306a600116d49827a8434d97bf113ad",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08056.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08057.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "bb9ed1b48a04fc555f8d4729707d9f1f6b9afd20c29d0fcde908508dba45f752",
+        "filename": "DSC08056.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08056.jpg",
+        "sha256": "08db06169e275cc0cf74113e253f1bf23e17d2b1c28d48acbc5e6fec7d95d5c6",
+        "phash": "eb69949597921a69"
+      },
+      "right": {
+        "file_id": "f81828b705216a3e4c24e5cb404015f4e2cc6774f46b3e38bc0fb33c156aafab",
+        "filename": "DSC08057.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08057.jpg",
+        "sha256": "c9f9684981b50955ba30952eeb5cb73bedf2cb2735eabe50b4f68d25ea97ea35",
+        "phash": "eb6a94b595921a66"
+      }
+    },
+    {
+      "uid": "29775780f25e4b4340316007c8a618526a3a43609c14b24bb81391b51750657e",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08070.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08071.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "313932c98c0c1670b7dba66e551c5c1218a073cc0d370f93001fb3294d0aea8c",
+        "filename": "DSC08070.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08070.jpg",
+        "sha256": "b62f937a3dd5f66500356c0320ef26a96f1f7475b88538c033a248c7ec0501bc",
+        "phash": "ec6e8a299991b596"
+      },
+      "right": {
+        "file_id": "4cdb5ba9bb7ff937e5c3df8c1ea6d5eb56fbfbb210d1b6e97ec5f8976dc75b57",
+        "filename": "DSC08071.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08071.jpg",
+        "sha256": "eba2618e967dadcb49c021196a8ab065f846a04cd4d654fd89fadf7b0ebc14c9",
+        "phash": "ec6c8a399393b616"
+      }
+    },
+    {
+      "uid": "a067c86b453577553f2b0c3984e8cc5a77e9290aa8dfd3947014d8f1101ca3ca",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08075.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08076.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5f3132744c906c1ad5e169058927a69a2133209b0d8120fdb991ae2d0cff6296",
+        "filename": "DSC08075.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08075.jpg",
+        "sha256": "3ee63a1516a6d65702d7734a436841360c47cdc807e0fb6766d7955835c7ceb1",
+        "phash": "ca4a8da5b591f5a4"
+      },
+      "right": {
+        "file_id": "5cccf0f41f47cdc5bc3818b15bf7878b1c87ffef9240f53964b6a6a5d170bc2a",
+        "filename": "DSC08076.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08076.jpg",
+        "sha256": "5330e99852dbf22dd4fd15036599c9b1501721372d4eb0717354fee0bc0defb7",
+        "phash": "ea6a8d25b59191e5"
+      }
+    },
+    {
+      "uid": "b6354d2ec4d201985b674c0f7f4c608f07af6f0d5ac33f56306944af16bde975",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08078.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08079.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "6d8d87b61763604b53135c264ef82b0d590a7d0f4a9f5bbadf4808df6242b6c2",
+        "filename": "DSC08078.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08078.jpg",
+        "sha256": "2c5703bf8339dfdaf15b7efaa2d6f9466034ba2049298fbd5ca40b7653f23d6d",
+        "phash": "e969b5349692c936"
+      },
+      "right": {
+        "file_id": "afa383291ba38d31f4aa2fc42bbd502d2d4c7d7f9a308c6ee9e7de13ee1135cf",
+        "filename": "DSC08079.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08079.jpg",
+        "sha256": "9699ac242fd77c688a6c23e37e35129c487698f7da876b68c83fa98d53becf96",
+        "phash": "e96d9534929298b7"
+      }
+    },
+    {
+      "uid": "b778476a0484fb257e5cab319c0894c17d71d503284d3a04ef4cbfba66c7ca14",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08126.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08146.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "3efe1e9c3bc80d5f608ab6f924278e5195d6f0d1b7b20cd8f81f4f30da632b57",
+        "filename": "DSC08126.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08126.jpg",
+        "sha256": "050b0a84b73605e4e072d55c8b3cfbb3fc8ff6bcbe46089b150ad9ac1e5eb13a",
+        "phash": "bcb8f3c966334984"
+      },
+      "right": {
+        "file_id": "7530edc75c97ea19e3ff6dbbe77c433cb7a86757f4364347a5c5423e596c0e8e",
+        "filename": "DSC08146.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08146.jpg",
+        "sha256": "eaeae2c3b7f663e3e71341774d0c07ef6e6a1295fdc7afafb06f016dcbff9cbe",
+        "phash": "aca4b3db66334994"
+      }
+    },
+    {
+      "uid": "3e1ef71c9e19c4fb08c97b6597b8134279ba05727cd5939e8a26c31ea9864f4b",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08128.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08129.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5101c8c8ef19d59be46e770afa3a619e78d0fd234de28ba4e91eb2a4494b0fa9",
+        "filename": "DSC08128.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08128.jpg",
+        "sha256": "4db4d8afc77725c71afe05aaa63ef1aa1e60c9b9f2230cba4db7fcf6ba453ba1",
+        "phash": "a4b1f3dbcc26498c"
+      },
+      "right": {
+        "file_id": "a44770360e09529b9f81227e12d747fed0dd14dda11eeeb3d6f316fc6fadf55e",
+        "filename": "DSC08129.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08129.jpg",
+        "sha256": "f0186b36efeaa60b605d18f24b8fd0a4ab3fece6ff8f3c0b8a763f28435792f8",
+        "phash": "a5b0d3d9cc66438d"
+      }
+    },
+    {
+      "uid": "16e90c221bdd7cd7b32064aed330e78a8b3bd81bd9fa17489f8a220efed5282d",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08131.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08144.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "40127685ceb50be7ed201b0cd4920a85e30700f23ec08766f1032b7cbd28210f",
+        "filename": "DSC08131.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08131.jpg",
+        "sha256": "3692dd20e06fd49fcf690ea70464553c0a5c48a09b554af742948bed561461bc",
+        "phash": "adb9d8c6334ce690"
+      },
+      "right": {
+        "file_id": "490a4c2fbcdeba81190444783749e2347adac7aa616231eef562940a2079e882",
+        "filename": "DSC08144.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08144.jpg",
+        "sha256": "2cfc5ebeab20349f8b73fb0405802bd67ebe5f913aad81b3fff0e29eb990162d",
+        "phash": "adb998c663496693"
+      }
+    },
+    {
+      "uid": "b90783548540059407c29b735c97406b93770e2e41078b4cf860921d9e599302",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08158.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08159.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "bdb32f764f2e59d033f9e12e857100821b502ebfab1801ab9c50a22c5497fe8b",
+        "filename": "DSC08158.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08158.jpg",
+        "sha256": "3f11adcaa84e6da688f170444497795a3bf53e729bef36953021223f39755c94",
+        "phash": "b98d66d3cca6124d"
+      },
+      "right": {
+        "file_id": "f9c2ea8036ccaa46eca83ecd5b68ae8e0c50d853e6e518ea109c334804c6ad5d",
+        "filename": "DSC08159.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08159.jpg",
+        "sha256": "b67d688df1ede2c5d9e13d748db324a96f634618762eef32cdff96c1b9a2df07",
+        "phash": "b99966d2cda43269"
+      }
+    },
+    {
+      "uid": "e145f3a7586c6d665db69591735a1002e6dbb9a3c8b1dd21394a53092eaa672b",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08168.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08170.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "dc526e3c09911813852f9ca4f17e3b3b2668abd908f6a9e712c9c9a8755b8b3f",
+        "filename": "DSC08168.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08168.jpg",
+        "sha256": "93c7d0d867b649a9fb2ea9b20670176936966aaf11a4763fe6946c60f99ee7c2",
+        "phash": "b3b2980dc3b3c54b"
+      },
+      "right": {
+        "file_id": "140a031be00087ec7c257ebc237afcb14fe84609853348e4ed1523d34fe1edd5",
+        "filename": "DSC08170.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08170.jpg",
+        "sha256": "fa10a1a894229e67142937b26144643bd9e0279d25c183261d93ea60c8b33e3b",
+        "phash": "b19a9c0cc1b3c76b"
+      }
+    },
+    {
+      "uid": "99d3832cb487bf2e91633d21e4ac56e9fd8e91490e57ed4dffa4089f8c9ca5b1",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08170.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08171.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "140a031be00087ec7c257ebc237afcb14fe84609853348e4ed1523d34fe1edd5",
+        "filename": "DSC08170.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08170.jpg",
+        "sha256": "fa10a1a894229e67142937b26144643bd9e0279d25c183261d93ea60c8b33e3b",
+        "phash": "b19a9c0cc1b3c76b"
+      },
+      "right": {
+        "file_id": "7dbda3f5469146b85660a6f83303b4ccbd188409c5ae2146958b9cc9adc791cb",
+        "filename": "DSC08171.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08171.jpg",
+        "sha256": "985c0e2e27c8fa2efc09431ff38e51da6f3eea2d33a5487e81d5418d590936bb",
+        "phash": "b198cc44e1b3476f"
+      }
+    },
+    {
+      "uid": "6d8920db55bad425b762b141b6e9c34efc2bbc2998ee6913cf98daf1b01ec717",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08179.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08184.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5ca750a244c1a19d2f4c2b57d66ed3db4224bb4be4f0582c1bdc85267ecbb40c",
+        "filename": "DSC08179.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08179.jpg",
+        "sha256": "1e08886e264ba69d69e5d3abec295cd0ec55327ff284647a196199dd9f20b347",
+        "phash": "a1b99ee3c6c68e0c"
+      },
+      "right": {
+        "file_id": "9a18de178a91590fa4444bfd896dfa327e5b35353e0aea47516356e5dea1f780",
+        "filename": "DSC08184.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08184.jpg",
+        "sha256": "9e215613a7d548e42daf6044c85eb15cbcde8ce2135891a16fb800b514b966ac",
+        "phash": "a1b9dae3c6c69898"
+      }
+    },
+    {
+      "uid": "f33ef0cccd3c1631b70b2d692857ff4281b84448a0def897c83421242e9af95c",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08180.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08181.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a135bb984ba1e651da24484628fc69188ef0e48a74eb70972a89276a51400dbd",
+        "filename": "DSC08180.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08180.jpg",
+        "sha256": "cd92a571544ab8f04bae1564dbe96f422946ade9394afb4ff1aabf7ec2ee5ab9",
+        "phash": "a49cd3f163c28e0f"
+      },
+      "right": {
+        "file_id": "94b24cbe24df1a103901fed8bc9841656e4c6a6b21b3aa37f98d27c853125d96",
+        "filename": "DSC08181.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08181.jpg",
+        "sha256": "1cd8c026685e0aaccec4a3bd7aa6e12ef2c4fc957c9e54d8242736d33f0f07cf",
+        "phash": "ac9c93f063e32e07"
+      }
+    },
+    {
+      "uid": "4cfe0a09efb4a9af89ed66875d430493479ba212974a502f84a3eb0052311fc6",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08292.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08293.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "19b3e13fa2f40dce23a7a7eb9e85c825b0528b2ca920d10b11986270dcdb0a5d",
+        "filename": "DSC08292.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08292.jpg",
+        "sha256": "b4e30d0b0359f1be15b460a684cc3542e4151cf353336d139ace844e0489ede4",
+        "phash": "a5a5da961ecc9839"
+      },
+      "right": {
+        "file_id": "a3b21be2b0b51932619433bbe6d5e6e462aa1676f9fc966bfff7e459fe62450d",
+        "filename": "DSC08293.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08293.jpg",
+        "sha256": "41eeb8b5555680225d8c1e3d7c6d007e2f767c979ba0b654ae001ab2825c9454",
+        "phash": "a5a5da964ccc1973"
+      }
+    },
+    {
+      "uid": "f445885e481b899e8404494bdc4dbe827214a2ecef021b3771d9390d640e6cde",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08292.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08296.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "19b3e13fa2f40dce23a7a7eb9e85c825b0528b2ca920d10b11986270dcdb0a5d",
+        "filename": "DSC08292.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08292.jpg",
+        "sha256": "b4e30d0b0359f1be15b460a684cc3542e4151cf353336d139ace844e0489ede4",
+        "phash": "a5a5da961ecc9839"
+      },
+      "right": {
+        "file_id": "9565bd4d3cf377f893bbd6e86756a993a749efa0a4dc2dffd96cf78ad779e631",
+        "filename": "DSC08296.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08296.jpg",
+        "sha256": "9787ec78d7010bdc24cbfd11c5ad66f779cca4ade8d116f6e22ec71afdb9d7d8",
+        "phash": "a5a5d2961dc89c9b"
+      }
+    },
+    {
+      "uid": "61c02210deed230e53e2501b7e02a920d4af18e6e4a155e333249c8a1cd13b07",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08299.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08301.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "d9a05ce436560b7d7cfb3192f3c27cc3610f1072ac97507adcf8eecc7a200701",
+        "filename": "DSC08299.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08299.jpg",
+        "sha256": "270b3ffa6ec3cc78941b4a0eb40d81cd5f5eb99d404f91f547a66d1ea61ae87f",
+        "phash": "a1a5de9639e31b60"
+      },
+      "right": {
+        "file_id": "7e2d6a6ab8f047dc92dc0d00dcbd3c517ebc47d5ab7bbd94354e0ff750ac201a",
+        "filename": "DSC08301.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08301.jpg",
+        "sha256": "6080578441be004f684488b45d98c1e5b502b69f882e5e87a89ff0d5f8572bce",
+        "phash": "a1add69e38ca1b61"
+      }
+    },
+    {
+      "uid": "443516d116708daf409f6e7c80507435bdb52dd59ad1458cd208947c17b372d5",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08300.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08301.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "be2b64681f53c9872b47d73ff7d70019c438a6dd1c3c5281c7923412e2e942a7",
+        "filename": "DSC08300.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08300.jpg",
+        "sha256": "f03273005b7f1fb3f5c8df2064233a519bd16538ce968d38929eff7acf284857",
+        "phash": "a1add69678cb3164"
+      },
+      "right": {
+        "file_id": "7e2d6a6ab8f047dc92dc0d00dcbd3c517ebc47d5ab7bbd94354e0ff750ac201a",
+        "filename": "DSC08301.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08301.jpg",
+        "sha256": "6080578441be004f684488b45d98c1e5b502b69f882e5e87a89ff0d5f8572bce",
+        "phash": "a1add69e38ca1b61"
+      }
+    },
+    {
+      "uid": "b3ea65730192f33975a5d9afa6cc1d708e31b5a0ad5fa870af9e5e612c9c1b13",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08339.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08341.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "818c166255b006d7a293fc1e7927492326815f90dae21b84ff92d32b96dd1149",
+        "filename": "DSC08339.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08339.jpg",
+        "sha256": "a119c88ec8d6d222826a3199ddcd7e2292ba590a9bf6debef14f5b99c2477101",
+        "phash": "b9f0c2cb83656e8c"
+      },
+      "right": {
+        "file_id": "df3a24c0e4d5c4121e3874afb87841c8642657eb1f5bfdce6ddfcb9593fb755c",
+        "filename": "DSC08341.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08341.jpg",
+        "sha256": "8552477e418409e9cca8f57a85b752dace987d4ce2dc831dfe050d53ebf0583f",
+        "phash": "b9f4c643836d4e98"
+      }
+    },
+    {
+      "uid": "aabfdf53d84fc8e080f91eaca38fa2148a92dcde4248e80a3fdd0b64d9d18ed1",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08342.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "f991000e3a9199a1748c4c031fe8d34e41840bb4406783d2a8bf3d487e5e50fd",
+        "filename": "DSC08342.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08342.jpg",
+        "sha256": "9fb0b3a256eeab9abefa30f44a40abf4c78cfefa9f7bda8bf1fd4a426f6ee5f5",
+        "phash": "b9e4c5928e6d9c91"
+      },
+      "right": {
+        "file_id": "2e5b24f2be5bc731e8d7f902758f0bd0ad305b95761aaa28a37a63eccd7e26b3",
+        "filename": "DSC08369.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg",
+        "sha256": "d0a0756eb65dfe82f140f518275af3114adfa9ee4172f3bf9258814d24844095",
+        "phash": "b1e4c79b8c6c9899"
+      }
+    },
+    {
+      "uid": "dc05afd91ea3702c034c295a0015316aa2bdfc68a1fa29591f6b6738f46d09c1",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08350.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a3ddd2545ccc806d767d97ed92a9ffdf4e504a89a27b07528ae0c539a730ef5d",
+        "filename": "DSC08350.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08350.jpg",
+        "sha256": "cab266f8f8708f546559df20f4450ec55248df7a7b8b350a46e0c2b73756580b",
+        "phash": "b9f4c6cb8d249899"
+      },
+      "right": {
+        "file_id": "5d953ee9ba40bb17a147e08609f0261ffc1b0169493ee0ba44f9e6c5d14155fa",
+        "filename": "DSC08351.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg",
+        "sha256": "1e0184bf9aeee2783448a8d7f790e85fe84ab387abaa8eee95210176561d0a09",
+        "phash": "b9e4c69b8c2c98b3"
+      }
+    },
+    {
+      "uid": "f8a052b74101c2231103e72dd0d4f3e04934a42dd76e74b59d5f5c07d4561d97",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08350.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a3ddd2545ccc806d767d97ed92a9ffdf4e504a89a27b07528ae0c539a730ef5d",
+        "filename": "DSC08350.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08350.jpg",
+        "sha256": "cab266f8f8708f546559df20f4450ec55248df7a7b8b350a46e0c2b73756580b",
+        "phash": "b9f4c6cb8d249899"
+      },
+      "right": {
+        "file_id": "2e5b24f2be5bc731e8d7f902758f0bd0ad305b95761aaa28a37a63eccd7e26b3",
+        "filename": "DSC08369.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg",
+        "sha256": "d0a0756eb65dfe82f140f518275af3114adfa9ee4172f3bf9258814d24844095",
+        "phash": "b1e4c79b8c6c9899"
+      }
+    },
+    {
+      "uid": "6c2023f85b5e6dbad4a33727d90f3c409b33a9411817b8916837d092135cac7d",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08352.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5d953ee9ba40bb17a147e08609f0261ffc1b0169493ee0ba44f9e6c5d14155fa",
+        "filename": "DSC08351.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg",
+        "sha256": "1e0184bf9aeee2783448a8d7f790e85fe84ab387abaa8eee95210176561d0a09",
+        "phash": "b9e4c69b8c2c98b3"
+      },
+      "right": {
+        "file_id": "795260e59cf4d3787d7489a4e81ec3448537132553f48f913ec14ad3f6cdb947",
+        "filename": "DSC08352.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08352.jpg",
+        "sha256": "b7e1ff690838531de26f856afcf095f1aae9ab30efa4a3b1591b28b5383c0bbb",
+        "phash": "bde4c29b8e2e9819"
+      }
+    },
+    {
+      "uid": "b2abe5cb6eda7f8f05a892988c6755e1a23a638ba68a16d1ccc7551dfbab545d",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08359.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5d953ee9ba40bb17a147e08609f0261ffc1b0169493ee0ba44f9e6c5d14155fa",
+        "filename": "DSC08351.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg",
+        "sha256": "1e0184bf9aeee2783448a8d7f790e85fe84ab387abaa8eee95210176561d0a09",
+        "phash": "b9e4c69b8c2c98b3"
+      },
+      "right": {
+        "file_id": "d111b24b334336cc3d900c78334f1d4259fca65533b0e3710b09eb84bd98b6d0",
+        "filename": "DSC08359.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08359.jpg",
+        "sha256": "dd39009bf57b31ed7d5630e764bd6422db5c3f7e64340817cf767c612e422547",
+        "phash": "b9e6c69a866d9891"
+      }
+    },
+    {
+      "uid": "7028eac5eeb22b4043080126ecce0288ce807c987ba96c78cd7eb4ba160c73eb",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08362.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5d953ee9ba40bb17a147e08609f0261ffc1b0169493ee0ba44f9e6c5d14155fa",
+        "filename": "DSC08351.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08351.jpg",
+        "sha256": "1e0184bf9aeee2783448a8d7f790e85fe84ab387abaa8eee95210176561d0a09",
+        "phash": "b9e4c69b8c2c98b3"
+      },
+      "right": {
+        "file_id": "f53e995bbd0a25cc6fc0c1e22fa644e0d927c134b8465f8cf6314237f213bf93",
+        "filename": "DSC08362.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08362.jpg",
+        "sha256": "5c59f905dc5c6addb3124a9a3ce7bbbd4ca7a1f0838583823140c11cb2a1eb3a",
+        "phash": "b9e5c6da8c4c98b4"
+      }
+    },
+    {
+      "uid": "22a549a2c76dad93d37348b9528724a1fc565f98494003678a406f2b4dd6c035",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08352.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "795260e59cf4d3787d7489a4e81ec3448537132553f48f913ec14ad3f6cdb947",
+        "filename": "DSC08352.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08352.jpg",
+        "sha256": "b7e1ff690838531de26f856afcf095f1aae9ab30efa4a3b1591b28b5383c0bbb",
+        "phash": "bde4c29b8e2e9819"
+      },
+      "right": {
+        "file_id": "2e5b24f2be5bc731e8d7f902758f0bd0ad305b95761aaa28a37a63eccd7e26b3",
+        "filename": "DSC08369.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg",
+        "sha256": "d0a0756eb65dfe82f140f518275af3114adfa9ee4172f3bf9258814d24844095",
+        "phash": "b1e4c79b8c6c9899"
+      }
+    },
+    {
+      "uid": "92f5de6255baf5f8f48873a4e6bee117d0dbc5f71f4bf98f345f3ae7dcf134e9",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08358.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08361.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8c15dc9e8fce8d58ec579691628c945300c9e0da0bcc73f672028958038e1d37",
+        "filename": "DSC08358.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08358.jpg",
+        "sha256": "661d56a4b0b548562bd87d788c0d6e42986237392955efbbefe67f39561559d0",
+        "phash": "b9f2c6cb864c98b4"
+      },
+      "right": {
+        "file_id": "e5554fb2a5b17b9047af42ffc98446d67b1e00b64a39aa88c8578a9de99bd739",
+        "filename": "DSC08361.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08361.jpg",
+        "sha256": "15fc539e9b5ccb3bf32f4c871f441328b8b920df7fd48ec9fcab8e7d344e0487",
+        "phash": "bdf0c2cb474c8cb4"
+      }
+    },
+    {
+      "uid": "794f5474e4f7264d4e4cc9641bc4d2af705d227a002e1704a6bc62bf102fe76f",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08358.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08362.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8c15dc9e8fce8d58ec579691628c945300c9e0da0bcc73f672028958038e1d37",
+        "filename": "DSC08358.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08358.jpg",
+        "sha256": "661d56a4b0b548562bd87d788c0d6e42986237392955efbbefe67f39561559d0",
+        "phash": "b9f2c6cb864c98b4"
+      },
+      "right": {
+        "file_id": "f53e995bbd0a25cc6fc0c1e22fa644e0d927c134b8465f8cf6314237f213bf93",
+        "filename": "DSC08362.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08362.jpg",
+        "sha256": "5c59f905dc5c6addb3124a9a3ce7bbbd4ca7a1f0838583823140c11cb2a1eb3a",
+        "phash": "b9e5c6da8c4c98b4"
+      }
+    },
+    {
+      "uid": "a3075738bf6b93c75988bd6efb8b916b1fff17043239b556bc21674a1cdfb1c6",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08358.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08450.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "8c15dc9e8fce8d58ec579691628c945300c9e0da0bcc73f672028958038e1d37",
+        "filename": "DSC08358.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08358.jpg",
+        "sha256": "661d56a4b0b548562bd87d788c0d6e42986237392955efbbefe67f39561559d0",
+        "phash": "b9f2c6cb864c98b4"
+      },
+      "right": {
+        "file_id": "038ed6d9421d8239d0bda6658a1e5b900b85c2f9c7b241e67bba11acb639549d",
+        "filename": "DSC08450.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08450.jpg",
+        "sha256": "6acb539409b1a9f276274a6de70609a001b63d2ff9f8ce29180f5090e15c0cce",
+        "phash": "b9f2c6cb466c9918"
+      }
+    },
+    {
+      "uid": "b8d209161bf5a2c49e1eb84bfa7c8194826bcbc8975e97c6ac2fdf9e2bc81170",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08359.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "d111b24b334336cc3d900c78334f1d4259fca65533b0e3710b09eb84bd98b6d0",
+        "filename": "DSC08359.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08359.jpg",
+        "sha256": "dd39009bf57b31ed7d5630e764bd6422db5c3f7e64340817cf767c612e422547",
+        "phash": "b9e6c69a866d9891"
+      },
+      "right": {
+        "file_id": "2e5b24f2be5bc731e8d7f902758f0bd0ad305b95761aaa28a37a63eccd7e26b3",
+        "filename": "DSC08369.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08369.jpg",
+        "sha256": "d0a0756eb65dfe82f140f518275af3114adfa9ee4172f3bf9258814d24844095",
+        "phash": "b1e4c79b8c6c9899"
+      }
+    },
+    {
+      "uid": "4116a479c7e10703e1c242682cb0cd45c48ed6b2c7c9ae13f5d160f73627bb7a",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08373.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08374.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5bd9ce678203eb7be588cc0c5c506725745d47762f57696585beb13fef57802a",
+        "filename": "DSC08373.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08373.jpg",
+        "sha256": "fad086262b8ac64b5b19e4d546c71df8bc72f5a4803ca2a762067668e925d7af",
+        "phash": "bc98c961c627cb96"
+      },
+      "right": {
+        "file_id": "4bd354481e37fdce1fec99e716934f29582fb17e84c73ebea7f0a61c83d1981b",
+        "filename": "DSC08374.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08374.jpg",
+        "sha256": "bce718e1e23e3a8bb2c17aa25a43c92860f1e526b45e91a9a8c2be58a4e92067",
+        "phash": "b091c967c627cb9c"
+      }
+    },
+    {
+      "uid": "1e4c09c280576e65de965650fbb1ad94bbbedfd2a9886e8b3167145f4e49113c",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08391.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08393.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "88030ffd93eada4f0a8fb8aa7958772a9a04c04cfb2af6dae152cd0f9494e775",
+        "filename": "DSC08391.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08391.jpg",
+        "sha256": "f78f25ac2c53b882e72d31429db6d0c6d1169b0c44f2b707276b0f282480ecde",
+        "phash": "bcd9d2b26b818666"
+      },
+      "right": {
+        "file_id": "b6591eeee5208fc4bf95c59bd8035fadd249a21f369a2be86a3570daf9ceb71d",
+        "filename": "DSC08393.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08393.jpg",
+        "sha256": "7529d6dbdf22301bac13a2bd0b97f1b135416b9422b3232011097b19ad565159",
+        "phash": "b8d9d2f2698d846c"
+      }
+    },
+    {
+      "uid": "ee0b724ebe0a1efb0f876b7b17977dc1a293cc08c07c210ad64170aa29581089",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08462.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08464.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "ad78fcd1a975fdbd001bd983e614dcdb37ef35cf52dcd5f04650dc9f4f1501ce",
+        "filename": "DSC08462.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08462.jpg",
+        "sha256": "5e1757e3d133012f7bc554ae64aaa05a3061b886c6da824a09b3098547a4baac",
+        "phash": "b53fc3c2d904962d"
+      },
+      "right": {
+        "file_id": "7a73d482dcc37805116f53a8530dcdee1923ef29433cf94c2317123501faff22",
+        "filename": "DSC08464.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08464.jpg",
+        "sha256": "cf08f3b4129fc81ba49d00ef07c86c7666da0b368c08c297ee94154f9b30842d",
+        "phash": "b43dc3c3c90c9637"
+      }
+    },
+    {
+      "uid": "7c605ba8654eb0ff9ab4e5ed6ea45e67787e4104500d4e99baa67d661ae3a4b6",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08463.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08464.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "463bd4b74d482b9773465d8c1da3b445db337ce46a87ee59ff2345460e969e9d",
+        "filename": "DSC08463.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08463.jpg",
+        "sha256": "3cb2e9210a6d8e415f5eea0bce2c1fabac381afbf2708f20f187329218f76b77",
+        "phash": "b42dc3c2cd749636"
+      },
+      "right": {
+        "file_id": "7a73d482dcc37805116f53a8530dcdee1923ef29433cf94c2317123501faff22",
+        "filename": "DSC08464.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08464.jpg",
+        "sha256": "cf08f3b4129fc81ba49d00ef07c86c7666da0b368c08c297ee94154f9b30842d",
+        "phash": "b43dc3c3c90c9637"
+      }
+    },
+    {
+      "uid": "45b2800b9f4d1ca9c03a7591bb88467e8e64817a89ad05229b8a92a456023563",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08483.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08486.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "1a83bf16bbc212220ace15db81207f463cee4078702b22742f9d6cc62c5ec9da",
+        "filename": "DSC08483.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08483.jpg",
+        "sha256": "bfb6cf4ad9d50d88eb16c5d7f3f1f7cbadf29397e2535fe9b61b5d8eef201707",
+        "phash": "b2c1c3cfc60cce9a"
+      },
+      "right": {
+        "file_id": "5d2743f28b086487ce02bc8bb50e6faf80c671a2dadbaf3aecc5fce96d29da7a",
+        "filename": "DSC08486.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08486.jpg",
+        "sha256": "22b2e92ad7417e64ea3716aa8d3431151bc5460fe89c4db7ed5585c19fbcf8ba",
+        "phash": "b2c9c1cfce0cd899"
+      }
+    },
+    {
+      "uid": "fd647f2d9e847ee90900d265209d0189a26739c28866028321966f65ba9e036f",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08483.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08493.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "1a83bf16bbc212220ace15db81207f463cee4078702b22742f9d6cc62c5ec9da",
+        "filename": "DSC08483.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08483.jpg",
+        "sha256": "bfb6cf4ad9d50d88eb16c5d7f3f1f7cbadf29397e2535fe9b61b5d8eef201707",
+        "phash": "b2c1c3cfc60cce9a"
+      },
+      "right": {
+        "file_id": "1dfdbf3c41b291964f0cb538690de4d88ff0d8a4dc8b78b94536ca24ef9662a6",
+        "filename": "DSC08493.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08493.jpg",
+        "sha256": "f7aefffd6a15d5ef606857d48d05e25c40f6828fa71f77f5fe9c6244d65a99ce",
+        "phash": "b6c0c3cfce0c9a99"
+      }
+    },
+    {
+      "uid": "8fa02d3684bc6415659b1d242e31a6bf3abde9c88ef94b6ea38ceef2904fa5cd",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08488.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08489.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "adb2911755cb4ac78fa21315cccefb1bf1c065a1ad3afe36cecd0e81ec66a6bd",
+        "filename": "DSC08488.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08488.jpg",
+        "sha256": "49d0dcd4fe9711cb8403695a3b334b002d70cc485afd6f3c333ba140d91b3d3a",
+        "phash": "b5d0c3c347869bcc"
+      },
+      "right": {
+        "file_id": "31bf8ce2c4d424bcd71ecc4b9db8cd2b0ac982132a4b663a0875d4abd2f09d54",
+        "filename": "DSC08489.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08489.jpg",
+        "sha256": "cd23fe74926dbea5205ba7956b6f71c1f76d4097313ae1735c859e9b357361ae",
+        "phash": "b5e0d2c367868ecc"
+      }
+    },
+    {
+      "uid": "dac4ba950d4914536fefc234aa427323bf4b178b279fd15a089b266a7056abcd",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08526.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08527.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "648237697b1465b27fd7e77a618f7e0ca20b65b84f282b1a9e3234610a5ca5d2",
+        "filename": "DSC08526.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08526.jpg",
+        "sha256": "2c6ba79572bd491e310e4f3e557d82cbd6915cb36492fad22f02273172d5e13c",
+        "phash": "b935c4c2c74b4c9d"
+      },
+      "right": {
+        "file_id": "919d8b5f1dcbe5f9827aa2cb8fde5dccea241c0c6100f68b05af765a1646f24d",
+        "filename": "DSC08527.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08527.jpg",
+        "sha256": "d005742cb78e3cef3b4c107f7acb491c4d5f26252a35a7687938f6ea92a3b5ce",
+        "phash": "b930d6cac74b4e8c"
+      }
+    },
+    {
+      "uid": "16cc011ae8ae60a9eaa7086b63e125b85bf5dac1cf45a5a031a1cc12e91d125f",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08537.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08539.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "388452ed21dc109318cc7e13173b7e0767e1a874469afef9d9c81bbebe7ed43a",
+        "filename": "DSC08537.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08537.jpg",
+        "sha256": "796c4b610620fec3375482ee653cdafc97e51e3acf2774cd1fa4fef0c70a6f4b",
+        "phash": "b83dc3e0709d95c3"
+      },
+      "right": {
+        "file_id": "6fda3a2a041a8cd16c8bcc98acb1f7f04708347cb1c79cb9235045d497d69e98",
+        "filename": "DSC08539.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08539.jpg",
+        "sha256": "56a2164d811ec5a4f929902bf7fe0893d1d557fc393f58bd26eb65eec30066cc",
+        "phash": "a87dc2c07a8f95c3"
+      }
+    },
+    {
+      "uid": "b1b01361b3ebae8b48a68ad22804664d131bdf7abb247e3a94f50530aa51be7e",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08552.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08555.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "a992212b09761dbc1cb3b859c27ad4b9ad60622fb4ea1ac1bd000e55a5e3b65f",
+        "filename": "DSC08552.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08552.jpg",
+        "sha256": "a17d9a6dfb764d265f43ee30a3f6e1c353430c2e8f525e26ce3c6eef8f84b1f2",
+        "phash": "bf9cc86183cb271a"
+      },
+      "right": {
+        "file_id": "223f5946eb88adbdd7b2964afba403e7a4928271735c4c7478ae3968a158ad5f",
+        "filename": "DSC08555.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08555.jpg",
+        "sha256": "fa1d61bcebc2c3a25e0d4cf809495c880577dc2ebba55727ec47ca5600db570c",
+        "phash": "bc9cc861a3c3679c"
+      }
+    },
+    {
+      "uid": "e95db73f0d4d35b9a9c3a79580dcb889a696411a34e1dff78dfeb60b0ada398d",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08553.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08555.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "c30e9d243895496b3705b5dc5c3b1203daf19cf80da1d17c745a40b0ac2b3abf",
+        "filename": "DSC08553.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08553.jpg",
+        "sha256": "94cb92725eda4a114e58c1244d14e0f3e7848ba9c5765a62240078c26a2211f6",
+        "phash": "bc9cc06193cb273e"
+      },
+      "right": {
+        "file_id": "223f5946eb88adbdd7b2964afba403e7a4928271735c4c7478ae3968a158ad5f",
+        "filename": "DSC08555.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08555.jpg",
+        "sha256": "fa1d61bcebc2c3a25e0d4cf809495c880577dc2ebba55727ec47ca5600db570c",
+        "phash": "bc9cc861a3c3679c"
+      }
+    },
+    {
+      "uid": "2c3d87d22072d41b02f88936fc1d9a2e5f23fe619b4b7088400a9038ee7dbd6c",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08554.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08561.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "5cd5f9b43448e06baad9b466d3270fa416e5b787035a9c4afbe90e8799a1153f",
+        "filename": "DSC08554.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08554.jpg",
+        "sha256": "f2eda279d7ab5fa128faa4317872e054169c7bb204777237256c2da0e861a850",
+        "phash": "bf9ec860b0c1e387"
+      },
+      "right": {
+        "file_id": "b800c18535edd9b16d12f3402e4a9838acb8572c3554eff20942bef423f94503",
+        "filename": "DSC08561.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08561.jpg",
+        "sha256": "b9add0f7961eb329826d6fdcb03da38b84bac61e4eedbcfa617afe2df9c70fcd",
+        "phash": "bf1fc86434c1c3c3"
+      }
+    },
+    {
+      "uid": "0f323099cff934842f565524803621323c30f4ee4e48b1f0e5b8034eadce9e46",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08559.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08562.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "144a12d43317cec9ddf0ece7b3831d126e6660c07c0a061adfe7460a1ec96603",
+        "filename": "DSC08559.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08559.jpg",
+        "sha256": "9d86862458d31372e059a5d1cf59639df429ea0038867c2a811cb4066c3abc29",
+        "phash": "bc98c966c3c71b2c"
+      },
+      "right": {
+        "file_id": "c12dc1339eba9e9bc3b85f2766e73a318d561dd80efc3da4178884345007eff1",
+        "filename": "DSC08562.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08562.jpg",
+        "sha256": "24db16e959593f0fc962b2944596c491497d0d91f3cd1cc1bc41f179e6c9188d",
+        "phash": "bc9ec164c3c3173c"
+      }
+    },
+    {
+      "uid": "bd6b55eb9775612ec9f6f9ea70b297ee55a2891192460bcdf9c69777c00dd967",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08563.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08565.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "b9fac2442bfe0b85c3b202444fffaa9b5487fc39355e66d8529d4fd43a5f595c",
+        "filename": "DSC08563.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08563.jpg",
+        "sha256": "39e1d28ead3076dfec442ea3750b1a3bcc67392168abaf3d3d754045d64a1403",
+        "phash": "bcb241cb8f3e2c70"
+      },
+      "right": {
+        "file_id": "c535ad36990eecbb6ecc931d2ce93254c8ef5c5bbcf429268c41711d084963c3",
+        "filename": "DSC08565.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08565.jpg",
+        "sha256": "6f5416469e618f0bc9892cc8d3cec256f429f306a9e63538b12f06efe53d1491",
+        "phash": "bcb443cb8f3c6861"
+      }
+    },
+    {
+      "uid": "0b15b7f90182e09d9c1434c30f314b7954fc6d66682816534831758193e0985c",
+      "distance": 8,
+      "threshold_used": 8,
+      "command": "open '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08593.jpg' '/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08594.jpg'",
+      "processed": false,
+      "left": {
+        "file_id": "e9eb1199deacbd5ead437be90274c3a0fec9782eb64311a1a5b36670979c504e",
+        "filename": "DSC08593.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08593.jpg",
+        "sha256": "11ecb0bb14efcbcff5a3eefae21051c83e77759f0e3cdc8e76bc575c4ba8ce5b",
+        "phash": "ad3df1c6064acb83"
+      },
+      "right": {
+        "file_id": "5621413edf7ef7eaa3d1542f922ee1ec7a134ad67d963a0ed62c821619e6ed64",
+        "filename": "DSC08594.jpg",
+        "extension": ".jpg",
+        "path": "/Users/alexander/Desktop/MyProjects/photo-duplicates/files/Диана/Беременная фотосессия/Диана превью/DSC08594.jpg",
+        "sha256": "b3b9749b5f7a3a2706e2ecf2ad2c6c0cb0cf32fc3dad890e23b50545bfcecbf9",
+        "phash": "b97de1c6844ada83"
+      }
+    }
+  ]
+}

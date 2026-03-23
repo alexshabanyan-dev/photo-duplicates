@@ -1,0 +1,1370 @@
+[
+  {
+    "file_id": "4e92624274de2c7c411b9212fd5c669d3fc915fea923669024e22a00e11f286c",
+    "filename": "09022010344.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010344.jpg",
+    "sha256": "54ef297314c9f3d1611c57967baec08f5d7f700fb16751a80840180f2269e7f6",
+    "phash": "e038cee299ae0b6e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d3b151e038d35cfece992e64c4f440e80fb8f8f32b8a2606ed19f3bcef7cf01b",
+    "filename": "09022010345.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010345.jpg",
+    "sha256": "3058fee0c84a88a3d4145335ee73518363ec9381045de319d1a80dde07bfbece",
+    "phash": "f08fd78256d38a89",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "427bf283c6742b69b48dea4245dace3f3ff32dba7e70fcf56678748ac798bfa2",
+    "filename": "09022010346.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010346.jpg",
+    "sha256": "6e45ca4d1a6958f9c9b81f7435b498af45d2badeccb70403e217a560065a4582",
+    "phash": "ba87e0f2c7d1b803",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "562aa84803a83316156c1ed95e13bb89b6e7b12fba997c51b561c235727a4389",
+    "filename": "09022010347.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010347.jpg",
+    "sha256": "40824570d12499f4ca2ddd9a676f8f97a11a63f9654e91f5c0d24e62e9afb8d8",
+    "phash": "fd53222b75d89306",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4a4fc7f490a3019ede3578f1dc817ffc3ddada57498ddff0b819812a8d43a42a",
+    "filename": "09022010350.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010350.jpg",
+    "sha256": "5800dad778e339ccd4f26ea6235fa2b13273d7ca5651eafd36941cc4467358e8",
+    "phash": "d2878d1a1a8ba76d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "364e153d140e98019226aabcbbb28af757481b60821cd44b7688486a641489f2",
+    "filename": "09022010352.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010352.jpg",
+    "sha256": "aa60b0e0f12bf7a98b383825e7fe5fee4f70d404aa848aef3a247e87bd801170",
+    "phash": "be958b09eaa63d18",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3df09dee47a38cf8546ef3c380070a020467709014e630a2300f47e2dbff08c1",
+    "filename": "09022010353.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010353.jpg",
+    "sha256": "134a8b453f59ecfe30cd880827faa18f9590ba2fb787ac9b42c2b6a22a1bca70",
+    "phash": "aa98ba3e057836c7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ae8609d9f927dd4410c9ed3df46fec5da6a7aeb226e5ee0077d8a35ee3c47b36",
+    "filename": "09022010356.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010356.jpg",
+    "sha256": "24df0d1d453b882f01e08878fd6461928ddbc240856c44feb46d8caab80d1e23",
+    "phash": "81bf3a63a54d4a3a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1b401c60d3012d948d2304eaf0a4ecf98a43024c7b7ac763bd27f3a4a37474fc",
+    "filename": "09022010358.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010358.jpg",
+    "sha256": "b91fb15af6a66f2511a86061351cba211a4ac4f57a8d3bf5f201b497bb2d9e2d",
+    "phash": "ea4a95b9b324be84",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "603b1a005ac089cd3be8dafa64f13aab5cf95b7ca2b1f4891e2e4ef3e619e4fb",
+    "filename": "09022010359.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010359.jpg",
+    "sha256": "094f189d0f7de7bf1b7b2980d1e6611a418f647383550b12df92a6c6bae25c5c",
+    "phash": "ade96dc992b03266",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4ec04f10eddf2eafd0db9e029bc21ab738921d56cc1ce3d04158bc22704a5ab2",
+    "filename": "09022010360.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/09022010360.jpg",
+    "sha256": "ae2a21dc505f20a4dfbaac895581c2d17e3887feb7d0589bf8171fcb362fadc9",
+    "phash": "bafb8725e04ecc24",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f1539945cafde39637086fc70a5a416ed457123be849361fd2933cbe01b86925",
+    "filename": "09022010064.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/201001A0/09022010064.mp4",
+    "sha256": "aa596dab52ba668dc23df63b5c51f9104a9bb4e6d0903e7a9358f17428051bc6",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "49a065710f9cf52fac9989c4f5e96e292657504b5500272f2c06ea6a96541eed",
+    "filename": "09022010065.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/201001A0/09022010065.mp4",
+    "sha256": "533afa33fbeb813817ac7759ba9cb743384a20503a46aa7c3f820f63e31aa339",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "38dcf7c6a34940d055e7c105eee4c8117c27d3cd324d1a1e656f2915295fe3b8",
+    "filename": "09022010066.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/201001A0/09022010066.mp4",
+    "sha256": "ddf13d8e02423e434141577ca310c82c4ecdab9a8facd94244259561065924ae",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "de40159cd121ff796dbe9d3c873137b791514ebee0a8123886c993888814dbb8",
+    "filename": "30012010056.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/201001A0/30012010056.mp4",
+    "sha256": "dc0f91a919216af5f983c4e384afd8a0d8eba4c8f0127fbe49cb15cae0094572",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "78e12bb03c10350eec7892111634a01fcea30cb8df8dd0a20f14a3009b2e592c",
+    "filename": "30012010057.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/201001A0/30012010057.mp4",
+    "sha256": "961efe0a2079d20604ca5d9095d493321763fc896211a069fff0dfc466c1847c",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6bb46091e66abd9be5f706206624ba44d082ee3249602581a047d699f049dea7",
+    "filename": "30012010058.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/201001A0/30012010058.mp4",
+    "sha256": "5e8a6d3e10d0e7b32032c27f61ac2b1a71810b26272e0917ff5beef0004dc279",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "82f5f7a2affb8c9b83d7bb28e791ed46138680b6b401a7741b296e98364a813e",
+    "filename": "5.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/5.jpg",
+    "sha256": "4f5465298df22fe9e2cfc72fc882aecd904ab4fd54717bde241b8a5e0f74d91c",
+    "phash": "a5032d78c5524fbd",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b6517f43851e6bc527bf370af27ba8a440bbc0f00401bdef62c46ffb2401bb94",
+    "filename": "YQdCbRLZYWg.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/YQdCbRLZYWg.jpg",
+    "sha256": "04a0ba4a308afd1642e4a908d18adf64ad18ae739078b9a01a3b4a765070e5e1",
+    "phash": "b1841f5272696ba7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d31bfc73e83ebbe51a0c3c8a195cdc354da3bd384809fa74d0d9b6a49171958a",
+    "filename": "uc9bWwhZiug.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/uc9bWwhZiug.jpg",
+    "sha256": "540933e974f4a1eefa4d3cc423711c8a85048ca043c5772ecae2a5e1de9ad749",
+    "phash": "dcb6ff064942272c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "09088ee855958eb97541880afe59bdf1e8893e4b2212133d66f2c11aa2a51ab3",
+    "filename": "x_005ba106.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_005ba106.jpg",
+    "sha256": "98b879b861e4a2144d4ad4e2a26711e462f09570498a17b5671237e11f746e40",
+    "phash": "95122cfc06eb61d7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8b8fd962ea89ff3dd47fb8b886438eab09a2d7537293f17f7638f93174629724",
+    "filename": "x_0bba7f81.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_0bba7f81.jpg",
+    "sha256": "99eb45b38084763af84860774fa8733bcfe4937e2f2c14e4286956d1a1523f3e",
+    "phash": "e4e1a7257e2a0fc2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f9a4326a86c7bebaed54127a5b15747c4d9c862a31cede865229e5a33f4263d9",
+    "filename": "x_0e34bc9c.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_0e34bc9c.jpg",
+    "sha256": "0791b24ff6fdcb0bcecb558b74be9f192a09ae3c7a4c23d74422c6961f9f95ef",
+    "phash": "b737a4a0daca9a8c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "eff947b15f89eb8d026ac8dd916ed230377e03ecff11d393b0d89be6ac6de261",
+    "filename": "x_0f96bc4e.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_0f96bc4e.jpg",
+    "sha256": "3a6a7baf1b2223a5525232e6d986041c9e6d754d11962ddea93a8c76b291da2d",
+    "phash": "a74b1f50433ccf38",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "325802b8c11b569ae3fb5abadc6441efbc97e1854b71c6441132329515690f51",
+    "filename": "x_2aa831c9.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_2aa831c9.jpg",
+    "sha256": "061ae55d21ed0e2867e7527cee4ebf0082c3191a36a468d06e42958df90cbdf2",
+    "phash": "9566184ed72c36d9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5140264b539642b041d531657be0638ac7458ee1ab39663fd10aa5ac7e9c9777",
+    "filename": "x_2c72023f.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_2c72023f.jpg",
+    "sha256": "801b0cee8964e14c1be6b1e4b56b2707982e1034fbc32a7f2c9bf1c1aa238871",
+    "phash": "9b99adb3b28c64e0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "47919acd03ded1b84e9880f8ef6a6d2c83dfd636ce50e4864a9d2aff8e60991e",
+    "filename": "x_3044538a.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_3044538a.jpg",
+    "sha256": "927e09f44b1f3ed697635a5203a1202ea34a93cbdf422f34c3a653e076ae318b",
+    "phash": "ebca3564997601b9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "f1f5504c70aa1e515fede0d01f2d96da92113ee3de7b65a2f152af244b458a7e",
+    "filename": "x_31729d5e.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_31729d5e.jpg",
+    "sha256": "97b257b81307184088bf6f24a6ae88a7d800c024959d386bdf4a090fe91bf2a6",
+    "phash": "962c3a49494b77b6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "641358f043a2b4f8fd837a6beaf95dfa54b6bc68c9042870a85f0096157f6270",
+    "filename": "x_36a767a3.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_36a767a3.jpg",
+    "sha256": "4ba6ade0d13a6491c7d44a74f13cc88200824086b87db077d49fb59f2e22ce17",
+    "phash": "877d133aa9149b9a",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0b27d3d95475682a95aa9f576ddcc738ef69485311544a59fcffcf33fc617eaa",
+    "filename": "x_515895f3.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_515895f3.jpg",
+    "sha256": "1b0bb9e39b389baa356750b837a896bc6587ef7896af3f9a77b71672e2304fd3",
+    "phash": "d69b8d9c2442e2e7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0e7f3897c052d0dfc40d8bf5e131f65b232a5ecd3996716b8ec934733b8a9423",
+    "filename": "x_5890af0d.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_5890af0d.jpg",
+    "sha256": "bacb3b6d7250786825172ca87d5c1607ac6c007274ead98611fe562e55aa41bf",
+    "phash": "c8781839ecd9c679",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2602cc47685cd98e0be23812a9ab47fa333adf52471e46a72742556fc1795b70",
+    "filename": "x_b4062945.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_b4062945.jpg",
+    "sha256": "730fa8938d71f67b88d9e35b47ae77424b575f677767aaf58b83ec005390d8d1",
+    "phash": "f0072d687c1fb1c6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5139067d91d5594a6568d99d7f86722903a17ee91bbbc04a8810a5d4c24542c4",
+    "filename": "x_b5e0414d.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_b5e0414d.jpg",
+    "sha256": "0a4bdb78fb0973431b893c30eef2d669aa35b25908f1188c3d0256f34c2f8155",
+    "phash": "8f75392cc8cc3535",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "76209017187d88405c0148b6ed58445eecde3b59f7f5e20fc0a638ed27f7104f",
+    "filename": "x_b6299d4f.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_b6299d4f.jpg",
+    "sha256": "dd865ae8c1ace633e7df12681cccbb3426f4a9bafd54c628278fef554c9ad92a",
+    "phash": "ea287ccb17d93a30",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "fb8e7ed6c597157b1e696d94dc1f3e184c7fb521bf59d53decfcfeb50c654715",
+    "filename": "x_c43e8fe5.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_c43e8fe5.jpg",
+    "sha256": "029b8a2fa42d705866807c6ddca27ca34b5667d5122d395e99d4c30075bd7a15",
+    "phash": "e9899e3616e26a59",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "00a5d2ae1b8a1148857ec05e4a35e3818ee433b7d612222ec5aa19887e87efdc",
+    "filename": "x_d24c52c0.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_d24c52c0.jpg",
+    "sha256": "f369ac9463d687905b11c614d53e9891325213bb83c49f8bd4f8fb86bb35bc55",
+    "phash": "8e94b2abd5b25d50",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1a48ab3d152050f7115c78123dcc1d2b3d02a577e0bb16a99d912a927ed52951",
+    "filename": "x_d4f22ee5.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_d4f22ee5.jpg",
+    "sha256": "2b13927be369b333296189f58de44708547b3436e538ecca0f26405510490e4f",
+    "phash": "ed9a30c7c6c24739",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ce731c43c8e08ff5b2b9a806ce450ddc201b0e07314f4f2d13263e395c2c7963",
+    "filename": "x_dc268df7.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_dc268df7.jpg",
+    "sha256": "39fb3005e157cf36fff556c723e7d8c5c63fcfa12f832fa7a0f881a821f1603f",
+    "phash": "f0e86561b68793aa",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cabb4b586eabe25f51eab1f4feadb495c8413d84b13447f8cfda587a28f89de2",
+    "filename": "x_e049b9f8.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_e049b9f8.jpg",
+    "sha256": "04c59f23ad9fba63ff335500feec3a43b5582fdb8329dbc459a3c106d76c9693",
+    "phash": "9f37723c9bf2c010",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ada00f5148d8853e7ebd96d5258155634e7a8bd4ec763abf56b469b8782f9bbf",
+    "filename": "x_e37c9752.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_e37c9752.jpg",
+    "sha256": "0132238f2aff8097d262e54b1aa810c54a5d3484d503e2d7d24eaa68ac9c08e6",
+    "phash": "ebca3564997601b9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2fcc0334332a3e78923e9c4b3a0080d048d39986bb188f2025862bafd78a3aad",
+    "filename": "x_feb1a8cd.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/x_feb1a8cd.jpg",
+    "sha256": "069e77872287c31580084e1dd71b20ac66ddfd4aeb4a1a9ecea141e196230df9",
+    "phash": "ac8a19379cd68d56",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8b1d69df2b10cea76c216a8f366cc6d5de87a3f774345487ee883761432a61fb",
+    "filename": "01022009034.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009034.mp4",
+    "sha256": "24253e99e19548291ac5c967c9a4115926bdc4cff86fd9b64c9740af39aca424",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "445c4a3913478345b6a4dc272a8e8fd0849a33b31245eba5d51169700c0acfce",
+    "filename": "01022009035.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009035.mp4",
+    "sha256": "fc75ef1f586b6a6d8134a9c44d6432030b1c70be35b47c92a2cd1b9ceebbd94a",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b4c1e8b5c911d0dc2a84ce7aca8e1f680b9ebda653520e7fc6693754583bf3da",
+    "filename": "01022009036.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009036.mp4",
+    "sha256": "e346edbf6054d7de7a2665a6c187a6db50f2173347a0d8550bbe2b85db12b39c",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cee51dcd730c1cd0e3fa121a9ede20f1d2b02f643211cad30e6392e76612b80d",
+    "filename": "01022009037.mp4",
+    "extension": ".mp4",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009037.mp4",
+    "sha256": "d01628763b1cf3a2bf486492f8dd1dd29a1fb038833b050b1ff0d31f1e1fc6b6",
+    "phash": null,
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a88b59772449bc098e1edbd16f814f15b2ee5b6cfcbcaf8809ec15b985c842a2",
+    "filename": "01022009206.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009206.jpg",
+    "sha256": "c4595fd0e9ef119abbc902e7306e5a75404af73a10e2c2249f55bfd87de771a7",
+    "phash": "ecd65a4d74528b52",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ee385c903f426a3c1dbf303bc8683bccb67025470fb7642966a7296f0b0b1bf8",
+    "filename": "01022009207.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009207.jpg",
+    "sha256": "394e2e81e5ca27c416046ae9c2d3c82a7afa5cf74e3b4d6bd6856613e7592df4",
+    "phash": "cdcdb53027a5c945",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "61d4c2ae9b6f8e9a441e58078628ab0490cf62dcbe8456b54c7481012349650a",
+    "filename": "01022009208.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009208.jpg",
+    "sha256": "22e2db9ec1240aecb53e11c04ad60af202ba012bca2b75d9679afd1354582c68",
+    "phash": "9aad43bc3dc03cc3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2bad7c9452cc57997ce1557697d72c9a6a0dd7bf3927e7c5e735bc6b84fdcf0d",
+    "filename": "01022009209.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009209.jpg",
+    "sha256": "d42aac1894c0ff2d06817ee3e9940a2916dadd6af56eb6ef8679775e9cd83605",
+    "phash": "cbb434cb9a74cd22",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7b80a8833c77f8624050e2ce7e322acb96ffc77edf80dbd779f295cbe29dcc59",
+    "filename": "01022009210.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009210.jpg",
+    "sha256": "96e12086f9e6d3202be527e274f854c2e5a9e928bf9b1a5f0fb53c9ba21a77c6",
+    "phash": "f08ba4d7b478a8b4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "110a7a9ec5bbbd5f9574205f8323f1b17e1de200354e9b30f61aaf40ddcc1b15",
+    "filename": "01022009211.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009211.jpg",
+    "sha256": "5dd52b4a22132a02e9a82b0cc25e055b312fe9394015fea6be130255ad182335",
+    "phash": "8c76293ecb1f4a31",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "538c34a571c4bbfcd15d2e86999b5e4c61150e4bc7d55513d64c6fc0a2a113be",
+    "filename": "01022009212.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009212.jpg",
+    "sha256": "cd095bbdbb7cf9fa140638cb94c93cf6fe1baf945674477f30e5be29e6ddfa6f",
+    "phash": "ef925316275d052d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "daa29f110d3f2a368dcb912b6a8180741ab7dbcc858a39805e3264860bc6f0cd",
+    "filename": "01022009213.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009213.jpg",
+    "sha256": "e68f05db79dad989d3e6df7d5a931b0850db542ad169321cb72755c0914eabfd",
+    "phash": "8f4e490d8ddb3525",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c97a19ac6df12af56b5ef8295bea5718aba858db1bd021f5708b5370a647b3e0",
+    "filename": "01022009214.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009214.jpg",
+    "sha256": "e54b8df71e8327509b3f1febbe5dfaf9d2eca23651ae0ac58d841345592c1a41",
+    "phash": "fe4b0e9d66c1089d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cb0161ca4cb69a48823ee1a571f2b6228a2540511c25ca140e3009629e68c01b",
+    "filename": "01022009215.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009215.jpg",
+    "sha256": "3fceb5144cc978582a81115bd0ebb234763797274563c3231d6d147bfc101140",
+    "phash": "e5650acae576582d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7df84047f62fd9618cc9dc9ccff08d808595b318fa843e17ffa073035abf57a8",
+    "filename": "01022009216.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009216.jpg",
+    "sha256": "cb7f1c4f14def7a4406e33f24c1d79d4a0348a4e37110a4de6de36c05272932f",
+    "phash": "d6ffcde182010db2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4a8079189c8db85a6c60bdbcefd2142a01c1c810309f48180ae0676a3a16138a",
+    "filename": "01022009217.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009217.jpg",
+    "sha256": "f01f94034ae6af63f449074df59dfd9cb208e18aff2d27f1d5a2e9b67df62de4",
+    "phash": "e19fe01709fc2798",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b760e048e0184f7784ea2afe02cd87276d4def3cad8c2e10e3e7a869126915a0",
+    "filename": "01022009218.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009218.jpg",
+    "sha256": "c5de2de6a304ec6ce766cc087be1c3e329a28e3c906dd4b1dae50aad43f07f5d",
+    "phash": "c74a68b1c72ecb38",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "91fc6a80b48aebca05880b04e23fb66bf3cd42d70da1224b8912436ee76a2caa",
+    "filename": "01022009219.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/01022009219.jpg",
+    "sha256": "bee450fdcabb35767848d378679589cac5f2bc8a1bd039eb1c354ade76cbaee8",
+    "phash": "ac91e295cb743749",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "840824d1882e665010da472b91d3ac6c01895c63294e2e1f2473c04ab9a37b84",
+    "filename": "07022010305.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010305.jpg",
+    "sha256": "ad8e9a755ccaf34d2a048b40b971cd1c6e17421a14fd3ee22678b794c8c38e03",
+    "phash": "b397777c988c8c18",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9bde0b75c7542090130a6ea1c71f181f81e470cbc95e7403309b7a97244dc8d3",
+    "filename": "07022010306.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010306.jpg",
+    "sha256": "d0acff70ad85fb809260c7566a0654fbb2f570e4c50be82a7f6cd0e8525696fb",
+    "phash": "ae2b11ac6ef0b456",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "286549329fa5c25ec14d0688c363bffda47eb351d3bae0d2d6ea13ac9fa92bdc",
+    "filename": "07022010307.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010307.jpg",
+    "sha256": "d669445cd896d503740a8b107424c16fce3fb46238a8a087dff9db09a787b0cc",
+    "phash": "e6e41c7c554153e3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3aec8fd79d0b67f7fd529e0ecf09cd6b50a2cf5ca5da1f2f73efd96662cfa59b",
+    "filename": "07022010308.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010308.jpg",
+    "sha256": "b93b9717ff5ad062c5a99867321450b13016b870daeb72fcf251a5179e095528",
+    "phash": "b7b74a6669b28898",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3c79657160d767e2368f14f1fa4efc49a8f2afd83b196a595fd0943d8acc4f2d",
+    "filename": "07022010309.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010309.jpg",
+    "sha256": "bf08445914c3ed9e9e86a19c471115e4a40b0562c1a041232f60b0c8f5265b37",
+    "phash": "e7561527e3c1e14c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0bd39a615e77a963a129a0760d3f8c771ff93cc83908f5a43db5197daf15de5e",
+    "filename": "07022010310.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010310.jpg",
+    "sha256": "24eb47e19589f3935da007c1df90dc6b87c1d703a93f0bef62561205f8d2aecb",
+    "phash": "de1b04a36e2f4f0c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "27a3de983a3bd294eb8cbc55e8a62df279a770e1f86a1a1a42fe906013437fce",
+    "filename": "07022010312.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010312.jpg",
+    "sha256": "81dc7d64f2559e2c804b4edd372c0b16ef8b41fd17fa7115c3a3ef9a4e89ae24",
+    "phash": "bf2f4e0236266b49",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7c921666a969093ce28847d96b8c7f3f112daa4459e384a098e4b948af48c2ec",
+    "filename": "07022010313.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010313.jpg",
+    "sha256": "8345f9774da4e3b8eb88dd95465b226a478967adc9e244a0d6a6c0fcacf2c1cb",
+    "phash": "f87cb4706f4f2290",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6f1caa534d32f9e8bf868090dab02c508948b3a9a02f9064380f37a3337cf990",
+    "filename": "07022010314.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010314.jpg",
+    "sha256": "a8ac6d197adac3ffcf47e9ba24af3d1aeca0dacc23a29eaf802a1109d791dfd4",
+    "phash": "808ee16fc1f11fb8",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "433df21309207fe1c0163bf7f4884888ceff197aeb32dc08ee41221badb8185f",
+    "filename": "07022010315.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010315.jpg",
+    "sha256": "5a9baab915fa8ede5ebb3a6899d79553df30ac5e8ebdd7ced9e40eedd6e36f4c",
+    "phash": "f38e39ee201182fb",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7ae508f87ec33dcd06df929994b7e1489368e81754d73bf9b33f12d58a098270",
+    "filename": "07022010316.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010316.jpg",
+    "sha256": "87250623d6e922714cc61ee308fe1578be03a3dfed72d48bc3352ddaa9ea7249",
+    "phash": "e3c7cd3bcac830e0",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9999a03d6da4c95245a92ab5f2af678e8747b9fa1dceb63911432a0d5a1bda60",
+    "filename": "07022010317.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010317.jpg",
+    "sha256": "f99034e1c43672045e9b3bd2f25742dc835221a363bf88b2a0346355ff8e7417",
+    "phash": "f47469235ec6c4a5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e188b03eaa3c82df7188ef294e196fe6e33816b9d7acfa2d94f1094c9664990a",
+    "filename": "07022010319.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010319.jpg",
+    "sha256": "bba608a6ebcd286360f83d052eda941c2ee4a6f9b70d62e42023418926e504ef",
+    "phash": "99ee32ac5c785147",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "87ee89421b494ae5be5baaac65522acaf725382b382fa4e0345704c532fd4681",
+    "filename": "07022010321.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010321.jpg",
+    "sha256": "bb486ef5b823a6db388c7b07e8e39c2ddb8a66ec268f7ff37e4398fc8e7f057c",
+    "phash": "81da5fc77a063625",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a87840476ef51ac7690415b833db419512d63a6b0a62be915aa4e9694c8ce005",
+    "filename": "07022010322.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010322.jpg",
+    "sha256": "78c4d16ea6c09762b43f4cb83b5d7ba7d1f88ac064a5ab5b3ef2d0d9e1eee01c",
+    "phash": "cb493432cecf8339",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "cae32f149e20f59824ad978bae66f92cd7e47895091fc5050509ed8f4f752031",
+    "filename": "07022010325.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010325.jpg",
+    "sha256": "e6c4880705a0a8b9f6c96b3c5e71c1968e077e2ff06f1792b92573f82d189fa1",
+    "phash": "eeec3d353524c2c2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "e39a25a2a2a8397284ca5e7709025fb1f18ea7d21c4dd35e0f88be29f6b19939",
+    "filename": "07022010326.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010326.jpg",
+    "sha256": "a98d65286adad12a28b7063dbf2049e6002744c442ac155684d1d84ef038f0fc",
+    "phash": "ac2532722ae917b7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "aaff5bcd13edc222ee786ebbe6d8a2c1cb9b247929b9ccfadb9e801e4c6f628b",
+    "filename": "07022010328.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010328.jpg",
+    "sha256": "4a27ba6d81472b213e5a1e87773af2ce261d1c87a8b2c09b3d8dfd82a9ab191b",
+    "phash": "9ba4b492e3fd5a20",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "12d7a38ff1490f33b0e75e31463b5df88ad1066d2fdd6979c02a759468140859",
+    "filename": "07022010331.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010331.jpg",
+    "sha256": "15e95a88c281f5d2843bcbb6c593eda1c0b5f7149e391692f9f683071e328ad2",
+    "phash": "8f202c1edee65751",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "422087f70dfdd9acf62ddb36b3e8e675d763702fb6a4c8ddb7211c23a8625ee9",
+    "filename": "07022010332.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010332.jpg",
+    "sha256": "56294b3424731164787d510d051cbcc0de20923575670ac3f4c26bf2d7279cc0",
+    "phash": "d2cc2cbab6868937",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "bee0af1303a1b6c0cda37be10b5e1b752e88c0357de2d780421eb9f48cfeedaf",
+    "filename": "07022010336.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010336.jpg",
+    "sha256": "32261e40df6538273cfcfde1ac2d051c766071a7761ee4105ddf571bff360726",
+    "phash": "db494936b61b9b88",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d9abf306f9e0cac6d205c35190c5542a4b2479f8b410175cb3824f039f08f780",
+    "filename": "07022010337.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010337.jpg",
+    "sha256": "90a9deca0f5bace7dc4777c43e79e305beb206a99bb3aedbcace5025f001c358",
+    "phash": "8f3255cc4d6163e3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "fd84839097be5b28b5afc78c573fb7a2146d5a6f149886681c69ae15304ffda8",
+    "filename": "07022010338.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010338.jpg",
+    "sha256": "b23d8dd7eaf018d505081b781649b3a6b667329faa837695332c6f43ac5d32a4",
+    "phash": "f2f9dc8d05242d6c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "943f50d897883302a1ed9000d36c88140715b2a05ecb15e1c79fe69d8f32a4ac",
+    "filename": "07022010339.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010339.jpg",
+    "sha256": "b90f78b33b8fbdd806124897ce53cd2f4d3e871344a3b75bed0051d977e6b13f",
+    "phash": "e34d2931d0da3d2d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c2d214970edc2ed7400a53baa95a62762450f597b069c8b558c5a3bbcd8856bf",
+    "filename": "07022010340.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Кубок Легенд/07022010340.jpg",
+    "sha256": "3c7939842a8a83c21d0f2c4f3175ca6e313639ef423739f87314b9ffaad390e1",
+    "phash": "a358269ee51e5ea2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8e8381fd5172b417c6b018e1d1ee26d2bef8742bcb7492b49ed32295f909647d",
+    "filename": "04102008096.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008096.jpg",
+    "sha256": "a5fd9ec952c7e7f10a10c1cee6f4a4cb5168838340973a3efb1fce2cddc3887e",
+    "phash": "8180c4ccda7ebbb5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2f4f0e887e6d83591464c5f09dcd81b4471bc3501c7f0ace0b704963590771c1",
+    "filename": "04102008097.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008097.jpg",
+    "sha256": "c752432ce43ea59ff94dbd6c8bbab97fbc5863e1f2f5d400e2f892d3928ce17c",
+    "phash": "b7d9c4604ab499b6",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c26a4bc03a79d49dc942a38c97fddb6050d169fb227c34c977da191666a9ba45",
+    "filename": "04102008098.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008098.jpg",
+    "sha256": "d8b9807b04f7ee412815317c2183fa34f49da79abfb451fc68e34b07aab9ac06",
+    "phash": "f3e3cdcc2c0c81d3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2af5748f6ef6f3e65f52843b20d25bcf114c3050142d066d246926e1677b5f2d",
+    "filename": "04102008099.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008099.jpg",
+    "sha256": "e7c0470d6bd3486b7e34c7b23df80b7db84d80e6cf02bf40ead6e1bb54c0e6e6",
+    "phash": "a898cac642f1b1f7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "39d325d7b171d1c363d738ee6f26de94101e499e2d5ddc83b418992f418f4e64",
+    "filename": "04102008100.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008100.jpg",
+    "sha256": "86d97eed9fe3d6e24b72e9765a282bf009ad7d18f82b6b1bd378436b4ef84f95",
+    "phash": "c78361f0da2aea8d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d31a0109c2feddcca6c773455ad1a01ca53457a2071bdaca8b2798bad0603fb7",
+    "filename": "04102008101.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008101.jpg",
+    "sha256": "571bb02dc8587902a5d8b56d0a31c1ec3fa2bc635eb7a4bd524b41abb363ce53",
+    "phash": "b2c8ed30e70833cf",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5a0c0936618b0073113fefeea7901141508475366d06cbc5d497eee6cf10d796",
+    "filename": "04102008104.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008104.jpg",
+    "sha256": "f1cdedc8b60965263e59034b51eb7aa57021fb6b21e4272826d440d4294d88c3",
+    "phash": "84edea4954d9aa55",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c6f7ffdda0456eca08429c94bb135bb5d8d5513234783a957b4800b22ff2986d",
+    "filename": "04102008105.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008105.jpg",
+    "sha256": "739e128d05e113e094036338edecda7d816460a52abdc69d7c9b7875c22ce33d",
+    "phash": "d929a9cb36bac185",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7fbc338aae7a1e0c52e7172d0b5fc4567bcef20c6909ae1964a55039bd4287e9",
+    "filename": "04102008106.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008106.jpg",
+    "sha256": "049583cc17f1a9ab1bcaf099625ecff013e755ff4bb7e2d9602667ab357642f8",
+    "phash": "8aa5675a93f70878",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0910c7a7ebd6d850d9ededfb20973a667f62b1dfd5cb03d1902cbf28378b9b76",
+    "filename": "04102008107.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008107.jpg",
+    "sha256": "4ad809ec2cb6d5624d9c7970a80eedaa8f62e21f4135eec63f0226f41ba273a1",
+    "phash": "a78a886d7552baa5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "4032461bb85d3b9660991fd9715e563ec9e069683e9d465513c4185542440ff8",
+    "filename": "04102008108.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008108.jpg",
+    "sha256": "6bce09ebcb5761502ccc6d1a5095f7cc5d84747a3d94bd72cc02fff53574f226",
+    "phash": "9a6ad2492695cb76",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0c999d423251903276f06e67585e6a95c1e3fe1c6b8c2a844384236d204edadd",
+    "filename": "04102008109.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008109.jpg",
+    "sha256": "3dfb07ad5f4c11e3fe04a52dbc293ebe43b068cfd67d8e1f65baac061fa3c1c1",
+    "phash": "81e1fe8e2111ed9e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "9d92e22cc3a20eb126294715982f4cc5a055ebf9cb8afa644ca6e7735bbee65d",
+    "filename": "04102008110.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008110.jpg",
+    "sha256": "26c2a79b4e1498050541b550a20a45ee362d890fa8803f23a9c8aca67831c870",
+    "phash": "90af6d50e74c19a7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "68b90026e3c5f9894402353986a318e322f298da46b62435a394d18227782256",
+    "filename": "04102008112.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008112.jpg",
+    "sha256": "b0ac8e4f0bd2e402633b587ce7bfdc91b784aa8e358550711deb0d3c79f1cfbe",
+    "phash": "f3834c0cf30bfc34",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8bcb982f5fdd761fcb0b2f835730d95aec515dc6429f8c897305b3d1e4513650",
+    "filename": "04102008113.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008113.jpg",
+    "sha256": "6050866b59c54d022d666c158bd14b65d451690087b8e9cadf474e115b747b26",
+    "phash": "f3c9cc7003a2fe0b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6f0060d63d844bfebc6fb516b82268390e69cce4e6e6a7c402a00e4f4161eb46",
+    "filename": "04102008114.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008114.jpg",
+    "sha256": "0182c2f9b45e853d7b117ead0dc79b0d692b16c475690f77a4257de101a8ba0e",
+    "phash": "f3e5dc7804a3f106",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0a13771c62c5e03fd637dc34c60be21a34e755b399400b84c8d5f9c64f49837e",
+    "filename": "04102008115.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008115.jpg",
+    "sha256": "1734a3a2a529d896e1eb0226b8731aae837c963765ecf069437957b3e92e29a1",
+    "phash": "d2daf3149ae16398",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ca1a1adb65e30a6776ef64d5598bb3cbc6ed34b8b6893502c69c6340dce71ba3",
+    "filename": "04102008116.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008116.jpg",
+    "sha256": "eb33342581c0a9d8d205feb23f9a24b53c941b876af6001cc7c6add389b92746",
+    "phash": "9359999b649cc99c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "eeba695b0447c72be98410fd19a7d73df0cb37ab014f3377933cf2495957c826",
+    "filename": "04102008117.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008117.jpg",
+    "sha256": "23a6eff460d02869bb56e194a7a4e016d5bac170b47395303e9d218f1f8b7ac7",
+    "phash": "a6b7d3d3c8adc404",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d14cb46c5514227718d99f59a0c91fffef0df50b97f6d818631d574afc7fe8b8",
+    "filename": "04102008118.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008118.jpg",
+    "sha256": "67aae96d0f03e5352ba8720eae431ecc068dad62b45be2125784848fb71c1022",
+    "phash": "d5ff08c0dc28333e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8d3a00d163df24409f511e39f4ef0af17e32e07d1d01bad2907afd02620086ec",
+    "filename": "04102008119.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008119.jpg",
+    "sha256": "6c8ec3df16ca462e5332947263fd5519c7123658847a5672f46cbac5b6af593b",
+    "phash": "9923dc9c9acbcc86",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6d865288f4e2432dc55dcfbe21cb3ea081c0cdb86d37b528ac654de9eca5a0f0",
+    "filename": "04102008120.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008120.jpg",
+    "sha256": "7f149e18d694a03c1caca14e0dc64b7e7b3a86c184414a48576f6042435b8a06",
+    "phash": "951a9e6d6992e638",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c5eec3cc50eac910e70951b28750a18d09eb7fd51571be7251bd63befe2564be",
+    "filename": "04102008121.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008121.jpg",
+    "sha256": "ba4a4cd9d4406352f9b896c88001582bee33b2fd0bc7ae0846ae0bf3091d1866",
+    "phash": "e2f61809f9b26674",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d733cf390fe0bd0359124b1c6ed117382286b4bca61983c6bd627da0bff22b49",
+    "filename": "04102008122.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008122.jpg",
+    "sha256": "5cdf89eedaaa6aa0ae6d692bc72566f51164efb1e99e53fcf453d137fb22f3ed",
+    "phash": "a58e9b90607a1b7d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "155f23f6483845546bfba64e91b7f7e738f7804eebd22721b3a887f0b351d7a6",
+    "filename": "04102008123.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008123.jpg",
+    "sha256": "51034bc54b5d55bf538e00d2ebf1bc15b9ba424fae9cb4bb267c3724c39f0fcd",
+    "phash": "80c0b7fc2c776437",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2aa0c987ff42022a837e21836be104ed4392672b8cb3bdd542e9cf43a9e04bee",
+    "filename": "04102008124.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008124.jpg",
+    "sha256": "4f026cf2ef3372531a16dd60161f763ff23a398bd35f600395af787f48eed651",
+    "phash": "e6a60a19193d2f3d",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "067d9727d6128164d35b5f3c1b8a60759756193b95485521e1a293cafa4df652",
+    "filename": "04102008125.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008125.jpg",
+    "sha256": "857e1f44e6ea12edcf9dc27244cd40272197a83e5f191f6b1598fced3cfb6af4",
+    "phash": "d936cb6a6c998724",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7db1f85f02975fff860c7713e65b218abd39d25b096c5cf9e54695ece685f96e",
+    "filename": "04102008127.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008127.jpg",
+    "sha256": "00c1dc86552e0d5abf82cef2fe901cb08c6d59427bbddf1deaa142f440aa9db5",
+    "phash": "87a31ed52a3ec31c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "388d92fff446324ada4c6de3a523beb4347e628adf1a56bbb18814c25ab507d2",
+    "filename": "04102008129.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008129.jpg",
+    "sha256": "8f7fe1e0ebaa77b8393f3eb8b51f27cb0436c875199fc0ff886cfb92e978d3fb",
+    "phash": "b7391298275c18bf",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d61062a4239ccec00a1d2a65151a7933d6aa2ee56029fa44f324b28e29846020",
+    "filename": "04102008130.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008130.jpg",
+    "sha256": "6cfc34db4c2528b82ab6f774b2100b8b4a2e70b8e628c6889b783cb88a3c9741",
+    "phash": "bf14c029cb323c9f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "7d82e9aa88d1c7cc6e0abb1b56515cc087b7239d1cf1d66b2406e34ff1a99f25",
+    "filename": "04102008131.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008131.jpg",
+    "sha256": "64749b86e95bf22e5f091fa0ee856055aa2140cb60c50443a5bd004f9efd8349",
+    "phash": "d2caca70a5d61ae9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "88e5ef403935156509b336841b3aad6e490bd81b5de5311a91662ee4cb1591f7",
+    "filename": "04102008132.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008132.jpg",
+    "sha256": "0a8a4d1c259a038f3cff1bf51f651ebbd249bf84a05958ba7b207d1795433260",
+    "phash": "ee863167ce8d08ce",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c83397873cec6560ec2eceec959d585f12303ee921b8584ea622d51df9c454d1",
+    "filename": "04102008133.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008133.jpg",
+    "sha256": "fe02139ba5cda088e5d3d07cc2d757658c85b98947f81bf7374bff0b1dca39bf",
+    "phash": "fdd44a89723ac22e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "73b530b2d1d7fa06cc9f1a8a571b4edb36d7ff25eb59f7ca557ce0ddb9848a70",
+    "filename": "04102008134.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008134.jpg",
+    "sha256": "9f1248e118c5db0b2195e56c43b101674d989155f19ef86f7e04d4b9ff389d73",
+    "phash": "b0cfa0ee5c13ec51",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "0ee328dd9017a190c52e5cb04400e31d7c58e3f6668b7a8adab90b8e74976f43",
+    "filename": "04102008135.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008135.jpg",
+    "sha256": "344d2d87a339fb71d6113b711183fa9aa7b2813bcdb9e4b0c742898a7320adef",
+    "phash": "e4f979c0849d98e5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "09138287ed1a26e6733a14fec1978c01b6b0b92d9218819c353e42df3bb9b63a",
+    "filename": "04102008137.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008137.jpg",
+    "sha256": "3314dab4dd45bb8af0b867630b1f1afab58c6ebf6c9ed9d30f9e22c992ae24db",
+    "phash": "f12b95d8aa9589e2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b57c1145aa29f57f0f04b2d3f3b7b5953fea7f81f70b3df81c7d1e18db2b24be",
+    "filename": "04102008138.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008138.jpg",
+    "sha256": "36cb34075391404a70f475a9d4da98f6d3a422d852e26cadf5f0d8af1f3ea533",
+    "phash": "f4f60bc70939074e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b5a59891b5acc8491b16210c3f739aa2d5b198529ce2c6c3b8bc6e2f8c819e04",
+    "filename": "04102008139.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008139.jpg",
+    "sha256": "bbe38ef576284843f92e46367877d4e242d67141c2538d36aff880b2ba18d9e3",
+    "phash": "d30f1c3c303767cc",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "66a417c1ccfd23c11745e35a1916111ceb2e87ec304b192edca7297587167111",
+    "filename": "04102008141.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008141.jpg",
+    "sha256": "d1f24ab570030f0417f26d81e793ed07df6b9695177809d7aab210f285a60a5b",
+    "phash": "c8cfce371229b04f",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "8989f6540a449d91b3644230abb3870c2581519c5460e3c60a33472383c7d942",
+    "filename": "04102008142.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008142.jpg",
+    "sha256": "fc3fc015ba2ab7c03cece8365f7b4acefe7bcbf32f6e1b415163733558bfe63a",
+    "phash": "9a8ed5406a0afd97",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "81b1e7c32c03c0815a72e28f1e3019c88fae494f4a904d94e4f4e572cf96465b",
+    "filename": "04102008143.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008143.jpg",
+    "sha256": "591b99065a9a338fe47dc29dcaac8fb1e8c9f6da2cabe03b3c7c263b5ab96c04",
+    "phash": "9b9b039b9903a69b",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "460f143114619e5c6ce8853ab6ef43a9085e85896d1b4c9f408b6acc59c7adec",
+    "filename": "04102008145.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008145.jpg",
+    "sha256": "93b34f0163b9c729e517f205a79040c7a0fbba49f259d1e0abfa6d4023bc5069",
+    "phash": "baaaa0a8be819e9e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "36ea2a54196d3967abfb68ddaa1d3c09c746b18eae4b4f9e83dcb20d6a03e5ec",
+    "filename": "04102008146.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008146.jpg",
+    "sha256": "478f1ae1cfa92f196468a50a7b9304ea00d9af1acd4e4fe9a9f1b1d0f637ac2f",
+    "phash": "adc11ebc58a748ad",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a5f94e6d4876a1607702792c193a23b08011a17f087994ffb0e5ea98213960f3",
+    "filename": "04102008147.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008147.jpg",
+    "sha256": "f401c71a0871bf48165b20f259ea35ccc3c91c853832d53f220a24392c51b503",
+    "phash": "e4b0cce38dc7c43c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "844ce6a03465e1e20764ff946f430c7277d181d9409539594a1ee3e14c33f7b4",
+    "filename": "04102008148.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/04102008148.jpg",
+    "sha256": "69429392d932393959aea2e958d547602da20771152e696a9d6491f0302c521b",
+    "phash": "86a0d87cb6cb65d2",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "175a525a29b5e1485311034a8f354f795c2df775ea6a1e36a7a3609736037112",
+    "filename": "05102008149.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008149.jpg",
+    "sha256": "766a53c0143ed5e8731cc361916fbbc2d59c330b265265af3a2ce7701a478c90",
+    "phash": "f4c38b985b3960a7",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "40c2a424fecaca80d2e74e7191de01b4b66010ce0c8b7a7a1458f147d81fe160",
+    "filename": "05102008150.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008150.jpg",
+    "sha256": "655e10bd30e4fa40d722c2406b0e43a788f05ccdeab9ab505c2239a6129974df",
+    "phash": "83873f69543ec239",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "391acd6db75343e79d9867cd7f631829e8c0af391a945fd26a346ed35e3f55c9",
+    "filename": "05102008152.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008152.jpg",
+    "sha256": "44050eed98ca603cdefa174dd1956e9a528b6ee0db3a2931cfe23051c9e7f11d",
+    "phash": "9555711d66e34c2e",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "1b269205a2f99b6475a01c7a5d0f35f70b45493c99ce501aa24a21ee846c7796",
+    "filename": "05102008154.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008154.jpg",
+    "sha256": "2b2541da799d9761e9ae019004d993beee822cac2c622d45c9316c6e3d3128f4",
+    "phash": "c996249656e9b695",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a506af0c992f6f6c9ef6701933f21bf95bff2f13c05b157676ed26e1958cfa61",
+    "filename": "05102008155.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008155.jpg",
+    "sha256": "2779e7ff3514fa9effc5c6312ade3b821fa590571af7349aed3a3068cbfbe36b",
+    "phash": "d897a1e55f623c12",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "ee55918c57333eb7c34b6c52346448e753178ea1a3e7036e349c86488b5966ab",
+    "filename": "05102008156.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008156.jpg",
+    "sha256": "5b5abc0ac1c378318de0c31447cf3539642c9d2965e88848c6f41253ac9192b9",
+    "phash": "e686acb1c8996a37",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "32a27e32412daf1df7300d649e3958e64a1b7a28fb935c8661a44d134fe22520",
+    "filename": "05102008157.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008157.jpg",
+    "sha256": "ad43e943edc9e332da1d25dd7b82f846b26cbe02e9a23e21e6c208b45fb12006",
+    "phash": "aacbd5a4fc6a6910",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "77b5d456e08f1e7fd47560dd9ce4009e40dfdf97db1a0dcee3a204eea6429e81",
+    "filename": "05102008158.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008158.jpg",
+    "sha256": "2a2e722aaa7c2651cf1d83f33a48d2c073c47dfb16745cb3522095b4376e9f00",
+    "phash": "8d9aa727a6a4e519",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "b2270d0d5c13102f62c5c61ad4a7a9e449f8a735f7db4cbd85fae5776601acc2",
+    "filename": "05102008159.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008159.jpg",
+    "sha256": "bb12b4850e9d21e7915b8a2e22a1053a807ed07fffc80e00ab9e257513e4ab6c",
+    "phash": "9ae50a354b2d9a67",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c5f51442af04c49f293329bbf08e714609eb290daa816f23f97ff0ca47f42c27",
+    "filename": "05102008160.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008160.jpg",
+    "sha256": "ded71c5c827b395e84f5eaeaefe35debdc1f571590fbae9fa0475a36860093fc",
+    "phash": "db802a5a3f66c879",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "3def454dc035f6c23eb529c456c75c2fcb18c2571e5a2c5896103fb5d2a4d3ac",
+    "filename": "05102008161.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008161.jpg",
+    "sha256": "e8028c1666019a97472f169dee54ca4fd16d6fa64a1351924a6e1ef0dd753fa6",
+    "phash": "c0d8de9e306e60f3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "6236389e6f4a0e5ba59c91f867dc71f2c43326b666d030904ad3e4c3b080c5e0",
+    "filename": "05102008163.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008163.jpg",
+    "sha256": "c1c7f716bd291751690c4120c2e89e1a5ec26c8447eb38623e942435387f3fbf",
+    "phash": "b2c9ce34184b97b3",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c384c88d731bb079a08cbbcfec5d99b89d36e6f0a79adc93e879acab88318df6",
+    "filename": "05102008164.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008164.jpg",
+    "sha256": "4dc1089eea05cce8c1c88e34f951d15af2f46c59907f1acd69d297e0b102e597",
+    "phash": "c48fc4b5c1c9b0cf",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5a2027d3b1e276cbdf46b79b648ee71722ba06dc5dae6da8bf997f1920bcb453",
+    "filename": "05102008165.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008165.jpg",
+    "sha256": "50045fc29c0a7b6e1583a1118ad058a9cf79547506827a756159b14ef9270e9f",
+    "phash": "d71f2d9130619cd5",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "5f06146086b989a634d5ea8835dc9e47e58c781e90b8a1de86b2ffbe8aac874b",
+    "filename": "05102008166.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008166.jpg",
+    "sha256": "af6bd78f54ed54f487c111d98dd10b267ca5d388050993d4770b1afb4a9b69eb",
+    "phash": "a6991867c63a73e4",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "a37c153c52bf0aa266a6eab38d89075f6d6bbd1b32538a6e64db37e2eb4c1aae",
+    "filename": "05102008167.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008167.jpg",
+    "sha256": "0112f8c29ac8c825d9686d3103afb9de0ea681700dfba7aac75dfe5cefa06b54",
+    "phash": "e498696d96cb6931",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "12004d2512714eb7618afd23cb17f3dcd9611be35b66b5bc0a1e7fabb375b002",
+    "filename": "05102008168.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008168.jpg",
+    "sha256": "2e6a1fd9830ce33b5730b9eba450399897e87bea049373aaff1e5da52c6a0d32",
+    "phash": "fa651d0ed21a5157",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "2e750516e30e5f9fca79610794f8c5c77b91cbcbab8f214714146fb5b72e3d7d",
+    "filename": "05102008169.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008169.jpg",
+    "sha256": "822953563f883055473557a500247b19c058596d929d6550ec6388178af91e95",
+    "phash": "9e296599a9d93d18",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "d9ddbef7da83a8900b28c52d759f45465e0d265a9c6b0c0f7bbb50a0010b9636",
+    "filename": "05102008170.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008170.jpg",
+    "sha256": "acbe058cd5c0cc10bf2c0d752487558e3faf33e9a1653946818f42e38022c45e",
+    "phash": "f83036039bc39f6c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "653efc38fea3018a0f3d8387ad3e0a70085aaa547e5ebf2a036956746e29c5b7",
+    "filename": "05102008171.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008171.jpg",
+    "sha256": "a72572b03b780b945ea18f8aae74a4a2cd3eff4b729a08e56d62b6e72548f88d",
+    "phash": "d6931a96b4e52e2c",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "37bb59ba5d252dc42b31b886cfec3672b6273fccb44e4d0c07207b2d98f5f07b",
+    "filename": "05102008173.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/05102008173.jpg",
+    "sha256": "4fac525bcdb188e295f3a7c67c109dc1df51177756b3e5865589818f7e2cbb61",
+    "phash": "d0952f6bd21674c9",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "107264f2649d9130377d852c6c52a02914eb31fb1a4f763f498be8a1f0900ced",
+    "filename": "Рафаель.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Питер 2008/Рафаель.jpg",
+    "sha256": "c4c8980b53fd2f2002cec992f0af1b489c7df1a59dfeb1d3e7470c5dfdb01486",
+    "phash": "f0116a4a3ace47bd",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "452320826edb5dacea61531a57a57a75ecead9df5763ff9fcaa271c95e8be50b",
+    "filename": "Фото031.jpg",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Разное/Фото031.jpg",
+    "sha256": "1f43623fae59b107b8c676f7058f7e7196b6a526ffed4d948640ca62ba35f99a",
+    "phash": "b8ca9687e7e5c0c1",
+    "hamming_threshold": 8
+  }
+]

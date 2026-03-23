@@ -1,0 +1,29 @@
+[
+  {
+    "file_id": "996bb48367b2b08ae5670a73c4498ad4df8561448d5b1d0de70f2833b4f825c8",
+    "filename": "IMG_0194.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Универ/IMG_0194.JPG",
+    "sha256": "1fa96b788a82c3f141e4b937a28967fe0cdc3146bdd59004f4def1c5d2e4ba87",
+    "phash": "d6b2bd59c270c127",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c205217e5dbe926566eea10896dece695c11a45bdc8a2f7401d36e2c1c9a1130",
+    "filename": "IMG_1933.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Универ/IMG_1933.JPG",
+    "sha256": "f509d6ded37193eecc55b712e8e2ca4a8089745f2b3799237f9e57497c65ba63",
+    "phash": "cceecf30cfd20612",
+    "hamming_threshold": 8
+  },
+  {
+    "file_id": "c1d94f452fd328ec5b5afd0f80ca77ff67a359ee5280fb1908bfef0ca8c68b77",
+    "filename": "IMG_1934.JPG",
+    "extension": ".jpg",
+    "path": "/Volumes/SAE 1/Фото/Универ/IMG_1934.JPG",
+    "sha256": "35ed95e27f02229b91c9fd36babcff005c1e3c1cb5d05431e9ad28a1b893a84d",
+    "phash": "c0ce0f782f8c343f",
+    "hamming_threshold": 8
+  }
+]

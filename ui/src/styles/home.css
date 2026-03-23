@@ -1,0 +1,59 @@
+.home-hero.n-card.n-card--embedded {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.05) 0%,
+    rgba(255, 255, 255, 0.02) 50%,
+    rgba(52, 211, 192, 0.04) 100%
+  ) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  box-shadow: 0 12px 40px -20px rgba(0, 0, 0, 0.5) !important;
+}
+
+.home-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 18px;
+  transition:
+    transform 0.22s cubic-bezier(0.22, 1, 0.36, 1),
+    filter 0.22s ease;
+}
+
+.home-card-link:hover {
+  transform: translateY(-3px);
+}
+
+.home-card-link:focus-visible {
+  outline: 2px solid var(--accent-exact);
+  outline-offset: 4px;
+  border-radius: 18px;
+}
+
+.home-card-link--uncertain:focus-visible {
+  outline-color: var(--accent-uncertain);
+}
+
+.home-card.n-card {
+  border-radius: 18px !important;
+  transition:
+    box-shadow 0.25s ease,
+    border-color 0.25s ease,
+    transform 0.22s ease;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.home-card-link--exact:hover .home-card.n-card {
+  border-color: rgba(52, 211, 192, 0.22) !important;
+  box-shadow:
+    0 0 0 1px rgba(52, 211, 192, 0.15),
+    0 24px 56px -20px rgba(0, 0, 0, 0.6),
+    0 0 60px -24px var(--ring-exact) !important;
+}
+
+.home-card-link--uncertain:hover .home-card.n-card {
+  border-color: rgba(232, 184, 109, 0.22) !important;
+  box-shadow:
+    0 0 0 1px rgba(232, 184, 109, 0.12),
+    0 24px 56px -20px rgba(0, 0, 0, 0.6),
+    0 0 60px -24px var(--ring-uncertain) !important;
+}

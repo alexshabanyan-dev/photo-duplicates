@@ -1,0 +1,122 @@
+/* HomeView */
+.home-view__heading {
+  margin: 0;
+  font-size: clamp(1.35rem, 3.5vw, 1.65rem);
+  letter-spacing: -0.04em;
+  line-height: 1.15;
+  font-weight: 700;
+}
+
+.home-view__lead {
+  margin: 0;
+  max-width: 58ch;
+  font-size: 15px;
+}
+
+.n-avatar.home-card__mark--exact {
+  background: linear-gradient(145deg, #34d3c0, #2eb8a8) !important;
+  box-shadow: 0 0 16px rgba(52, 211, 192, 0.35);
+}
+
+.n-avatar.home-card__mark--uncertain {
+  background: linear-gradient(145deg, #e8b86d, #d4a55a) !important;
+  box-shadow: 0 0 16px rgba(232, 184, 109, 0.3);
+}
+
+.home-card__title {
+  font-size: 1.05rem;
+  letter-spacing: -0.025em;
+}
+
+.home-card__tag-pill {
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+.home-card__description {
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+.home-card__list {
+  margin: 0;
+}
+
+.home-card__list-item {
+  font-size: 13px;
+}
+
+.n-divider.home-card__divider:not(.n-divider--vertical) {
+  margin: 4px 0;
+}
+
+.home-card__cta {
+  font-size: 13px;
+}
+
+/* Главная: крупные карточки разделов */
+.home-module-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  outline: none;
+  border-radius: var(--n-border-radius);
+}
+
+.home-module-link:focus-visible .home-module-card.n-card {
+  box-shadow:
+    0 0 0 2px rgba(99, 102, 241, 0.45),
+    0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.home-module-card.n-card {
+  min-height: 220px;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.home-module-link:hover .home-module-card.n-card {
+  transform: translateY(-2px);
+}
+
+.home-module-card__title {
+  font-size: clamp(1.15rem, 2.8vw, 1.45rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+}
+
+.home-module-card__description {
+  font-size: 15px;
+  line-height: 1.65;
+  flex: 1;
+}
+
+.home-module-card__cta {
+  font-size: 14px;
+  letter-spacing: 0.02em;
+}
+
+.home-module-card__divider.n-divider:not(.n-divider--vertical) {
+  margin: 0.25rem 0;
+}
+
+.n-avatar.home-module-card__avatar--duplicates {
+  background: linear-gradient(145deg, #34d3c0, #6b8cff) !important;
+  box-shadow: 0 0 20px rgba(52, 211, 192, 0.35);
+}
+
+.n-avatar.home-module-card__avatar--distribution {
+  background: linear-gradient(145deg, #a78bfa, #6366f1) !important;
+  box-shadow: 0 0 20px rgba(129, 140, 248, 0.35);
+}
+
+.file-distribution-placeholder.n-card {
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

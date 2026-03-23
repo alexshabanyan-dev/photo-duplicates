@@ -1,0 +1,27 @@
+:root {
+  color-scheme: dark;
+  font-family:
+    'Plus Jakarta Sans',
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    sans-serif;
+  line-height: 1.55;
+  font-weight: 400;
+  font-feature-settings: 'ss02' on, 'cv11' on;
+
+  --bg-base: #07090e;
+  --bg-elevated: #0d1018;
+  --bg-panel: rgba(20, 24, 34, 0.9);
+  --border: rgba(255, 255, 255, 0.065);
+  --border-strong: rgba(255, 255, 255, 0.1);
+  --text: #e8eaef;
+  --muted: #6b7289;
+  --accent-exact: #34d3c0;
+  --accent-exact-dim: rgba(52, 211, 192, 0.12);
+  --accent-uncertain: #e8b86d;
+  --accent-uncertain-dim: rgba(232, 184, 109, 0.1);
+  --ring-exact: rgba(52, 211, 192, 0.35);
+  --ring-uncertain: rgba(232, 184, 109, 0.32);
+}
