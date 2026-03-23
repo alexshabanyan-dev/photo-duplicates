@@ -21,6 +21,15 @@
           >
             Оставить все копии в группе
           </n-button>
+          <n-button
+            type="error"
+            size="medium"
+            :disabled="submitting || !payload.item.uid"
+            :loading="submitting"
+            @click="onDeleteAll"
+          >
+            Удалить все копии в группе
+          </n-button>
         </n-space>
         <n-alert
           v-if="resolveError"
@@ -81,42 +90,44 @@
                     : 'Оставить эту копию'
                 }}
               </n-button>
+              <ExactMacOpenCommandRow
+                class="exact-mac-open--in-exact-card"
+                :file-path="f.path"
+                :copied="openCommandCopiedFor(f.file_id)"
+                :label="`Файл ${idx + 1}`"
+                @copy="(cmd) => emit('copy-open-command', f.file_id, cmd)"
+              />
               <div class="uncertain-preview__media" @click.stop>
-                <n-image
-                  v-if="previewBlobUrl(f)"
-                  class="uncertain-preview__image"
-                  :src="previewBlobUrl(f)"
-                  object-fit="contain"
-                  :alt="f.filename ?? `Файл ${idx + 1}`"
-                />
+                <template v-if="previewBlobUrl(f)">
+                  <video
+                    v-if="isVideoFilename(f.filename ?? f.path)"
+                    class="uncertain-preview__video"
+                    controls
+                    playsinline
+                    preload="metadata"
+                    :src="previewBlobUrl(f) || ''"
+                  />
+                  <n-image
+                    v-else
+                    class="uncertain-preview__image"
+                    :src="previewBlobUrl(f) || ''"
+                    object-fit="contain"
+                    :alt="f.filename ?? `Файл ${idx + 1}`"
+                  />
+                </template>
               </div>
-              <n-space vertical :size="6">
-                <n-text strong class="uncertain-file__name">{{ f.filename ?? `file ${idx + 1}` }}</n-text>
-                <n-code v-if="f.file_id" class="uncertain-file__code">{{ f.file_id }}</n-code>
-                <n-text v-else depth="3" italic>нет file_id</n-text>
-              </n-space>
+              <ExactFileDetailCard
+                embedded
+                :label="`Файл ${idx + 1}`"
+                :file="f"
+                :path-copied="pathCopiedFor(f.file_id)"
+                @copy-path="(p) => emit('copy-path', f.file_id, p)"
+              />
             </n-space>
           </n-card>
         </n-gi>
       </n-grid>
     </n-space>
-
-    <n-grid
-      :cols="previewGridCols"
-      :x-gap="12"
-      :y-gap="12"
-      responsive="screen"
-      class="uncertain-files-grid"
-    >
-      <n-gi v-for="(f, idx) in payload.item.files" :key="`${fileRowKey(f, idx)}-detail`">
-        <ExactFileDetailCard
-          :label="`Файл ${idx + 1}`"
-          :file="f"
-          :path-copied="pathCopiedFor(f.file_id)"
-          @copy-path="(p) => emit('copy-path', f.file_id, p)"
-        />
-      </n-gi>
-    </n-grid>
   </n-space>
 </template>
 
@@ -130,6 +141,8 @@ import type {
   FirstNotProcessedExactGroupResponse,
 } from '../../types/exactDuplicates'
 import ExactFileDetailCard from './ExactFileDetailCard.vue'
+import ExactMacOpenCommandRow from './ExactMacOpenCommandRow.vue'
+import { isVideoFilename } from '../../utils/mediaKind'
 
 const props = defineProps<{
   payload: FirstNotProcessedExactGroupResponse
@@ -138,10 +151,12 @@ const props = defineProps<{
   /** file_id → object URL */
   previewUrls: Record<string, string>
   pathCopiedFileId: string | null
+  openCommandCopiedFileId: string | null
 }>()
 
 const emit = defineEmits<{
   'copy-path': [fileId: string | undefined, path: string | undefined]
+  'copy-open-command': [fileId: string | undefined, command: string]
   resolved: []
 }>()
 
@@ -173,6 +188,11 @@ function previewBlobUrl(f: ExactDuplicateFileEntry): string | undefined {
 function pathCopiedFor(fileId: string | undefined): boolean {
   const id = fileId?.trim()
   return !!id && id === props.pathCopiedFileId
+}
+
+function openCommandCopiedFor(fileId: string | undefined): boolean {
+  const id = fileId?.trim()
+  return !!id && id === props.openCommandCopiedFileId
 }
 
 function groupIdentity(p: FirstNotProcessedExactGroupResponse): string {
@@ -235,6 +255,16 @@ async function onKeepAll(): Promise<void> {
     group_uid: uid,
     key: 'exact_duplicates',
     keep_all: true,
+  })
+}
+
+async function onDeleteAll(): Promise<void> {
+  const uid = props.payload.item.uid?.trim()
+  if (!uid) return
+  await submitResolution({
+    group_uid: uid,
+    key: 'exact_duplicates',
+    delete_all: true,
   })
 }
 </script>

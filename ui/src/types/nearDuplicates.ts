@@ -41,9 +41,9 @@ export type DuplicatesApiErrorBody = {
 export type ResolveNearDuplicateRequestBody = {
   pair_uid: string
   key: NearDuplicatesKey
-  /** true — только отметить пару обработанной, без списка на удаление */
+  /** true — только отметить пару обработанной, без to_delete в files-list */
   keep_both?: boolean
-  /** Нужен, если keep_both не true: сторона файла к удалению */
+  /** Нужен, если keep_both не true: сторона файла к удалению (to_delete: true в *.files-list.json) */
   chosen_side?: 'left' | 'right'
 }
 

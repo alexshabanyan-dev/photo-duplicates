@@ -11,7 +11,7 @@ Node.js + TypeScript + Express.
 
 Других JSON для каталога или анализа **нет** (нет `files_index.json`, нет слияния нескольких списков).
 
-**Дополнительно (не «истина» о файлах):** `scripts/result/items_to_delete.json` — очередь решений «удалить сторону»; сервер **только дописывает** её при `POST .../resolve-choice`.
+**Пометка на удаление из UI:** при `POST .../resolve-choice` с удалением сервер ставит **`to_delete: true`** у соответствующих записей в **`*.files-list.json`** внутри каталога **`FILES_LIST_RESULT_DIR`** (по умолчанию `scripts/files-list-generator/result`). Для работы с копией списков (например `result_copy`) задайте `FILES_LIST_RESULT_DIR` на эту папку **и** используйте тот же каталог для `/api/media`, если индекс не в одном `FILES_LIST_JSON`. Файл `scripts/result/items_to_delete.json` сервер **больше не заполняет** (устаревший формат).
 
 ## Установка и запуск
 
@@ -26,8 +26,9 @@ npm run dev
 - `PORT` — порт (по умолчанию `3000`)
 - `DUPLICATES_ANALYSIS_JSON` — путь к **(2)** duplicates-list (по умолчанию `../scripts/analyze_duplicates/duplicates-list.json`)
 - `FILES_LIST_JSON` — путь к **(1)** files-list (по умолчанию `../scripts/files-list-generator/files-list.json`). Для совместимости читается и устаревший `FILES_INDEX_JSON`, если `FILES_LIST_JSON` не задан
-- `STORAGE_FILES_ROOT` — корень медиа (по умолчанию `../files` в корне репозитория); файлы вне него не отдаются
-- `ITEMS_TO_DELETE_JSON` — очередь на удаление после решений в UI (по умолчанию `../scripts/result/items_to_delete.json`)
+- `FILES_LIST_RESULT_DIR` — каталог с фрагментами **`*.files-list.json`**: для `/api/media` (если не задан `FILES_LIST_JSON`) и для **проставления `to_delete`** при resolve-choice (по умолчанию `../scripts/files-list-generator/result`)
+- `STORAGE_FILES_ROOT` — корень медиа (по умолчанию `../files` в корне репозитория); если задан — файлы вне него не отдаются; если не задан — допускаются абсолютные пути из индекса
+- `ITEMS_TO_DELETE_JSON` — устарело; сервер при resolve-choice не пишет в `items_to_delete.json` (оставлено для совместимости со старыми скриптами, если путь нужен вручную)
 - `CORS_ORIGIN` — заголовок CORS (по умолчанию `*`)
 
 ## API
@@ -75,7 +76,7 @@ Content-Type: application/json
 }
 ```
 
-`chosen_side` — сторона к удалению (запись в `items_to_delete.json`). В `duplicates-list.json` у пары — `processed: true`.
+`chosen_side` — сторона к удалению: в соответствующей записи в `*.files-list.json` — `to_delete: true`. В `duplicates-list.json` у пары — `processed: true`.
 
 **Оставить оба** — только отметить пару, без списка на удаление:
 
@@ -90,8 +91,6 @@ Content-Type: application/json
 **Успех (200):** `{ "ok": true, "pair_uid": "...", "resolution": "delete_side"|"keep_both", "file_id": "..." }` (`file_id` только при удалении одной стороны).
 
 **404:** пара не найдена. **409:** уже обработана.
-
-Файл `items_to_delete.json` создаётся при первом решении с удалением; формат: `{ "items": [ { "decided_at", "pair_uid", "category", "side_marked_for_delete", "file" } ] }`.
 
 ```bash
 # удалить выбранную сторону
@@ -136,7 +135,7 @@ POST /api/duplicates/exact_duplicates/resolve-choice
 Content-Type: application/json
 ```
 
-**Оставить одну копию, остальные в очередь на удаление** — тело:
+**Оставить одну копию, остальные пометить `to_delete: true`** — тело:
 
 ```json
 {
@@ -146,7 +145,7 @@ Content-Type: application/json
 }
 ```
 
-**Оставить все копии** — только отметить группу, без записей в `items_to_delete.json`:
+**Оставить все копии** — только отметить группу, без `to_delete`:
 
 ```json
 {
@@ -156,9 +155,17 @@ Content-Type: application/json
 }
 ```
 
-**Успех (200):** `{ "ok": true, "group_uid": "...", "resolution": "delete_others"|"keep_all", "queued_file_ids": [...] }` (`queued_file_ids` при удалении остальных).
+**Удалить все копии в группе** — у всех файлов группы в `*.files-list.json` — `to_delete: true`:
 
-Для `exact_duplicates` в `items_to_delete.json` записи используют `pair_uid` = `group_uid` и `category: "exact_duplicates"` (по одному элементу на каждый удаляемый файл).
+```json
+{
+  "group_uid": "<uid>",
+  "key": "exact_duplicates",
+  "delete_all": true
+}
+```
+
+**Успех (200):** `{ "ok": true, "group_uid": "...", "resolution": "delete_others"|"keep_all"|"delete_all", "queued_file_ids": [...] }` (`queued_file_ids` — `file_id`, для которых выставлен `to_delete: true`, при любом режиме удаления).
 
 ```bash
 curl -s -X POST http://127.0.0.1:3000/api/duplicates/exact_duplicates/resolve-choice \

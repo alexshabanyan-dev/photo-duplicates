@@ -40,13 +40,23 @@
               {{ selectedSide === 'left' ? 'К удалению: левая' : 'Пометить левую к удалению' }}
             </n-button>
             <div class="uncertain-preview__media" @click.stop>
-              <n-image
-                v-if="leftImageUrl"
-                class="uncertain-preview__image"
-                :src="leftImageUrl"
-                object-fit="contain"
-                :alt="left.filename ?? 'Левый файл'"
-              />
+              <template v-if="leftImageUrl">
+                <video
+                  v-if="isVideoFilename(left.filename ?? left.path)"
+                  class="uncertain-preview__video"
+                  controls
+                  playsinline
+                  preload="metadata"
+                  :src="leftImageUrl"
+                />
+                <n-image
+                  v-else
+                  class="uncertain-preview__image"
+                  :src="leftImageUrl"
+                  object-fit="contain"
+                  :alt="left.filename ?? 'Левый файл'"
+                />
+              </template>
             </div>
             <n-space vertical :size="6">
               <n-text strong class="uncertain-file__name">{{ left.filename ?? 'left' }}</n-text>
@@ -73,13 +83,23 @@
               {{ selectedSide === 'right' ? 'К удалению: правая' : 'Пометить правую к удалению' }}
             </n-button>
             <div class="uncertain-preview__media" @click.stop>
-              <n-image
-                v-if="rightImageUrl"
-                class="uncertain-preview__image"
-                :src="rightImageUrl"
-                object-fit="contain"
-                :alt="right.filename ?? 'Правый файл'"
-              />
+              <template v-if="rightImageUrl">
+                <video
+                  v-if="isVideoFilename(right.filename ?? right.path)"
+                  class="uncertain-preview__video"
+                  controls
+                  playsinline
+                  preload="metadata"
+                  :src="rightImageUrl"
+                />
+                <n-image
+                  v-else
+                  class="uncertain-preview__image"
+                  :src="rightImageUrl"
+                  object-fit="contain"
+                  :alt="right.filename ?? 'Правый файл'"
+                />
+              </template>
             </div>
             <n-space vertical :size="6">
               <n-text strong class="uncertain-file__name">{{ right.filename ?? 'right' }}</n-text>
@@ -96,6 +116,7 @@
 <script setup lang="ts">
 import type { PathCopySide } from '../../composables/usePathCopy'
 import type { NearDuplicateSide } from '../../types/nearDuplicates'
+import { isVideoFilename } from '../../utils/mediaKind'
 
 defineProps<{
   loading: boolean

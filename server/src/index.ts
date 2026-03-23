@@ -1,7 +1,11 @@
 import express from "express";
 import { duplicatesController } from "./controllers/duplicatesController.js";
 import { mediaController } from "./controllers/mediaController.js";
-import { getDuplicatesAnalysisPath, getFilesListJsonPath } from "./paths.js";
+import {
+  getDuplicatesAnalysisPath,
+  getFilesListJsonPath,
+  getFilesListResultDirPath,
+} from "./paths.js";
 
 const app = express();
 const PORT = Number(process.env.PORT) || 3000;
@@ -50,8 +54,13 @@ app.use(
 );
 
 app.listen(PORT, () => {
+  const fromEnv = process.env.FILES_LIST_JSON || process.env.FILES_INDEX_JSON;
   console.log(`Server http://127.0.0.1:${PORT}`);
-  console.log(`  (1) files-list:  ${getFilesListJsonPath()}`);
+  if (fromEnv) {
+    console.log(`  (1) files-list (single): ${getFilesListJsonPath()}`);
+  } else {
+    console.log(`  (1) files-list (merged dir): ${getFilesListResultDirPath()}/*.files-list.json`);
+  }
   console.log(`  (2) duplicates: ${getDuplicatesAnalysisPath()}`);
   console.log(`  GET /api/duplicates/near_duplicates/first-not-processed`);
   console.log(`  POST /api/duplicates/near_duplicates/resolve-choice`);

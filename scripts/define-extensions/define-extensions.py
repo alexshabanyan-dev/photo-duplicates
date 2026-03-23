@@ -21,7 +21,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-from collections import Counter
+from dataclasses import dataclass
 from pathlib import Path
 
 
@@ -44,6 +44,16 @@ def _get_entry_extension(entry: dict) -> str:
     p = entry.get("path") or ""
     suffix = Path(str(p)).suffix
     return _normalize_ext(suffix)
+
+
+@dataclass
+class _ExtStats:
+    total: int = 0
+    deleted: int = 0
+
+    @property
+    def existed(self) -> int:
+        return self.total - self.deleted
 
 
 def main() -> None:
@@ -80,8 +90,11 @@ def main() -> None:
         print(f"Входная папка не найдена: {input_dir}", file=sys.stderr)
         sys.exit(1)
 
-    counter: Counter[str] = Counter()
+    stats: dict[str, _ExtStats] = {}
     total_entries = 0
+    all_entries = 0
+    to_delete_files = 0
+    deleted_files = 0
     matched_files = 0
 
     # Рекурсивно: у тебя файлы лежат в подпапках (разные корни/имена).
@@ -108,17 +121,51 @@ def main() -> None:
         for entry in data:
             if not isinstance(entry, dict):
                 continue
+
+            all_entries += 1
+
+            # Глобальные счётчики по статусам
+            is_deleted = entry.get("deleted") is True
+            is_to_delete = entry.get("to_delete") is True
+
+            if is_deleted:
+                deleted_files += 1
+            elif is_to_delete:
+                to_delete_files += 1
+
+            # Для статистики расширений учитываем только НЕ удалённые записи.
+            if is_deleted:
+                continue
+
             ext_key = _get_entry_extension(entry)
-            counter[ext_key] += 1
+            st = stats.get(ext_key)
+            if st is None:
+                st = _ExtStats()
+                stats[ext_key] = st
+
+            st.total += 1
+            if is_to_delete:
+                st.deleted += 1
             total_entries += 1
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    total_count = sum(counter.values())
+    total_count = all_entries
+    remaining_files = total_entries
 
-    # Стабильный порядок: сначала общий total_count, затем расширения по алфавиту.
-    extensions_obj: dict[str, int] = {"total_count": total_count}
-    for k in sorted(counter.keys()):
-        extensions_obj[k] = counter[k]
+    # Стабильный порядок: сначала сводка, затем расширения по алфавиту.
+    extensions_obj: dict[str, object] = {
+        "total_count": total_count,
+        "to_delete_files": to_delete_files,
+        "deleted_files": deleted_files,
+        "remaining_files": remaining_files,
+    }
+    for k in sorted(stats.keys()):
+        st = stats[k]
+        extensions_obj[k] = {
+            "count": st.total,
+            "deleted": st.deleted,
+            "existed": st.existed,
+        }
 
     output_path.write_text(
         json.dumps(extensions_obj, ensure_ascii=False, indent=2) + "\n",
@@ -127,7 +174,7 @@ def main() -> None:
 
     print(
         f"Готово. Файлы: {matched_files}, записей: {total_entries}. "
-        f"Расширений: {len(counter)}. Выход: {output_path}"
+        f"Расширений: {len(stats)}. Выход: {output_path}"
     )
 
 

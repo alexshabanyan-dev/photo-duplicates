@@ -21,7 +21,9 @@
         :preview-error="previewError"
         :preview-urls="previewUrls"
         :path-copied-file-id="pathCopiedFileId"
+        :open-command-copied-file-id="openCommandCopiedFileId"
         @copy-path="onCopyPath"
+        @copy-open-command="onCopyOpenCommand"
         @resolved="loadFirstNotProcessed"
       />
     </UncertainFetchState>
@@ -45,6 +47,23 @@ import type {
 
 const { copyFilePath } = usePathCopy()
 const pathCopiedFileId = ref<string | null>(null)
+const openCommandCopiedFileId = ref<string | null>(null)
+let openCommandCopyResetTimer: ReturnType<typeof setTimeout> | null = null
+
+async function copyTextToClipboard(text: string): Promise<void> {
+  if (navigator.clipboard?.writeText) {
+    await navigator.clipboard.writeText(text)
+    return
+  }
+  const ta = document.createElement('textarea')
+  ta.value = text
+  ta.setAttribute('readonly', '')
+  ta.className = 'clipboard-fallback-textarea'
+  document.body.appendChild(ta)
+  ta.select()
+  document.execCommand('copy')
+  document.body.removeChild(ta)
+}
 
 const loading = ref(true)
 const errorMessage = ref<string | null>(null)
@@ -58,6 +77,27 @@ function onCopyPath(fileId: string | undefined, path: string | undefined): void 
   const id = fileId?.trim()
   pathCopiedFileId.value = id ?? null
   void copyFilePath('left', path)
+}
+
+function onCopyOpenCommand(fileId: string | undefined, command: string): void {
+  const id = fileId?.trim()
+  const cmd = command.trim()
+  if (!cmd) return
+  void (async () => {
+    try {
+      await copyTextToClipboard(cmd)
+      if (openCommandCopyResetTimer !== null) {
+        clearTimeout(openCommandCopyResetTimer)
+      }
+      openCommandCopiedFileId.value = id ?? null
+      openCommandCopyResetTimer = setTimeout(() => {
+        openCommandCopiedFileId.value = null
+        openCommandCopyResetTimer = null
+      }, 2000)
+    } catch {
+      // без уведомления
+    }
+  })()
 }
 
 function revokeAllPreviewUrls(): void {
@@ -134,5 +174,9 @@ onMounted(() => {
 
 onBeforeUnmount(() => {
   revokeAllPreviewUrls()
+  if (openCommandCopyResetTimer !== null) {
+    clearTimeout(openCommandCopyResetTimer)
+    openCommandCopyResetTimer = null
+  }
 })
 </script>

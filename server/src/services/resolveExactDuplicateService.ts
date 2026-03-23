@@ -1,23 +1,10 @@
 import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import path from "node:path";
 import type { DuplicatesAnalysisFile, ExactDuplicateGroup, FileSide } from "../types/analysis.js";
-import { getDuplicatesAnalysisPath, getItemsToDeletePath } from "../paths.js";
+import { getDuplicatesAnalysisPath } from "../paths.js";
 import { invalidateAnalysisCache } from "./analysisService.js";
+import { markFileIdsToDeleteInResultLists } from "./filesListMarkService.js";
 import { ResolveError } from "./resolveError.js";
-
-type ItemToDeleteEntry = {
-  decided_at: string;
-  pair_uid: string;
-  category: "near_duplicates" | "exact_duplicates";
-  side_marked_for_delete?: "left" | "right";
-  file: FileSide;
-  is_deleted?: boolean;
-  deleted_at?: string;
-};
-
-type ItemsToDeleteDoc = {
-  items: ItemToDeleteEntry[];
-};
 
 async function writeJsonAtomic(filePath: string, data: unknown): Promise<void> {
   const dir = path.dirname(filePath);
@@ -27,29 +14,6 @@ async function writeJsonAtomic(filePath: string, data: unknown): Promise<void> {
   const content = `${JSON.stringify(data, null, 2)}\n`;
   await writeFile(tmp, content, "utf-8");
   await rename(tmp, filePath);
-}
-
-async function loadItemsToDelete(): Promise<ItemsToDeleteDoc> {
-  const p = getItemsToDeletePath();
-  try {
-    const buf = await readFile(p, "utf-8");
-    const parsed: unknown = JSON.parse(buf);
-    if (
-      parsed &&
-      typeof parsed === "object" &&
-      "items" in parsed &&
-      Array.isArray((parsed as ItemsToDeleteDoc).items)
-    ) {
-      return parsed as ItemsToDeleteDoc;
-    }
-    return { items: [] };
-  } catch (e: unknown) {
-    const code = (e as NodeJS.ErrnoException).code;
-    if (code === "ENOENT") {
-      return { items: [] };
-    }
-    throw e;
-  }
 }
 
 function fileSnapshotExact(f: ExactDuplicateGroup["files"][number]): FileSide {
@@ -81,12 +45,13 @@ const FILE_ID_RE = /^[a-f0-9]{64}$/;
 /**
  * Принять решение по группе exact_duplicates:
  * — keep_all: только processed: true;
- * — иначе keep_file_id: этот файл оставляем, остальные из группы — в items_to_delete.json.
+ * — delete_all: у всех файлов группы в *.files-list.json — to_delete: true;
+ * — иначе keep_file_id: этот файл оставляем, остальным — to_delete: true в *.files-list.json.
  */
 export async function resolveExactDuplicateChoice(body: unknown): Promise<{
   ok: true;
   group_uid: string;
-  resolution: "delete_others" | "keep_all";
+  resolution: "delete_others" | "keep_all" | "delete_all";
   queued_file_ids?: string[];
 }> {
   if (!body || typeof body !== "object") {
@@ -96,6 +61,7 @@ export async function resolveExactDuplicateChoice(body: unknown): Promise<{
   const group_uid = typeof b.group_uid === "string" ? b.group_uid.trim() : "";
   const key = b.key;
   const keep_all = b.keep_all === true;
+  const delete_all = b.delete_all === true;
   const keep_file_id_raw = typeof b.keep_file_id === "string" ? b.keep_file_id.trim().toLowerCase() : "";
 
   if (!group_uid) {
@@ -122,6 +88,14 @@ export async function resolveExactDuplicateChoice(body: unknown): Promise<{
     throw new ResolveError(400, "Group must contain at least 2 files");
   }
 
+  const activeModes = [keep_all, delete_all, !!keep_file_id_raw].filter(Boolean).length;
+  if (activeModes !== 1) {
+    throw new ResolveError(
+      400,
+      "Provide exactly one action: keep_all=true, delete_all=true, or keep_file_id=<64hex>"
+    );
+  }
+
   if (keep_all) {
     group.processed = true;
     await writeJsonAtomic(analysisPath, doc);
@@ -132,49 +106,44 @@ export async function resolveExactDuplicateChoice(body: unknown): Promise<{
       resolution: "keep_all",
     };
   }
+  let toQueue: typeof files = [];
+  let resolution: "delete_others" | "delete_all" = "delete_others";
+  if (delete_all) {
+    toQueue = files.filter((f) => {
+      const id = typeof f.file_id === "string" ? f.file_id.trim().toLowerCase() : "";
+      return !!id;
+    });
+    resolution = "delete_all";
+  } else {
+    if (!keep_file_id_raw || !FILE_ID_RE.test(keep_file_id_raw)) {
+      throw new ResolveError(400, 'keep_file_id must be a 64-char hex file_id');
+    }
 
-  if (!keep_file_id_raw || !FILE_ID_RE.test(keep_file_id_raw)) {
-    throw new ResolveError(
-      400,
-      'keep_file_id must be a 64-char hex file_id when keep_all is false'
+    const idsInGroup = new Set(
+      files.map((f) => (typeof f.file_id === "string" ? f.file_id.trim().toLowerCase() : "")).filter(Boolean)
     );
-  }
+    if (!idsInGroup.has(keep_file_id_raw)) {
+      throw new ResolveError(400, "keep_file_id is not in this group");
+    }
 
-  const idsInGroup = new Set(
-    files.map((f) => (typeof f.file_id === "string" ? f.file_id.trim().toLowerCase() : "")).filter(Boolean)
-  );
-  if (!idsInGroup.has(keep_file_id_raw)) {
-    throw new ResolveError(400, "keep_file_id is not in this group");
+    toQueue = files.filter((f) => {
+      const id = typeof f.file_id === "string" ? f.file_id.trim().toLowerCase() : "";
+      return id && id !== keep_file_id_raw;
+    });
   }
-
-  const toQueue = files.filter((f) => {
-    const id = typeof f.file_id === "string" ? f.file_id.trim().toLowerCase() : "";
-    return id && id !== keep_file_id_raw;
-  });
 
   if (toQueue.length === 0) {
     throw new ResolveError(400, "Nothing to delete");
   }
-
-  const itemsDoc = await loadItemsToDelete();
-  itemsDoc.items = itemsDoc.items.filter(
-    (it) => !(it.pair_uid === group_uid && it.category === "exact_duplicates")
-  );
 
   const queuedIds: string[] = [];
   for (const f of toQueue) {
     const snap = fileSnapshotExact(f);
     const fid = typeof snap.file_id === "string" ? snap.file_id.trim().toLowerCase() : "";
     if (fid) queuedIds.push(fid);
-    itemsDoc.items.push({
-      decided_at: new Date().toISOString(),
-      pair_uid: group_uid,
-      category: "exact_duplicates",
-      file: snap,
-    });
   }
 
-  await writeJsonAtomic(getItemsToDeletePath(), itemsDoc);
+  await markFileIdsToDeleteInResultLists(queuedIds);
 
   group.processed = true;
   await writeJsonAtomic(analysisPath, doc);
@@ -183,7 +152,7 @@ export async function resolveExactDuplicateChoice(body: unknown): Promise<{
   return {
     ok: true,
     group_uid,
-    resolution: "delete_others",
+    resolution,
     queued_file_ids: queuedIds,
   };
 }

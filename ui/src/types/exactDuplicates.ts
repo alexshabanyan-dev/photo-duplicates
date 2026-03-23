@@ -27,15 +27,17 @@ export type FirstNotProcessedExactGroupResponse = {
 export type ResolveExactDuplicateRequestBody = {
   group_uid: string
   key: ExactDuplicatesKey
-  /** Только отметить группу обработанной, без очереди на удаление */
+  /** Только отметить группу обработанной, без to_delete */
   keep_all?: boolean
-  /** Файл, который оставляем; остальные из группы — в items_to_delete */
+  /** Удалить все копии в группе (to_delete: true для всех в *.files-list.json) */
+  delete_all?: boolean
+  /** Файл, который оставляем; остальные — to_delete: true в *.files-list.json */
   keep_file_id?: string
 }
 
 export type ResolveExactDuplicateResponseBody = {
   ok: true
   group_uid: string
-  resolution: 'delete_others' | 'keep_all'
+  resolution: 'delete_others' | 'keep_all' | 'delete_all'
   queued_file_ids?: string[]
 }

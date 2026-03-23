@@ -3,9 +3,9 @@
 Пометить файлы для удаления флагом `to_delete: true` в files-list.json.
 
 Алгоритм:
-1) В начале файла задаёшь EXTENSION_TO_MARK (например "aae" или "bin")
+1) В начале файла задаёшь EXTENSIONS_TO_MARK (например ["aae", "bin"])
 2) Скрипт проходит по всем *.files-list.json в scripts/files-list-generator/result
-3) Для записей, у которых extension совпадает с EXTENSION_TO_MARK, ставит entry["to_delete"] = MARK_VALUE
+3) Для записей, у которых extension входит в EXTENSIONS_TO_MARK, ставит entry["to_delete"] = MARK_VALUE
    и сохраняет JSON обратно на диск.
 """
 
@@ -16,10 +16,10 @@ import sys
 from pathlib import Path
 
 
-# Расширение (без разницы с точкой или без): например "aae", ".aae", "bin", ".bin"
-EXTENSION_TO_MARK = "aae"
+# Расширения (без разницы с точкой или без): например ["aae", ".bin", "dll"]
+EXTENSIONS_TO_MARK = ["dng", "doc", "exe", "hdr", "htm", "html", "ico", "idx", "inf", "ini", "inx", "lnk", "mp3", "nef", "ogg", "original", "pdf", "rar", "tgs", "thm", "tmp", "txt", "webm", "zip"]
 # Что проставлять в entry["to_delete"] для записей с нужным расширением.
-MARK_VALUE = False
+MARK_VALUE = True
 
 # Где лежат входные файлы (files-list-generator/result/**/*.files-list.json)
 RESULT_DIR = (
@@ -37,9 +37,9 @@ def _normalize_ext(ext: str) -> str:
 
 
 def main() -> None:
-    ext_norm = _normalize_ext(EXTENSION_TO_MARK)
-    if not ext_norm:
-        print("EXTENSION_TO_MARK не задан или пустой.", file=sys.stderr)
+    ext_norms = {_normalize_ext(x) for x in EXTENSIONS_TO_MARK if _normalize_ext(x)}
+    if not ext_norms:
+        print("EXTENSIONS_TO_MARK не задан или пустой.", file=sys.stderr)
         sys.exit(1)
 
     if not RESULT_DIR.is_dir():
@@ -73,7 +73,7 @@ def main() -> None:
 
             entry_ext = entry.get("extension") or ""
             entry_ext_norm = _normalize_ext(entry_ext)
-            if entry_ext_norm != ext_norm:
+            if entry_ext_norm not in ext_norms:
                 continue
 
             current = entry.get("to_delete")
@@ -91,7 +91,7 @@ def main() -> None:
             updated_files += 1
             updated_files_list.append((json_path, marked_entries_in_file))
 
-    print(f"EXTENSION_TO_MARK={ext_norm}")
+    print(f"EXTENSIONS_TO_MARK={sorted(ext_norms)}")
     print(f"Всего файлов: {len(files)}")
     print(f"Обновлено файлов: {updated_files}")
     print(f"Помечено записей: {marked_entries}")

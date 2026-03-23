@@ -50,7 +50,7 @@ export async function fetchFirstNotProcessedNearDuplicate(): Promise<FirstNotPro
 
 /**
  * POST /api/duplicates/near_duplicates/resolve-choice
- * keep_both — только processed; иначе chosen_side попадает в items_to_delete.json.
+ * keep_both — только processed; иначе chosen_side — to_delete: true в *.files-list.json.
  */
 export async function submitResolveNearDuplicateChoice(
   body: ResolveNearDuplicateRequestBody,

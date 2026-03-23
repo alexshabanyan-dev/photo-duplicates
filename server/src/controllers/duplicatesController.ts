@@ -56,8 +56,8 @@ duplicatesController.get(
 /**
  * POST /api/duplicates/near_duplicates/resolve-choice
  * Body: { pair_uid, key: "near_duplicates", chosen_side?: "left"|"right", keep_both?: boolean }
- * keep_both: true — только processed, без items_to_delete.
- * Иначе chosen_side — сторона к удалению в items_to_delete.json.
+ * keep_both: true — только processed, без to_delete.
+ * Иначе chosen_side — сторона к удалению: to_delete: true в *.files-list.json (FILES_LIST_RESULT_DIR).
  */
 duplicatesController.post(
   "/near_duplicates/resolve-choice",
@@ -117,7 +117,7 @@ duplicatesController.get(
 
 /**
  * POST /api/duplicates/exact_duplicates/resolve-choice
- * Body: { group_uid, key: "exact_duplicates", keep_all?: true, keep_file_id?: "64hex" }
+ * Body: { group_uid, key: "exact_duplicates", keep_all?: true, delete_all?: true, keep_file_id?: "64hex" }
  */
 duplicatesController.post(
   "/exact_duplicates/resolve-choice",

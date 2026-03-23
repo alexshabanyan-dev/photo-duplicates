@@ -12,6 +12,7 @@ declare module 'vue' {
     ExactFileDetailCard: typeof import('./components/exact/ExactFileDetailCard.vue')['default']
     ExactGroupContent: typeof import('./components/exact/ExactGroupContent.vue')['default']
     ExactGroupMeta: typeof import('./components/exact/ExactGroupMeta.vue')['default']
+    ExactMacOpenCommandRow: typeof import('./components/exact/ExactMacOpenCommandRow.vue')['default']
     NA: typeof import('naive-ui')['NA']
     NAlert: typeof import('naive-ui')['NAlert']
     NAvatar: typeof import('naive-ui')['NAvatar']

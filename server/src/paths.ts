@@ -12,17 +12,23 @@ export const REPO_ROOT = path.resolve(__dirname, "..", "..");
  * 1. Список всех файлов (SHA256, pHash, path, file_id) — один файл, без слияний и без files_index.
  * 2. Анализ дублей (exact / near, processed, …) — один файл.
  *
- * Отдельно: `items_to_delete.json` — только очередь решений UI (запись при resolve-choice), не каталог и не отчёт дублей.
+ * Решения UI «удалить» проставляют `to_delete: true` в `*.files-list.json` в каталоге `FILES_LIST_RESULT_DIR`.
+ * `items_to_delete.json` — устаревший путь (сервер больше не пишет туда при resolve-choice); см. `ITEMS_TO_DELETE_JSON` при необходимости совместимости со старыми скриптами.
  */
 
 /** Путь к списку файлов относительно корня репозитория */
 const FILES_LIST_SEGMENTS = ["scripts", "files-list-generator", "files-list.json"] as const;
+const FILES_LIST_RESULT_DIR_SEGMENTS = ["scripts", "files-list-generator", "result"] as const;
 
 /** Путь к отчёту дублей относительно корня репозитория */
 const DUPLICATES_LIST_SEGMENTS = ["scripts", "analyze_duplicates", "duplicates-list.json"] as const;
 
 function defaultFilesListJson(): string {
   return path.join(REPO_ROOT, ...FILES_LIST_SEGMENTS);
+}
+
+function defaultFilesListResultDir(): string {
+  return path.join(REPO_ROOT, ...FILES_LIST_RESULT_DIR_SEGMENTS);
 }
 
 function defaultDuplicatesListJson(): string {
@@ -37,6 +43,16 @@ export function getFilesListJsonPath(): string {
   const fromEnv = process.env.FILES_LIST_JSON || process.env.FILES_INDEX_JSON;
   if (fromEnv) return path.resolve(fromEnv);
   return defaultFilesListJson();
+}
+
+/**
+ * Папка с частичными индексами (*.files-list.json), объединяемыми в памяти для /api/media.
+ * Используется по умолчанию, если FILES_LIST_JSON / FILES_INDEX_JSON не заданы.
+ */
+export function getFilesListResultDirPath(): string {
+  const fromEnv = process.env.FILES_LIST_RESULT_DIR;
+  if (fromEnv) return path.resolve(fromEnv);
+  return defaultFilesListResultDir();
 }
 
 /**
@@ -60,7 +76,7 @@ export function getStorageFilesRoot(): string {
   return path.join(REPO_ROOT, "files");
 }
 
-/** Очередь на удаление после решений в UI (сервер дописывает при delete_side). Не смешивать с (1) и (2). */
+/** Устаревший путь к очереди `items_to_delete.json` (сервер при resolve-choice больше не использует). */
 export function getItemsToDeletePath(): string {
   const fromEnv = process.env.ITEMS_TO_DELETE_JSON;
   if (fromEnv) return path.resolve(fromEnv);

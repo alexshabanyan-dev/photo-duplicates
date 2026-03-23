@@ -142,6 +142,22 @@ python3 analyze_duplicates/analyze_duplicates.py --include-missing
 
 В отчёте: у каждой пары/группы **`uid`** — **стабильный** 64-символьный id (SHA256 от `file_id` участников; при той же паре файлов не меняется между пересборками). У файлов в индексе и в паре — **`file_id`** (SHA256 от пути). **`processed`: `false`** — отметь **`true`**, когда разобрал. Решения «что удалить» храни отдельно (sidecar/API), не в этом JSON.
 
+**Массово: exact_duplicates, оставить копию из папки по подстроке пути** — `analyze_duplicates/resolve_exact_keep_one_by_path_needle.py`:
+
+- Находит группы, где в `path` есть подстрока (по умолчанию **`INDIA2026`**; сравнение после Unicode NFC). Своя подстрока: `--needle '…'`.
+- В каждой такой группе оставляет **первую** по списку копию с этой подстрокой, остальным `file_id` ставит **`to_delete: true`** в `files-list-generator/result/**/*.files-list.json`.
+- Группе выставляет **`processed: true`** в `duplicates-list.json`.
+
+```bash
+cd scripts/analyze_duplicates
+python3 resolve_exact_keep_one_by_path_needle.py             # только план (без записи)
+python3 resolve_exact_keep_one_by_path_needle.py --apply       # записать
+# другая подстрока пути, например Тайланд:
+python3 resolve_exact_keep_one_by_path_needle.py --needle 'Тайланд + Малайзия' --apply
+# другой каталог списков:
+python3 resolve_exact_keep_one_by_path_needle.py --result-dir ../files-list-generator/result_copy --apply
+```
+
 ---
 
 ## 3. Список расширений — `list_extensions.py`
@@ -213,9 +229,13 @@ python3 delete_file.py --permanent --yes
 
 ---
 
-## 5. Удаление по очереди UI — `delete_marked_files.py`
+## 5. Удаление после решений в UI
 
-Читает **`result/items_to_delete.json`** (записи добавляет сервер после «Удалить выбранный»). Для каждой строки **без** `is_deleted: true`:
+**Текущий поток:** сервер при выборе «удалить» в интерфейсе ставит **`to_delete: true`** в записях внутри **`*.files-list.json`** (каталог как у сканера, по умолчанию `files-list-generator/result`; см. `FILES_LIST_RESULT_DIR` на сервере). Физическое удаление с диска — скриптом **`delete-files/delete-marked-files-from-result.py`** (читает те же JSON).
+
+### Устаревшее: очередь `items_to_delete.json` — `delete_marked_files.py`
+
+Читает **`result/items_to_delete.json`** (сервер **больше не дописывает** этот файл при resolve-choice). Для каждой строки **без** `is_deleted: true`:
 
 1. Удаляет **`file.path`** с диска (если файла уже нет — считается успехом).
 2. Ставит **`is_deleted: true`** и **`deleted_at`** (ISO UTC), сохраняет JSON **атомарно** после каждой успешной операции.
