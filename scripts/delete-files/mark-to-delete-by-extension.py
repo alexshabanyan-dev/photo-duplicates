@@ -17,7 +17,7 @@ from pathlib import Path
 
 
 # Расширения (без разницы с точкой или без): например ["aae", ".bin", "dll"]
-EXTENSIONS_TO_MARK = ["dng", "doc", "exe", "hdr", "htm", "html", "ico", "idx", "inf", "ini", "inx", "lnk", "mp3", "nef", "ogg", "original", "pdf", "rar", "tgs", "thm", "tmp", "txt", "webm", "zip"]
+EXTENSIONS_TO_MARK = ["webp"]
 # Что проставлять в entry["to_delete"] для записей с нужным расширением.
 MARK_VALUE = True
 

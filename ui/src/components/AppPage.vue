@@ -20,7 +20,13 @@
           <n-avatar
             round
             :size="32"
-            :class="variant === 'exact' ? 'app-page__avatar--exact' : 'app-page__avatar--uncertain'"
+            :class="
+              variant === 'exact'
+                ? 'app-page__avatar--exact'
+                : variant === 'distribution'
+                  ? 'app-page__avatar--distribution'
+                  : 'app-page__avatar--uncertain'
+            "
           />
           <n-text tag="h1" strong class="app-page__title">
             {{ title }}
@@ -45,6 +51,6 @@
 <script setup lang="ts">
 defineProps<{
   title: string
-  variant: 'exact' | 'uncertain'
+  variant: 'exact' | 'uncertain' | 'distribution'
 }>()
 </script>

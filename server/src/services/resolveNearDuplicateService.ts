@@ -13,6 +13,8 @@ export type ResolveNearDuplicateBody = {
   key: "near_duplicates";
   /** true — только processed: true, без to_delete в files-list */
   keep_both?: boolean;
+  /** true — processed: true и to_delete: true для обеих сторон в files-list */
+  delete_both?: boolean;
   chosen_side?: ChosenSide;
 };
 
@@ -60,8 +62,9 @@ function findNearPairByUid(
 export async function resolveNearDuplicateChoice(body: unknown): Promise<{
   ok: true;
   pair_uid: string;
-  resolution: "delete_side" | "keep_both";
+  resolution: "delete_side" | "delete_both" | "keep_both";
   file_id?: string;
+  file_ids?: string[];
 }> {
   if (!body || typeof body !== "object") {
     throw new ResolveError(400, "Invalid JSON body");
@@ -70,6 +73,7 @@ export async function resolveNearDuplicateChoice(body: unknown): Promise<{
   const pair_uid = typeof b.pair_uid === "string" ? b.pair_uid.trim() : "";
   const key = b.key;
   const keep_both = b.keep_both === true;
+  const delete_both = b.delete_both === true;
   const chosen_side = b.chosen_side;
 
   if (!pair_uid) {
@@ -77,6 +81,9 @@ export async function resolveNearDuplicateChoice(body: unknown): Promise<{
   }
   if (key !== "near_duplicates") {
     throw new ResolveError(400, 'key must be "near_duplicates"');
+  }
+  if (keep_both && delete_both) {
+    throw new ResolveError(400, "keep_both and delete_both cannot both be true");
   }
 
   const analysisPath = getDuplicatesAnalysisPath();
@@ -102,8 +109,37 @@ export async function resolveNearDuplicateChoice(body: unknown): Promise<{
     };
   }
 
+  if (delete_both) {
+    const leftId =
+      typeof pair.left.file_id === "string" && pair.left.file_id.trim()
+        ? pair.left.file_id.trim().toLowerCase()
+        : "";
+    const rightId =
+      typeof pair.right.file_id === "string" && pair.right.file_id.trim()
+        ? pair.right.file_id.trim().toLowerCase()
+        : "";
+    const ids = [leftId, rightId].filter((v): v is string => Boolean(v));
+    if (ids.length === 0) {
+      throw new ResolveError(400, "Pair has no valid file_id values for delete_both");
+    }
+
+    await markFileIdsToDeleteInResultLists(ids);
+    pair.processed = true;
+    await writeJsonAtomic(analysisPath, doc);
+    invalidateAnalysisCache();
+    return {
+      ok: true,
+      pair_uid,
+      resolution: "delete_both",
+      file_ids: ids,
+    };
+  }
+
   if (!isChosenSide(chosen_side)) {
-    throw new ResolveError(400, 'chosen_side must be "left" or "right" when keep_both is false');
+    throw new ResolveError(
+      400,
+      'chosen_side must be "left" or "right" when keep_both/delete_both are false'
+    );
   }
 
   const fileToMark = fileSnapshot(pair[chosen_side]);

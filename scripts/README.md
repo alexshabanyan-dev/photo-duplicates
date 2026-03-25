@@ -142,9 +142,33 @@ python3 analyze_duplicates/analyze_duplicates.py --include-missing
 
 В отчёте: у каждой пары/группы **`uid`** — **стабильный** 64-символьный id (SHA256 от `file_id` участников; при той же паре файлов не меняется между пересборками). У файлов в индексе и в паре — **`file_id`** (SHA256 от пути). **`processed`: `false`** — отметь **`true`**, когда разобрал. Решения «что удалить» храни отдельно (sidecar/API), не в этом JSON.
 
+**Массово пометить near-пары с удалённой стороной как processed** — `analyze_duplicates/mark_near_processed_if_deleted.py`:
+
+```bash
+cd scripts/analyze_duplicates
+python3 mark_near_processed_if_deleted.py          # dry-run
+python3 mark_near_processed_if_deleted.py --apply  # записать в duplicates-list.json
+```
+
+**near_duplicates: пары «Ева (чат)» × «Iphone Диана»** — у пути с Дианой в result ставится `to_delete: true`, у пары `processed: true` — `analyze_duplicates/resolve_near_eva_chat_vs_iphone_diana.py`:
+
+```bash
+cd scripts/analyze_duplicates
+python3 resolve_near_eva_chat_vs_iphone_diana.py
+python3 resolve_near_eva_chat_vs_iphone_diana.py --apply
+```
+
+**near_duplicates: оба пути содержат подстроку** (по умолчанию `INDIA2026`) — только `processed: true`, `*.files-list.json` не меняются — `analyze_duplicates/mark_near_processed_both_paths_needle.py`:
+
+```bash
+cd scripts/analyze_duplicates
+python3 mark_near_processed_both_paths_needle.py
+python3 mark_near_processed_both_paths_needle.py --apply
+```
+
 **Массово: exact_duplicates, оставить копию из папки по подстроке пути** — `analyze_duplicates/resolve_exact_keep_one_by_path_needle.py`:
 
-- Находит группы, где в `path` есть подстрока (по умолчанию **`INDIA2026`**; сравнение после Unicode NFC). Своя подстрока: `--needle '…'`.
+- Находит группы, где в `path` есть подстрока (по умолчанию **`Армения 2013`**; сравнение после Unicode NFC). Своя подстрока: `--needle '…'`.
 - В каждой такой группе оставляет **первую** по списку копию с этой подстрокой, остальным `file_id` ставит **`to_delete: true`** в `files-list-generator/result/**/*.files-list.json`.
 - Группе выставляет **`processed: true`** в `duplicates-list.json`.
 

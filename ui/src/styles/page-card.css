@@ -22,6 +22,20 @@
     0 0 80px -30px var(--accent-exact-dim);
 }
 
+.n-card.app-page.app-page--distribution {
+  background: linear-gradient(
+    165deg,
+    rgba(99, 102, 241, 0.07) 0%,
+    rgba(15, 23, 42, 0.92) 48%,
+    rgba(15, 23, 42, 0.98) 100%
+  ) !important;
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.4) inset,
+    0 0 0 1px rgba(129, 140, 248, 0.14),
+    0 20px 50px -18px rgba(0, 0, 0, 0.65),
+    0 0 80px -30px rgba(99, 102, 241, 0.22);
+}
+
 .n-card.app-page--uncertain {
   box-shadow:
     0 0 0 1px rgba(0, 0, 0, 0.4) inset,
@@ -75,6 +89,11 @@
 .n-avatar.app-page__avatar--uncertain {
   background: linear-gradient(145deg, #e8b86d, #d4a55a) !important;
   box-shadow: 0 0 20px rgba(232, 184, 109, 0.28);
+}
+
+.n-avatar.app-page__avatar--distribution {
+  background: linear-gradient(145deg, #a78bfa, #6366f1) !important;
+  box-shadow: 0 0 20px rgba(129, 140, 248, 0.35);
 }
 
 .app-page__title {

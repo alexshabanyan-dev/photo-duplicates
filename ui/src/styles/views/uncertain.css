@@ -108,6 +108,26 @@
   border-radius: 12px;
 }
 
+.uncertain-previews__grid .uncertain-preview__heic-fallback {
+  width: 100%;
+  min-height: min(44vh, 480px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem 1rem;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.35);
+  border-radius: 12px;
+  border: 1px dashed rgba(255, 255, 255, 0.12);
+}
+
+.uncertain-preview__heic-fallback__hint {
+  max-width: 280px;
+  text-align: center;
+  line-height: 1.45;
+  font-size: 0.8125rem;
+}
+
 .uncertain-file-card {
   min-width: 0;
 }
@@ -150,6 +170,13 @@
 .uncertain-file__path {
   font-size: 0.75rem;
   word-break: break-all;
+}
+
+/* Путь под кнопкой «к удалению», над превью */
+.uncertain-preview__path {
+  display: block;
+  width: 100%;
+  min-width: 0;
 }
 
 .uncertain-files-grid {

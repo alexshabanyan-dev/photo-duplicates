@@ -1,8 +1,10 @@
 import express from "express";
 import { duplicatesController } from "./controllers/duplicatesController.js";
+import { fileDistributionController } from "./controllers/fileDistributionController.js";
 import { mediaController } from "./controllers/mediaController.js";
 import {
   getDuplicatesAnalysisPath,
+  getFileDistributionJsonPath,
   getFilesListJsonPath,
   getFilesListResultDirPath,
 } from "./paths.js";
@@ -28,6 +30,7 @@ app.get("/health", (_req, res) => {
 });
 
 app.use("/api/duplicates", duplicatesController);
+app.use("/api/file-distribution", fileDistributionController);
 app.use("/api", mediaController);
 
 app.use(
@@ -67,4 +70,8 @@ app.listen(PORT, () => {
   console.log(`  GET /api/duplicates/exact_duplicates/first-not-processed`);
   console.log(`  POST /api/duplicates/exact_duplicates/resolve-choice`);
   console.log(`  GET /api/media/:fileId   (64 hex, file_id из files-list)`);
+  console.log(`  file-distribution: ${getFileDistributionJsonPath()}`);
+  console.log(`  GET /api/file-distribution/first-pending`);
+  console.log(`  POST /api/file-distribution/mark-delete  { file_id }`);
+  console.log(`  POST /api/file-distribution/mark-keep   { file_id }`);
 });

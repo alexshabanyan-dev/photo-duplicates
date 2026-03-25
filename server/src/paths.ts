@@ -23,6 +23,14 @@ const FILES_LIST_RESULT_DIR_SEGMENTS = ["scripts", "files-list-generator", "resu
 /** Путь к отчёту дублей относительно корня репозитория */
 const DUPLICATES_LIST_SEGMENTS = ["scripts", "analyze_duplicates", "duplicates-list.json"] as const;
 
+/** Вывод files-list-generator-parallel.py по умолчанию: result/results.files-list.json */
+const FILE_DISTRIBUTION_LIST_SEGMENTS = [
+  "scripts",
+  "files-list-generator",
+  "result",
+  "results.files-list.json",
+] as const;
+
 function defaultFilesListJson(): string {
   return path.join(REPO_ROOT, ...FILES_LIST_SEGMENTS);
 }
@@ -67,6 +75,16 @@ export function getDuplicatesAnalysisPath(): string {
   const fromEnv = process.env.DUPLICATES_ANALYSIS_JSON;
   if (fromEnv) return path.resolve(fromEnv);
   return defaultDuplicatesListJson();
+}
+
+/**
+ * JSON со списком файлов для страницы «Распределение файлов» (массив записей или { files: [...] }).
+ * Переопределение: FILE_DISTRIBUTION_JSON. Участвует в merge для GET /api/media/:fileId.
+ */
+export function getFileDistributionJsonPath(): string {
+  const fromEnv = process.env.FILE_DISTRIBUTION_JSON;
+  if (fromEnv) return path.resolve(fromEnv);
+  return path.join(REPO_ROOT, ...FILE_DISTRIBUTION_LIST_SEGMENTS);
 }
 
 /** Медиа для превью: <repo>/files (в корне проекта) */

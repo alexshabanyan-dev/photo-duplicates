@@ -26,3 +26,13 @@ export function isVideoFilename(filename: string | undefined | null): boolean {
   const ext = extensionFromFilename(base)
   return VIDEO_EXTENSIONS.has(ext)
 }
+
+/** HEIC/HEIF: сырой файл в большинстве браузеров не декодируется; API медиа на macOS отдаёт JPEG-превью. */
+const HEIC_LIKE_EXTENSIONS = new Set(['.heic', '.heif', '.hif'])
+
+export function isHeicLikeFilename(filename: string | undefined | null): boolean {
+  if (!filename || typeof filename !== 'string') return false
+  const base = filename.split(/[/\\]/).pop() ?? filename
+  const ext = extensionFromFilename(base)
+  return HEIC_LIKE_EXTENSIONS.has(ext)
+}

@@ -18,6 +18,15 @@
             Удалить выбранный
           </n-button>
           <n-button
+            type="error"
+            size="medium"
+            :disabled="submitting || !payload.item.uid"
+            :loading="submitting"
+            @click="onDeleteBoth"
+          >
+            Удалить оба
+          </n-button>
+          <n-button
             type="default"
             size="medium"
             :disabled="submitting || !payload.item.uid"
@@ -174,6 +183,17 @@ async function onKeepBoth(): Promise<void> {
     pair_uid: uid,
     key,
     keep_both: true,
+  });
+}
+
+async function onDeleteBoth(): Promise<void> {
+  const { key } = props.payload;
+  const uid = props.payload.item.uid?.trim();
+  if (!uid) return;
+  await submitResolution({
+    pair_uid: uid,
+    key,
+    delete_both: true,
   });
 }
 </script>

@@ -43,6 +43,8 @@ export type ResolveNearDuplicateRequestBody = {
   key: NearDuplicatesKey
   /** true — только отметить пару обработанной, без to_delete в files-list */
   keep_both?: boolean
+  /** true — пометить к удалению оба файла пары (to_delete: true в *.files-list.json) */
+  delete_both?: boolean
   /** Нужен, если keep_both не true: сторона файла к удалению (to_delete: true в *.files-list.json) */
   chosen_side?: 'left' | 'right'
 }
@@ -50,6 +52,7 @@ export type ResolveNearDuplicateRequestBody = {
 export type ResolveNearDuplicateResponseBody = {
   ok: true
   pair_uid: string
-  resolution?: 'delete_side' | 'keep_both'
+  resolution?: 'delete_side' | 'delete_both' | 'keep_both'
   file_id?: string
+  file_ids?: string[]
 }

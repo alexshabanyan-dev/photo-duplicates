@@ -39,6 +39,13 @@
             >
               {{ selectedSide === 'left' ? 'К удалению: левая' : 'Пометить левую к удалению' }}
             </n-button>
+            <n-text
+              v-if="left.path"
+              depth="3"
+              class="uncertain-file__path uncertain-preview__path"
+            >
+              {{ left.path }}
+            </n-text>
             <div class="uncertain-preview__media" @click.stop>
               <template v-if="leftImageUrl">
                 <video
@@ -82,6 +89,13 @@
             >
               {{ selectedSide === 'right' ? 'К удалению: правая' : 'Пометить правую к удалению' }}
             </n-button>
+            <n-text
+              v-if="right.path"
+              depth="3"
+              class="uncertain-file__path uncertain-preview__path"
+            >
+              {{ right.path }}
+            </n-text>
             <div class="uncertain-preview__media" @click.stop>
               <template v-if="rightImageUrl">
                 <video

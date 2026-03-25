@@ -3,7 +3,7 @@
 Для групп exact_duplicates в duplicates-list.json:
 
   • если в группе есть хотя бы один файл, чей path содержит заданную подстроку
-    (сравнение после Unicode NFC). По умолчанию: «INDIA2026»
+    (сравнение после Unicode NFC). По умолчанию: «Армения 2013»
     (см. DEFAULT_PATH_NEEDLES_NFC). Другую подстроку — через --needle.
 
   • оставляем одну копию — первую в массиве files среди путей с этой подстрокой;
@@ -48,7 +48,7 @@ def path_matches_any(path: str | None, needles_nfc: list[str]) -> bool:
 
 
 DEFAULT_PATH_NEEDLES_NFC: list[str] = [
-    nfc("INDIA2026"),
+    nfc("Диана/archive"),
 ]
 
 
@@ -151,8 +151,8 @@ def main() -> None:
         metavar="TEXT",
         help=(
             "Подстрока в path (после NFC). "
-            "Если не задано — по умолчанию: INDIA2026. "
-            "Пример: --needle 'Помолвка 24.02.2019'."
+            "Если не задано — по умолчанию: «Армения 2013». "
+            "Пример: --needle 'INDIA2026'."
         ),
     )
     parser.add_argument(

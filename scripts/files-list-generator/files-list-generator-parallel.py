@@ -11,6 +11,9 @@
 OUTPUT_JSON_FILENAME (см. комментарии к константам). Зависимости и перезапуск через scripts/.venv —
 как у files-list-generator.py.
 
+По умолчанию в индекс попадают только фото и картинки (см. common.media_constants.PHOTO_INDEX_EXTENSIONS:
+jpg, png, heic, cr2, … без mov/mp4/avi и т.д.). Полный обход без фильтра — флаг --all-files.
+
 Сначала полный обход: считаем файлы и печатаем «Найдено файлов: N», затем обработка.
 В stderr строка прогресса «Обработано: текущий/всего», имя файла и размер. В конце в stdout — время.
 """
@@ -41,8 +44,8 @@ WORKER_COUNT = 4
 #   • иначе — префикс имени файла БЕЗ подпапок: result/(OUTPUT_RESULT_SUBDIR + OUTPUT_JSON_FILENAME).
 #     Пример: "Фото.Диана." + "files-list.json" → result/Фото.Диана.files-list.json
 # OUTPUT_JSON_FILENAME — хвост имени файла (например files-list.json).
-SCAN_ROOT = Path('/Volumes/SAE 1/Фото/Элина')
-OUTPUT_RESULT_SUBDIR = "15_Фото.Элина."
+SCAN_ROOT = Path('/Volumes/SAE 1/Фото')
+OUTPUT_RESULT_SUBDIR = "results."
 OUTPUT_JSON_FILENAME = "files-list.json"
 
 _SCRIPT_DIR = Path(__file__).resolve().parent
@@ -99,7 +102,7 @@ from common.file_index_core import (  # noqa: E402
     iter_files_streaming,
     parallel_build_entry_task,
 )
-from common.media_constants import IMAGE_EXTENSIONS  # noqa: E402
+from common.media_constants import IMAGE_EXTENSIONS, PHOTO_INDEX_EXTENSIONS  # noqa: E402
 
 
 def _effective_workers(requested: int) -> int:
@@ -219,6 +222,11 @@ def main() -> None:
         metavar="N",
         help=f"Число процессов (по умолчанию константа WORKER_COUNT={WORKER_COUNT}; 0 = авто по CPU)",
     )
+    parser.add_argument(
+        "--all-files",
+        action="store_true",
+        help="Не фильтровать по расширению: как раньше, все файлы под корнем (включая видео)",
+    )
     args = parser.parse_args()
 
     root = args.root.resolve()
@@ -246,9 +254,19 @@ def main() -> None:
         sys.stderr.flush()
     paths = list(iter_files_streaming(root, include_hidden=args.include_hidden))
     paths.sort(key=lambda x: str(x).lower())
+    found_all = len(paths)
+    if not args.all_files:
+        ext_set = PHOTO_INDEX_EXTENSIONS
+        paths = [p for p in paths if p.suffix.lower() in ext_set]
     total_files = len(paths)
     if show_progress:
-        sys.stderr.write(f"\rНайдено файлов: {total_files}. Процессов: {workers}\n")
+        if args.all_files:
+            sys.stderr.write(f"\rНайдено файлов: {total_files}. Процессов: {workers}\n")
+        else:
+            sys.stderr.write(
+                f"\rНайдено файлов: {found_all} (после фильтра фото: {total_files}). "
+                f"Процессов: {workers}\n"
+            )
         sys.stderr.flush()
 
     done_count = 0
@@ -322,7 +340,11 @@ def main() -> None:
     out_path.write_text(json.dumps(entries_list, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     elapsed = time.perf_counter() - t_start
-    print(f"Записано: {out_path} ({len(entries_list)} записей, корень: {root}, процессов: {workers})")
+    mode = "все файлы" if args.all_files else "только фото (PHOTO_INDEX_EXTENSIONS)"
+    print(
+        f"Записано: {out_path} ({len(entries_list)} записей, корень: {root}, "
+        f"процессов: {workers}, режим: {mode})"
+    )
     print(f"Время выполнения: {_format_duration(elapsed)}")
 
     if args.quiet:

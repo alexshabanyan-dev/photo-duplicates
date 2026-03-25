@@ -2,6 +2,7 @@ import { readdir, readFile, stat } from "node:fs/promises";
 import path from "node:path";
 import {
   REPO_ROOT,
+  getFileDistributionJsonPath,
   getFilesListJsonPath,
   getFilesListResultDirPath,
   getStorageFilesRoot,
@@ -70,6 +71,31 @@ type CacheState = { signature: string; idToPath: Map<string, string> };
 
 let cache: CacheState | null = null;
 
+/** Сброс кэша карты file_id → path (после правок JSON со списком файлов). */
+export function invalidateFilesIndexCache(): void {
+  cache = null;
+}
+
+async function appendFileDistributionIndexIfPresent(
+  signatureParts: string[],
+  indexes: ParsedIndex[],
+): Promise<void> {
+  const fdPath = getFileDistributionJsonPath();
+  try {
+    const st = await stat(fdPath);
+    const buf = await readFile(fdPath);
+    const raw: unknown = JSON.parse(buf.toString("utf-8"));
+    signatureParts.push(`fd:${fdPath}:${st.mtimeMs}`);
+    indexes.push(parseSingleIndex(raw));
+  } catch (e) {
+    const code = e && typeof e === "object" && "code" in e ? (e as NodeJS.ErrnoException).code : undefined;
+    if (code === "ENOENT") {
+      return;
+    }
+    console.warn(`[filesIndexService] skip FILE_DISTRIBUTION_JSON ${fdPath}:`, e);
+  }
+}
+
 async function collectIndexFilesRecursive(dir: string): Promise<string[]> {
   const out: string[] = [];
   const list = await readdir(dir, { withFileTypes: true });
@@ -102,9 +128,12 @@ async function buildIndexesInput(): Promise<{
     const st = await stat(filePath);
     const buf = await readFile(filePath);
     const raw: unknown = JSON.parse(buf.toString("utf-8"));
+    const sigParts = [`single:${filePath}:${st.mtimeMs}`];
+    const indexes = [parseSingleIndex(raw)];
+    await appendFileDistributionIndexIfPresent(sigParts, indexes);
     return {
-      signature: `single:${filePath}:${st.mtimeMs}`,
-      indexes: [parseSingleIndex(raw)],
+      signature: sigParts.join("|"),
+      indexes,
     };
   }
 
@@ -115,12 +144,18 @@ async function buildIndexesInput(): Promise<{
   } catch (e) {
     const code = e && typeof e === "object" && "code" in e ? (e as NodeJS.ErrnoException).code : undefined;
     if (code === "ENOENT") {
-      return { signature: `dir:${resultDir}:missing`, indexes: [] };
+      const sigParts = [`dir:${resultDir}:missing`];
+      const indexes: ParsedIndex[] = [];
+      await appendFileDistributionIndexIfPresent(sigParts, indexes);
+      return { signature: sigParts.join("|"), indexes };
     }
     throw e;
   }
   if (files.length === 0) {
-    return { signature: `dir:${resultDir}:empty`, indexes: [] };
+    const sigParts = [`dir:${resultDir}:empty`];
+    const indexes: ParsedIndex[] = [];
+    await appendFileDistributionIndexIfPresent(sigParts, indexes);
+    return { signature: sigParts.join("|"), indexes };
   }
 
   const sigParts: string[] = [`dir:${resultDir}`];
@@ -132,6 +167,7 @@ async function buildIndexesInput(): Promise<{
     const raw: unknown = JSON.parse(buf.toString("utf-8"));
     indexes.push(parseSingleIndex(raw));
   }
+  await appendFileDistributionIndexIfPresent(sigParts, indexes);
   return { signature: sigParts.join("|"), indexes };
 }
 

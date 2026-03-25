@@ -1,0 +1,158 @@
+{
+  "target_path": "/Volumes/SAE 1/Фото",
+  "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+  "subfolders": [
+    {
+      "target_path": "/Volumes/SAE 1/Фото/IMG_1223.JPG",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 1,
+      "processed_files": 1,
+      "deleted_files": 0,
+      "remaining_to_process": 0
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/IMG_1879.JPG",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 1,
+      "processed_files": 1,
+      "deleted_files": 0,
+      "remaining_to_process": 0
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/IMG_3712.JPG",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 1,
+      "processed_files": 1,
+      "deleted_files": 0,
+      "remaining_to_process": 0
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Iphone Диана",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 2794,
+      "processed_files": 2794,
+      "deleted_files": 0,
+      "remaining_to_process": 0
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/iPhone 12",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 907,
+      "processed_files": 907,
+      "deleted_files": 0,
+      "remaining_to_process": 0
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Диана",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 778,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 778
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Диана 2",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 6275,
+      "processed_files": 1486,
+      "deleted_files": 0,
+      "remaining_to_process": 4789
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Друзья",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 20,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 20
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Ева",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 10207,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 10207
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Мама",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 3321,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 3321
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Помолвка 24.02.2019",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 125,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 125
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Прыжок с парашютом",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 206,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 206
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Путешествия",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 2977,
+      "processed_files": 2977,
+      "deleted_files": 0,
+      "remaining_to_process": 0
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Разное",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 141,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 141
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Старые семейные",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 817,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 817
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Танцы_Цветы Армении",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 66,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 66
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Универ",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 3,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 3
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Школа",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 112,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 112
+    },
+    {
+      "target_path": "/Volumes/SAE 1/Фото/Элина",
+      "input_json": "/Users/alexander/Desktop/MyProjects/photo-duplicates/scripts/files-list-generator/result/results.files-list.json",
+      "total_files": 32,
+      "processed_files": 0,
+      "deleted_files": 0,
+      "remaining_to_process": 32
+    }
+  ]
+}
